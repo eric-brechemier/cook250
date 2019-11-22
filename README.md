@@ -9,3 +9,7 @@ by the [City of Paris][CMA].
 
 [EPSAA]: https://epsaa.fr/formation/cours-du-soir-pour-adultes
 [CMA]: https://www.paris.fr/pages/cours-municipaux-d-adultes-205
+
+## Assets
+
+* [Research Notebook](./research-notebook/README.md)
