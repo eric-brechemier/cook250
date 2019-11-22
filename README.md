@@ -2,7 +2,7 @@
 Graphic design research project about 250th anniversary
 of James Cook's arrival in New Zealand
 
-This research wass done in the context of the adult education
+This research was done in the context of the adult education
 class of Visual Communication, level 1, organized at [EPSAA][]
 from October 7th 2019 to February 3rd 2020
 by the [City of Paris][CMA].
