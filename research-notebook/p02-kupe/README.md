@@ -2,7 +2,7 @@
 
 #### Kupe, The Great Navigator
 
-![Kupe, The Great Navigator](pictures/)
+![Kupe, The Great Navigator](pictures/kupe-stamps.png)
 
 > Kupe - The Great Navigator Sheetlet
 > Mint sheetlet of eight gummed stamps
