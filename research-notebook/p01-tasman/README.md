@@ -678,7 +678,7 @@ in 1644 along a different route, and never returned to New Zealand.
 
 ![Cape Foulwind, folio 62 in Tasman Journal](pictures/folio62-cape-foulwind.jpg)
 
-Source: Tasman’s journal in the National Archief, The Hague, The Netherlands
+Source: Tasman’s journal in the National Archief, The Hague, The Netherlands  
 Downloaded from: [Abel Tasman 1642](http://abeltasman.org.nz/images/)
 
 #### References
