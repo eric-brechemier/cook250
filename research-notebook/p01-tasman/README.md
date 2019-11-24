@@ -1,4 +1,4 @@
-### Page 01: Abel Tasman
+### Abel Tasman
 
 [Abel Tasman][TASMAN] was a Dutch explorer employed by the
 [Dutch East India Company][VOC] to find the mythical
