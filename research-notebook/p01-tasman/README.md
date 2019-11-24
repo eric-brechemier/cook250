@@ -7,6 +7,16 @@
 Source: Tasman’s journal in the National Archief, The Hague, The Netherlands  
 Downloaded from: [Abel Tasman 1642](http://abeltasman.org.nz/images/)
 
+> New Zealand was first seen by European eyes when Abel Tasman came upon
+> the west coast of the South Island. One of Tasman’s associates,
+> Isaac Gilsemans, sketched the coast from just north of Punakaiki
+> up to Rocky Point (today’s Cape Foulwind).
+>
+> These sketches are the first European representation of New Zealand.
+> The script on the map refers to Staten Landt, the name Tasman gave to
+> the country.
+> — https://teara.govt.nz/en/artwork/1406/tasmans-first-view-of-new-zealand
+
 ---
 
 [Abel Tasman][TASMAN] was a Dutch explorer employed by the
@@ -681,6 +691,55 @@ Back to Indonesia, his expedition concluded on 15 June 1643. His exploration
 of the discovered lands was found lacking, and he was sent on a second trip
 in 1644 along a different route, and never returned to New Zealand.
 
+#### More Images
+
+* [Images extracted from Tasman Journal](http://abeltasman.org.nz/images/)
+* [Facsimile of Tasman Journal](https://www.nationaalarchief.nl/en/research/archive/1.11.01.01/inventory?inventarisnr=121&activeTab=gahetnascans)
+
+##### Tasman 375 Logo
+
+![Tasman 375 Logo](pictures/tasman375.jpg)
+
+Source: [Tasman 375 Project](https://tasman375.groningen.nl/en/over-tasman-375)
+
+##### Turbid Waters Surround New Zealand
+
+![View of sediment from New Zealand flowing in the Pacific Ocean](pictures/turbid-waters-surround-nz.jpg)
+
+> View of sediment from New Zealand flowing in the Pacific Ocean.
+> The volume of sediment in the water hints at rough seas.
+> Distinctive plumes arise from pulsing rivers,
+> while the halo of turquoise around both islands is likely sediment
+> swept up to the ocean surface by powerful waves.
+> The plumes fan out and fade from tan to green and blue
+> with water depth and distance from the shore.
+>
+> The Cook Strait, the narrow strip of water separating the North
+> and South Islands of New Zealand, has a reputation for being among
+> the world’s roughest stretches of water. The islands lie within the
+> “Roaring Forties,” a belt of winds that circles the globe around
+> 40 degrees south. The westerlies hit the islands side on and run
+> into the mountain ranges. The Cook Strait is the only opening for
+> the winds, so the channel becomes something of a wind tunnel.
+> Strong winds produce high waves, and they erode the shore as shown
+> in the image.
+> — https://en.wikipedia.org/wiki/File:Turbid_Waters_Surround_New_Zealand.jpg
+
+##### Hollandia Nova Terre Australe (1663)
+
+![Map reporting findings of Tasman's first voyage](pictures/hollandia-nova-1663.png)
+
+Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Thevenot_-_Hollandia_Nova_detecta_1644.png)
+
+> This map was published in Melchisedech Thévenot's
+> Relations de divers voyages curieux... [Tales of various strange voyages...].
+> Paris, 1663.
+>
+> This was the first appearance in print of Abel Tasman's discoveries
+> and revealed to the world the extent of the Dutch charting of
+> the fifth continent.
+> — https://www2.sl.nsw.gov.au/archive/events/exhibitions/2006/firstsight/images/s11.html
+
 #### References
 
 ##### Abel Tasman Museum (NL)
@@ -696,6 +755,10 @@ in 1644 along a different route, and never returned to New Zealand.
 * [What happened in 1642](http://abeltasman.org.nz/what-happened-in-1642/)
 * [New Zealand images from Tasman’s journal](http://abeltasman.org.nz/images/)
 
+##### Encyclopaedia Britannica
+
+* [Abel Tasman](https://www.britannica.com/biography/Abel-Tasman)
+
 ##### Project Gutenberg Australia
 
 * [English Translation of Tasman's handwritten Journal](http://gutenberg.net.au/ebooks06/0600571h.html#journal)
@@ -709,10 +772,22 @@ in 1644 along a different route, and never returned to New Zealand.
 
 * [Facsimile of Abel Tasman's handwritten Journal](http://archival.sl.nsw.gov.au/Details/archive/110320645)
 
+##### Tasman 1642
+
+* [Tasman 1642](http://tasman1642.com.au/)
+
+#### Te Ara, The Encyclopedia of New Zealand
+
+* [Tasman’s first view of New Zealand](https://teara.govt.nz/en/artwork/1406/tasmans-first-view-of-new-zealand)
+* [Story: European discovery of New Zealand](https://teara.govt.nz/en/european-discovery-of-new-zealand)
+* [Conflict at Murderers Bay](https://teara.govt.nz/en/artwork/1407/conflict-at-murderers-bay)
+* [Terra australis incognita](https://teara.govt.nz/en/zoomify/1403/terra-australis-incognita)
+
 ##### Wikipedia
 
 * [Abel Tasman][TASMAN]
 * [Dutch East India Company][VOC]
+* [European exploration of Australia](https://en.wikipedia.org/wiki/European_exploration_of_Australia)
 * [Golden Bay / Mohua][GOLDEN_BAY]
 * [Roaring Forties][ROARING40s]
 * [Tasman Sea][TASMAN_SEA]
