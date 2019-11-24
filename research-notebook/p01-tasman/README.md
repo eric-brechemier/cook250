@@ -15,6 +15,7 @@ Downloaded from: [Abel Tasman 1642](http://abeltasman.org.nz/images/)
 > These sketches are the first European representation of New Zealand.
 > The script on the map refers to Staten Landt, the name Tasman gave to
 > the country.
+>
 > — https://teara.govt.nz/en/artwork/1406/tasmans-first-view-of-new-zealand
 
 ---
@@ -723,6 +724,7 @@ Source: [Tasman 375 Project](https://tasman375.groningen.nl/en/over-tasman-375)
 > the winds, so the channel becomes something of a wind tunnel.
 > Strong winds produce high waves, and they erode the shore as shown
 > in the image.
+>
 > — https://en.wikipedia.org/wiki/File:Turbid_Waters_Surround_New_Zealand.jpg
 
 ##### Hollandia Nova Terre Australe (1663)
@@ -738,6 +740,7 @@ Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Thevenot_-_Hollandia
 > This was the first appearance in print of Abel Tasman's discoveries
 > and revealed to the world the extent of the Dutch charting of
 > the fifth continent.
+>
 > — https://www2.sl.nsw.gov.au/archive/events/exhibitions/2006/firstsight/images/s11.html
 
 #### References
