@@ -672,6 +672,15 @@ Back to Indonesia, his expedition concluded on 15 June 1643. His exploration
 of the discovered lands was found lacking, and he was sent on a second trip
 in 1644 along a different route, and never returned to New Zealand.
 
+#### Pictures
+
+##### Cape Foulwind, the earliest image of New Zealand (folio 62)
+
+![Cape Foulwind, folio 62 in Tasman Journal](pictures/folio62-cape-foulwind.jpg)
+
+Source: Tasman’s journal in the National Archief, The Hague, The Netherlands
+Downloaded from: [Abel Tasman 1642](http://abeltasman.org.nz/images/)
+
 #### References
 
 ##### Abel Tasman Museum (NL)
