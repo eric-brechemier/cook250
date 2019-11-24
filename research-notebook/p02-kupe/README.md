@@ -5,6 +5,7 @@
 ![Kupe, The Great Navigator](pictures/kupe-stamps.png)
 
 > Kupe - The Great Navigator Sheetlet
+>
 > Mint sheetlet of eight gummed stamps
 
 Source: [New Zealand Post](https://stamps.nzpost.co.nz/new-zealand/2019/kupe-great-navigator)
