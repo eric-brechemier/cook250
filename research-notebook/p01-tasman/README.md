@@ -1,6 +1,6 @@
 ### Abel Tasman
 
-##### Cape Foulwind, the earliest image of New Zealand (folio 62)
+#### Cape Foulwind, the earliest image of New Zealand (folio 62)
 
 ![Cape Foulwind, folio 62 in Tasman Journal](pictures/folio62-cape-foulwind.jpg)
 
