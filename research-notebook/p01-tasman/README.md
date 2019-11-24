@@ -7,6 +7,8 @@
 Source: Tasman’s journal in the National Archief, The Hague, The Netherlands  
 Downloaded from: [Abel Tasman 1642](http://abeltasman.org.nz/images/)
 
+---
+
 [Abel Tasman][TASMAN] was a Dutch explorer employed by the
 [Dutch East India Company][VOC] to find the mythical
 "Southern Continent" or [Terra Australis][TERRA_AUSTRALIS],
