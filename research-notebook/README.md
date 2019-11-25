@@ -10,5 +10,5 @@ reimagined as a photo album.
 
 ### Pages
 
-* [01: Abel Tasman](p01-tasman/README.md)
-* [02: Kupe](p02-kupe/README.md)
+* [05: Abel Tasman](p05-tasman/README.md)
+* [06: Kupe](p06-kupe/README.md)
