@@ -13,6 +13,8 @@ Source: [Abel Tasman 1642](http://abeltasman.org.nz/articles-research/heemskerck
 
 #### More Images
 
+##### Abel Tasman 1642
+
 * [Heemskerck and Zeehaen](http://abeltasman.org.nz/articles-research/heemskerck-zeehaen/)
 * [New Zealand images from Tasman’s journal](http://abeltasman.org.nz/images/)
 
