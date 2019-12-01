@@ -25,5 +25,5 @@ Source: [Abel Tasman 1642](http://abeltasman.org.nz/articles-research/heemskerck
 
 ##### Wikipedia
 
-* [Abel Tasman][TASMAN]
+* [Abel Tasman](https://en.wikipedia.org/wiki/Abel_Tasman)
 
