@@ -12,17 +12,17 @@ reimagined as a photo album.
 
 * [01: Cook 250](p01-cook-250/README.md)
 * [02: Māui](p02-maui/README.md)
-* [03: Terra Australis](p01-terra-australis/README.md)
+* [03: Terra Australis](p03-terra-australis/README.md)
 * [04: Zealandia](p04-zealandia/README.md)
-* [05: Roaring Forties](p03-roaring-forties/README.md)
+* [05: Roaring Forties](p05-roaring-forties/README.md)
 * [06: Kupe](p06-kupe/README.md)
-* [07: Abel Tasman](p05-tasman/README.md)
+* [07: Abel Tasman](p07-tasman/README.md)
 * [08: Waka](p08-waka/README.md)
-* [09: Heemskerck and Zeehaen](p07-heemskerck-and-zeehaen/README.md)
+* [09: Heemskerck and Zeehaen](p09-tasman-ships/README.md)
 * [10: Waka Landing Places](p10-waka-landing/README.md)
-* [11: First Encounters](p09-first-encounters/README.md)
+* [11: First Encounters](p11-first-encounters/README.md)
 * [12: Pacific Migration](p12-pacific-migration/README.md)
-* [13: Tasman Map](p11-tasman-map/README.md)
+* [13: Tasman Map](p13-tasman-map/README.md)
 
 
 
