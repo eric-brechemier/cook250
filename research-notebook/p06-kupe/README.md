@@ -15,39 +15,32 @@ Source: [New Zealand Post](https://stamps.nzpost.co.nz/new-zealand/2019/kupe-gre
 * [House carving showing Kupe (holding a paddle), with two sea creatures at his feet](https://en.wikipedia.org/wiki/File:KupeWheke.jpg)
 * [Kupe battling Te Wheke](https://historyaotearoa.com/2019/01/09/history-of-aotearoa-new-zealand-episode-3-kupe-and-te-wheke/)
 
-##### Our Place Names
+##### Abel Tasman 1642
 
-> The language of our place names creates a striking snapshot
-> of New Zealand's history. The map below is coloured based on
-> whether the place name contains Māori or English. As you can
-> see Māori names dominate the North Island outside of Auckland and
-> Wellington, while the South Island has predominantly English names.
->
-> — https://insights.nzherald.co.nz/article/our-place-names/
-
-![Māori and non-Māori landmarks in New Zealand](pictures/maori-names-in-nz.png)
-
-* [Our Place Names (NZ Herald)](https://insights.nzherald.co.nz/article/our-place-names/)
-* [Identify Māori text (GitHub)](https://github.com/TeHikuMedia/nga-kupu)
+* [Kupe’s Sails](http://abeltasman.org.nz/kupes/)
 
 ##### Te Ara, The Encyclopedia of New Zealand
 
 * [Statue of Kupe on the Wellington waterfront](https://teara.govt.nz/en/photograph/14132/statue-of-kupe)
-* [Waka landing places](https://teara.govt.nz/en/interactive/14130/waka-landing-places)
+* [Battling Te Wheke](https://teara.govt.nz/en/artwork/6800/battling-te-wheke)
 
 ##### Te Papa Tongarewa (Museum of New Zealand)
 
 * [Kupe Sites: A photographic journey ](https://www.tepapa.govt.nz/discover-collections/read-watch-play/maori/kupe-sites-photographic-journey)
 
+##### Virtual New Zealand Stamps
+
+* [2019 Kupe - The Great Navigator](http://virtualnewzealandstamps.blogspot.com/2019/07/2019-kupe-great-navigator.html)
+
 #### References
+
+##### Abel Tasman 1642
+
+* [Kupe’s Sails](http://abeltasman.org.nz/kupes/)
 
 ##### History of Aotearoa New Zealand Podcast
 
 * [Kupe and Te Wheke](https://historyaotearoa.com/2019/01/09/history-of-aotearoa-new-zealand-episode-3-kupe-and-te-wheke/)
-
-##### Māori Maps
-
-* [About us](https://maorimaps.com/about-us)
 
 ##### New Zealand Post
 
@@ -57,6 +50,10 @@ Source: [New Zealand Post](https://stamps.nzpost.co.nz/new-zealand/2019/kupe-gre
 
 * [Encounters](https://nzhistory.govt.nz/culture/encounters)
 * [Te Haerenga o Kupe](https://linz.maps.arcgis.com/apps/Cascade/index.html?appid=be9ec5ec3dc24405bc0d2a769fae81ee)
+
+##### NZ On Screen
+
+* [Kupe - Voyaging by the Stars](https://www.nzonscreen.com/title/kupe-voyaging-by-the-stars-1993)
 
 ##### Te Ara, The Encyclopedia of New Zealand
 
