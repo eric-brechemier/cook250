@@ -8,6 +8,11 @@ Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Le_Testu_1556_4th
 
 #### More Images
 
+##### Princeton University Library
+
+* [Terra Australis](https://lib-dbserver.princeton.edu/visual_materials/maps/websites/pacific/pacific-ocean/terra-australis.html)
+* [Act II: The Second Voyage](https://lib-dbserver.princeton.edu/visual_materials/maps/websites/pacific/cook2/cook2.html)
+
 ##### Te Ara - The Encyclopedia of New Zealand
 
 * [Terra australis incognita](https://teara.govt.nz/en/zoomify/1403/terra-australis-incognita)
@@ -28,6 +33,10 @@ Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Le_Testu_1556_4th
 ##### Internet Archive
 
 * [Cosmographie universelle, selon les navigateurs tant anciens que modernes](https://archive.org/details/LeTestu1555Bnf42467457f/page/n1)
+
+##### Princeton University Library
+
+* [Terra Australis](https://lib-dbserver.princeton.edu/visual_materials/maps/websites/pacific/pacific-ocean/terra-australis.html)
 
 ##### Wikipedia
 
