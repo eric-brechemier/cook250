@@ -27,3 +27,9 @@ Source: [RugbyPass](https://www.rugbypass.com/news/english-football-star-mocks-h
 ##### New Zealand Tourism
 
 * [Haka - Māori war dances](https://www.newzealand.com/nouvelle-z%C3%A9lande/feature/haka/)
+
+#### References
+
+##### The Guardian
+
+* [The haka isn’t yours – stop performing it](https://www.theguardian.com/world/commentisfree/2020/jan/23/the-haka-isnt-yours-stop-performing-it)
