@@ -92,6 +92,6 @@
 
 ##### Tupapa
 
-* [First Landing](https://www.tupapa.nz/stories/encounters-with-cook/first-landing)
+* [Te Maro Encounter](https://www.tupapa.nz/stories/encounters-with-cook/first-landing/te-maro-encounter)
 * [Encounters with Cook](https://www.tupapa.nz/stories/encounters-with-cook)
 
