@@ -38,6 +38,10 @@ Source: [New Zealand Post](https://stamps.nzpost.co.nz/new-zealand/2019/kupe-gre
 
 * [Kupe’s Sails](http://abeltasman.org.nz/kupes/)
 
+##### Encyclopedia Mythica
+
+* [Kupe](https://pantheon.org/articles/k/kupe.html)
+
 ##### History of Aotearoa New Zealand Podcast
 
 * [Kupe and Te Wheke](https://historyaotearoa.com/2019/01/09/history-of-aotearoa-new-zealand-episode-3-kupe-and-te-wheke/)
