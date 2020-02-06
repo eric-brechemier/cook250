@@ -16,69 +16,86 @@ reimagined as a photo album.
 * [03: Terra Australis](p03-terra-australis/README.md)
 
 * [04: Zealandia](p04-zealandia/README.md)
-* [05: Roaring Forties](p05-roaring-forties/README.md)
+* 05: Ring of Fire
 
-* [06: Kupe](p06-kupe/README.md)
-* [07: Abel Tasman](p07-abel-tasman/README.md)
+* [06: Hawaiki](p06-hawaiki/README.md)
+* [07: Roaring Forties](p07-roaring-forties/README.md)
 
-* [08: Mātāwhaorua](p08-matawhaorua/README.md)
-* [09: Heemskerck and Zeehaen](p09-tasman-ships/README.md)
+* [08: Kupe](p08-kupe/README.md)
+* [09: Abel Tasman](p09-abel-tasman/README.md)
 
-* [10: Waka Landing Places](p10-waka-landing/README.md)
-* [11: First Encounters](p11-first-encounters/README.md)
+* [10: Mātāwhaorua](p10-matawhaorua/README.md)
+* [11: Heemskerck and Zeehaen](p11-tasman-ships/README.md)
 
-* [12: Pacific Migration](p12-pacific-migration/README.md)
-* [13: Tasman Map](p13-tasman-map/README.md)
+* 12: Aotearoa
+* 13: New Zealand
 
-* [14: Tupaia](p14-tupaia/README.md)
-* [15: James Cook](p15-james-cook/README.md)
+* [14: Waka Landing Places](p14-waka-landing/README.md)
+* [15: First Encounters](p15-first-encounters/README.md)
 
-* [16: Star Navigation](p16-star-navigation/README.md)
-* [17: Endeavour](pXX-endeavour/README.md)
+* [16: Pacific Migration](p16-pacific-migration/README.md)
+* [17: Tasman Map](p17-tasman-map/README.md)
 
-* [18: Crook Cook](p18-crook-cook/README.md)
-* 19: Cook's Arrival to New Zealand
+* [18: Tupaia](p18-tupaia/README.md)
+* [19: James Cook](p19-james-cook/README.md)
 
-* [20: Murder of Te Maro](p20-te-maro/README.md)
-* 21: Botanist part of Cook's crew
+* [20: Star Navigation](p20-star-navigation/README.md)
+* 21: Endeavour
 
-* [22: Murder of Te Rakau](p22-te-rakau/README.md)
-* 23: Cook taking possession of New Zealand in the name of the UK
+* [22: Crook Cook](p22-crook-cook/README.md)
+* 23: Cook's Arrival to New Zealand
 
-* [24: Māori Place Names](p24-maori-place-names/README.md)
-* 25: Cook's chart of New Zealand
+* [24: Te Maro](p24-te-maro/README.md)
+* 25: Botanists: Joseph Banks, Daniel Solander and Sydney Parkinson
 
-* 26: Another History of Great Discoveries
-* 27: Great Discoveries
+* [26: Te Rakau](p26-te-rakau/README.md)
+* 27: Cook taking possession of New Zealand in the name of the UK
 
-* [28: Māori Flag](p28-maori-flag/README.md)
-* [29: New Zealand Flag](p29-new-zealand-flag/README.md)
+* [28: Māori Place Names](p28-maori-place-names/README.md)
+* 29: Cook's chart of New Zealand
 
-* [30: Kiwi Bird](p30-kiwi-bird/README.md)
-* [31: Kiwi Fruit](p31-kiwi-fruit/README.md)
+* 30: Another History of Great Discoveries
+* 31: Great Discoveries
 
-* [32: Māori Symbols](p32-maori-symbols/README.md)
-* [33: Silver Fern](p33-silver-fern/README.md)
+* 32: New Zealand Wars
+* 33: Treaty of Waitangi
 
-* [34: Pounamu](p34-pounamu/README.md)
-* [35: Tā moko](p35-ta-moko/README.md)
+* [34: Māori Flag](p34-maori-flag/README.md)
+* [34: New Zealand Flag](p35-new-zealand-flag/README.md)
 
-* [36: Hongi](p36-hongi/README.md)
-* [37: Haka](p37-haka/README.md)
+* [36: Māori Symbols](p36-maori-symbols/README.md)
+* [37: Silver Fern](p37-silver-fern/README.md)
 
-* [38: Time to tell our story](p38-time-to-tell-our-story/README.md)
-* [39: New and Old](p39-new-and-old/README.md)
+* [38: Pounamu](p38-pounamu/README.md)
+* [39: Tā moko](p39-ta-moko/README.md)
 
-* 40: Treaty of Watangi
-* 41: New Zealand Wars
+* [40: Hongi](p40-hongi/README.md)
+* [41: Haka](p41-haka/README.md)
 
-* [42: Ambigram](p42-ambigram/README.md)
-* 43: Cocacolonization
+* [42: Kiwi Bird](p42-kiwi-bird/README.md)
+* [43: Kiwi Fruit](p43-kiwi-fruit/README.md)
 
-* 44: Camouflage
-* 45: Helvetica
+* 44: Old and New
+* [45: New and Old](p45-new-and-old/README.md)
 
+* [46: Time to tell our story](p44-time-to-tell-our-story/README.md)
+* 47: Abel Tasman 1642
 
+* 48: No Celebration
+* 49: Tuia 250
 
+* 50: Cocacolonization
+* 51: Coca-Cola: Celebrate
 
+* [52: Ambigram](p52-ambigram/README.md)
+* 53: Princess Bride
+
+* 54: Whakarare
+* 55: Helvetica
+
+* 56: Josef Albers, Interaction of Color
+* 57: La couleur, c'est la misère de la peinture
+
+* 58: Camouflage
+* 59: Colors
 
