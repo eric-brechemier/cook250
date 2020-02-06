@@ -105,3 +105,7 @@ reimagined as a photo album.
 * 62: sos chaos
 * 63: Cook 250
 
+* 64: Poster: Māori perspective
+* 65: Poster: European perspective
+
+
