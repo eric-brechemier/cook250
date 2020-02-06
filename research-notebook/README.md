@@ -99,3 +99,9 @@ reimagined as a photo album.
 * 58: Camouflage
 * 59: Colors
 
+* 60: In Memoriam Te Maro
+* 61: Discovery of New Zealand by James Cook
+
+* 62: sos chaos
+* 63: Cook 250
+
