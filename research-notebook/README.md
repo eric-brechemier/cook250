@@ -90,7 +90,7 @@ reimagined as a photo album.
 * [52: Ambigram](p52-ambigram/README.md)
 * 53: Princess Bride
 
-* 54: Whakarare
+* [54: Whakarare](p54-whakarare/README.md)
 * 55: Helvetica
 
 * 56: Josef Albers, Interaction of Color
