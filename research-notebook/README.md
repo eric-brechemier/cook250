@@ -16,7 +16,7 @@ reimagined as a photo album.
 * [03: Terra Australis](p03-terra-australis/README.md)
 
 * [04: Zealandia](p04-zealandia/README.md)
-* 05: Ring of Fire
+* [05: Ring of Fire](p05-ring-of-fire/README.md)
 
 * [06: Hawaiki](p06-hawaiki/README.md)
 * [07: Roaring Forties](p07-roaring-forties/README.md)
@@ -28,7 +28,7 @@ reimagined as a photo album.
 * [11: Heemskerck and Zeehaen](p11-tasman-ships/README.md)
 
 * 12: Aotearoa
-* 13: New Zealand
+* [13: New Zealand](p13-new-zealand/README.md)
 
 * [14: Waka Landing Places](p14-waka-landing/README.md)
 * [15: First Encounters](p15-first-encounters/README.md)
@@ -42,32 +42,32 @@ reimagined as a photo album.
 * [20: Star Navigation](p20-star-navigation/README.md)
 * 21: Endeavour
 
-* [22: Crook Cook](p22-crook-cook/README.md)
-* 23: Cook's Arrival to New Zealand
+* 22: Horouta
+* [23: Cook's Arrival to New Zealand](p23-cook-arrival/README.md)
 
 * [24: Te Maro](p24-te-maro/README.md)
-* 25: Botanists: Joseph Banks, Daniel Solander and Sydney Parkinson
+* [25: Botanists: Joseph Banks, Daniel Solander and Sydney Parkinson](p25-botanists/README.md)
 
 * [26: Te Rakau](p26-te-rakau/README.md)
-* 27: Cook taking possession of New Zealand in the name of the UK
+* [27: Claim on New Zealand](p27-claim-on-new-zealand/README.md)
 
 * [28: Māori Place Names](p28-maori-place-names/README.md)
-* 29: Cook's chart of New Zealand
+* [29: Cook's chart of New Zealand](p29-cook-chart/README.md)
 
 * 30: Another History of Great Discoveries
-* 31: Great Discoveries
+* [31: Great Discoveries](p31-great-discoveries/README.md)
 
 * 32: New Zealand Wars
-* 33: Treaty of Waitangi
+* [33: Treaty of Waitangi](p33-treaty-of-waitangi/README.md)
 
 * [34: Māori Flag](p34-maori-flag/README.md)
-* [34: New Zealand Flag](p35-new-zealand-flag/README.md)
+* [35: New Zealand Flag](p35-new-zealand-flag/README.md)
 
 * [36: Māori Symbols](p36-maori-symbols/README.md)
 * [37: Silver Fern](p37-silver-fern/README.md)
 
 * [38: Pounamu](p38-pounamu/README.md)
-* [39: Tā moko](p39-ta-moko/README.md)
+* [39: Tā Moko](p39-ta-moko/README.md)
 
 * [40: Hongi](p40-hongi/README.md)
 * [41: Haka](p41-haka/README.md)
@@ -75,37 +75,43 @@ reimagined as a photo album.
 * [42: Kiwi Bird](p42-kiwi-bird/README.md)
 * [43: Kiwi Fruit](p43-kiwi-fruit/README.md)
 
-* 44: Old and New
+* [44: Old and New](p44-old-and-new/README.md)
 * [45: New and Old](p45-new-and-old/README.md)
 
-* [46: Time to tell our story](p44-time-to-tell-our-story/README.md)
+* [46: Time to tell our story](p46-time-to-tell-our-story/README.md)
 * 47: Abel Tasman 1642
 
-* 48: No Celebration
-* 49: Tuia 250
+* [48: Puhi Kai Iti / Cook Landing Site National Historic Reserve](p48-puhi-kai-iti/README.md)
+* 49: Captain Cook Memorial
 
-* 50: Cocacolonization
-* 51: Coca-Cola: Celebrate
+* [50: Crook Cook](p50-crook-cook/README.md)
+* 51: Captain Cook Legacy
 
-* [52: Ambigram](p52-ambigram/README.md)
-* 53: Princess Bride
+* [52: No Celebration](p52-no-celebration/README.md)
+* [53: Tuia 250](p53-tuia-250/README.md)
 
-* [54: Whakarare](p54-whakarare/README.md)
-* 55: Helvetica
+* 54: Cocacolonization
+* 55: Coca-Cola: Celebrate
 
-* 56: Josef Albers, Interaction of Color
-* 57: La couleur, c'est la misère de la peinture
+* [56: Ambigram](p52-ambigram/README.md)
+* 57: Princess Bride
 
-* 58: Camouflage
-* 59: Colors
+* [58: Whakarare](p54-whakarare/README.md)
+* 59: Helvetica
 
-* 60: In Memoriam Te Maro
-* 61: Discovery of New Zealand by James Cook
+* 60: Josef Albers, Interaction of Color
+* 61: La couleur, c'est la misère de la peinture
 
-* 62: sos chaos
-* 63: Cook 250
+* 62: Camouflage
+* [63: Colors](p63-colors/README.md)
 
-* 64: Poster: Māori perspective
-* 65: Poster: European perspective
+* 64: In Memoriam Te Maro
+* 65: Discovery of New Zealand by James Cook
+
+* 66: sos chaos
+* 67: Cook 250
+
+* 68: Poster: Māori perspective
+* 69: Poster: European perspective
 
 
