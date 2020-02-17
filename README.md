@@ -13,3 +13,4 @@ by the [City of Paris][CMA].
 ## Assets
 
 * [Research Notebook](./research-notebook/README.md)
+* [Poster](./poster/README.md)
