@@ -29,8 +29,8 @@ perspective, written upside down compared to the European perspective.
 
 The Māori perspective presents an obituary of Te Maro, the first victim,
 of a long list, of explorers lead by James Cook. It occupies the remaining
-part of the poster (3/12). This In Memoriam is presented both in Māori and
-in English, side by side. It puts the European invasion and pretended
+part of the poster (3/12). This In Memoriam is presented both in Te Reo Māori
+and in English, side by side. It puts the European invasion and pretended
 discovery of New Zealand with the long voyaging tradition of the Māori
 and their much earlier settlement of Aotearoa long before it was renamed
 to New Zealand by European explorers.
