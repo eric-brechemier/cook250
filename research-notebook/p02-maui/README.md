@@ -1,6 +1,6 @@
 ### Māui
 
-#### Maui and the Fish - Te Ika-a-Maui
+#### Māui fishing New Zealand out of the ocean
 
 ![Maui and the Fish - Te Ika-a-Maui](pictures/15x10cm-maui-and-the-fish.jpg)
 
