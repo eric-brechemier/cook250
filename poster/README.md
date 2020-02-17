@@ -34,3 +34,10 @@ and in English, side by side. It puts the European invasion and pretended
 discovery of New Zealand with the long voyaging tradition of the Māori
 and their much earlier settlement of Aotearoa long before it was renamed
 to New Zealand by European explorers.
+
+### Assets
+
+* [Poster in Scribus format](cook250.sla)
+* [Copy for the poster](copy.txt)
+* In Memoriam in English ([TXT](in-memoriam-te-maro.txt) and [RTF](in-memoriam-te-maro.rtf))
+
