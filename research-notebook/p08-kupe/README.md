@@ -2,7 +2,7 @@
 
 #### Kupe, The Great Navigator
 
-![Kupe, The Great Navigator](pictures/kupe-stamps.png)
+![Kupe, The Great Navigator, by Dave Burke](pictures/kupe-stamps.png)
 
 > Kupe - The Great Navigator Sheetlet
 >
