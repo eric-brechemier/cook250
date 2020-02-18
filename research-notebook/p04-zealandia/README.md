@@ -4,7 +4,27 @@
 
 Source: [University of Nebraska–Lincoln](https://news.unl.edu/newsrooms/today/article/what-makes-a-continent-husker-geologist-says-zealandia-fits/)
 
+> Te Riu-a-Māui literally means the hills, valleys and plains of Māui -
+> the great East Polynesian ancestor explorer of the Pacific Ocean.
+> Riu means hull (of a canoe), basin (like the Waikato basin), a belly,
+> the core (of a body). It is the whole that holds the parts together.
+>
+> Māui is an ancestor of all Polynesians. He sailed and explored the great
+> ocean and caught the fish which he and his crew pulled up. The fish became
+> many of the islands we know today. The name Te Riu-a-Māui brings together
+> traditional oral narratives and geological science.
+>
+> The convention with dual names is that the Māori name comes first
+> e.g. Aotearoa/New Zealand, Aoraki/Mt Cook.
+>
+> — https://www.gns.cri.nz/Home/News-and-Events/What-s-new/The-origin-and-meaning-of-the-name-Te-Riu-a-Maui-Zealandia
+
 #### More Images
+
+##### GNS Science
+
+* [Te Riu-a-Māui Zealandia](https://www.gns.cri.nz/Home/Learning/Science-Topics/Ocean-Floor/Te-Riu-a-Maui-Zealandia)
+* [The origin and meaning of the name Te Riu-a-Māui/Zealandia](https://www.gns.cri.nz/Home/News-and-Events/What-s-new/The-origin-and-meaning-of-the-name-Te-Riu-a-Maui-Zealandia)
 
 ##### Shutterstock
 
@@ -27,6 +47,11 @@ Source: [University of Nebraska–Lincoln](https://news.unl.edu/newsrooms/today/
 * [Zealandia Topography](https://en.wikipedia.org/wiki/File:Zealandia_topography.jpg)
 
 #### References
+
+##### GNS Science
+
+* [Te Riu-a-Māui Zealandia](https://www.gns.cri.nz/Home/Learning/Science-Topics/Ocean-Floor/Te-Riu-a-Maui-Zealandia)
+* [The origin and meaning of the name Te Riu-a-Māui/Zealandia](https://www.gns.cri.nz/Home/News-and-Events/What-s-new/The-origin-and-meaning-of-the-name-Te-Riu-a-Maui-Zealandia)
 
 ##### My Modern MET
 
