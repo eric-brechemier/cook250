@@ -17,22 +17,6 @@ which was assumed to be required to keep the Earth in balance.
 
 Source: [Tasman 375 Project](https://tasman375.groningen.nl/en/over-tasman-375)
 
-##### Hollandia Nova Terre Australe (1663)
-
-![Map reporting findings of Tasman's first voyage](pictures/hollandia-nova-1663.png)
-
-Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Thevenot_-_Hollandia_Nova_detecta_1644.png)
-
-> This map was published in Melchisedech Thévenot's
-> Relations de divers voyages curieux... [Tales of various strange voyages...].
-> Paris, 1663.
->
-> This was the first appearance in print of Abel Tasman's discoveries
-> and revealed to the world the extent of the Dutch charting of
-> the fifth continent.
->
-> — https://www2.sl.nsw.gov.au/archive/events/exhibitions/2006/firstsight/images/s11.html
-
 #### References
 
 ##### Abel Tasman Museum (NL)
