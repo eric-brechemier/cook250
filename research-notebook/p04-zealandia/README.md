@@ -1,8 +1,8 @@
-### Zealandia
+### Te Riu-a-Māui - Zealandia
 
-![Zealandia Topography](pictures/zealandia_topography.jpg)
+![Te Riu-a-Māui/Zealandia](pictures/15x10cm-te-riu-a-maui-zealandia.png)
 
-Source: [Wikimedia](https://en.wikipedia.org/wiki/File:Zealandia_topography.jpg)
+Source: [University of Nebraska–Lincoln](https://news.unl.edu/newsrooms/today/article/what-makes-a-continent-husker-geologist-says-zealandia-fits/)
 
 #### More Images
 
@@ -21,6 +21,10 @@ Source: [Wikimedia](https://en.wikipedia.org/wiki/File:Zealandia_topography.jpg)
 ##### University of Tasmania
 
 * [Researchers explore lost ancient continent of Zealandia](http://www.utas.edu.au/news/2017/9/27/419-researchers-explore-lost-ancient-continent-of-zealandia/)
+
+##### Wikipedia
+
+* [Zealandia Topography](https://en.wikipedia.org/wiki/File:Zealandia_topography.jpg)
 
 #### References
 
