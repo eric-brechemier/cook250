@@ -6,6 +6,8 @@
 a gigantic land mass expected to cover 1/5th of the world,
 which was assumed to be required to keep the Earth in balance.
 
+![Tasman's Discovery of New Zealand, Centennial of New Zealand Stamp, 1940](pictures/15x10cm-abel-tasman-stamp.jpg)
+
 Source: [Filatelia e Storia](https://filateliaestoria.weebly.com/trivial/il-navigatore-olandese-abel-tasman-scopre-la-nuova-zelanda)
 
 #### More Images
