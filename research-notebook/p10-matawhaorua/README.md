@@ -1,6 +1,6 @@
 ### Mātāwhaorua
 
-![Mātāwhaorua](15x10cm-matawhaorua.jpg)
+![Mātāwhaorua](pictures/15x10cm-matawhaorua.jpg)
 
 > According to many tribal narratives,
 > Kupe was the first Pacific explorer to discover the islands of New Zealand.
