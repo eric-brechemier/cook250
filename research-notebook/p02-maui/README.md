@@ -2,7 +2,7 @@
 
 #### Māui fishing New Zealand out of the ocean
 
-![Te Ika-a-Maui mural by E. Mervyn Taylor (1962)](pictures/te-ika-a-maui-mural-by-e-mervyn-taylor.jpg)
+![Te Ika-a-Māui mural by E. Mervyn Taylor (1962)](pictures/te-ika-a-maui-mural-by-e-mervyn-taylor.jpg)
 
 Source: [NOTED](https://www.noted.co.nz/culture/culture-arts/e-mervyn-taylor-in-search-of-the-missing-murals-of-a-kiwi-artist)
 
@@ -21,13 +21,13 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 
 ##### New Zealand Post
 
-![Maui and the Fish - Te Ika-a-Maui](pictures/15x10cm-maui-and-the-fish.jpg)
+![Māui and the Fish - Te Ika-a-Māui](pictures/15x10cm-maui-and-the-fish.jpg)
 
-* [Maui and the Fish - Te Ika-a-Maui](https://stamps.nzpost.co.nz/new-zealand/2018/maui-and-fish-te-ika-maui)
+* [Māui and the Fish - Te Ika-a-Māui](https://stamps.nzpost.co.nz/new-zealand/2018/maui-and-fish-te-ika-maui)
 
 ##### Project Gutenberg
 
-* [VIII Maui - The creation of New Zealand](https://www.gutenberg.org/files/54610/54610-h/54610-h.htm#VIII)
+* [VIII Māui - The creation of New Zealand](https://www.gutenberg.org/files/54610/54610-h/54610-h.htm#VIII)
 
 ##### Te Ara, The Encyclopedia of New Zealand
 
@@ -52,7 +52,7 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 ##### Project Gutenberg
 
 * [Te Tohunga: The ancient legends and traditions of the Maoris by W. Dittmer](https://www.gutenberg.org/ebooks/54610)
-* [VIII Maui - The creation of New Zealand](https://www.gutenberg.org/files/54610/54610-h/54610-h.htm#VIII)
+* [VIII Māui - The creation of New Zealand](https://www.gutenberg.org/files/54610/54610-h/54610-h.htm#VIII)
 
 ##### Stuff NZ
 
