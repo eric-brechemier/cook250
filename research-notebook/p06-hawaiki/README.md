@@ -2,6 +2,36 @@
 
 ![Hawaiki, as depicted in Civilization VI video game](15x10cm-civilization-VI-hawaiki.jpg)
 
+> From Hawaiki to Hawaiki
+>
+> Hawaiki, the legendary homeland of the Maori peoples
+> of Aotearoa/New Zealand, from whence we migrated to
+> this land about 1000 years ago. Where is Hawaiki?
+> Many have speculated that it lies somewhere in the
+> Pacific, somewhere in Polynesia.
+>
+> Modern scholars tell us that more than 15,000 years ago
+> we lived on the land now called China, and that from there
+> we travelled via Taiwan and the Philippines to Indonesia.
+> About 6,000 to 9,000 years ago we moved on through Melanesia
+> and reached Fiji about 3,500 years ago. From there to Samoa
+> and on to the Marquesas 2,500 years ago. Perhaps that was the
+> limit of our eastern migration for it seems that 1,700 years
+> ago we turned South West to Tahiti, thence to the Cook Islands
+> and to Aotearoa/New Zealand. Where then is the legendary
+> homeland of Hawaiki?
+>
+> Our tribal stories tell us that at the death of our bodies
+> our spirits live on and journey back to Hawaiki; to the meeting
+> place of the spirits at Great Hawaiki, Long Hawaiki, Hawaiki
+> Far Away. Life then is a journey from Hawaiki to Hawaiki, the
+> spiritual homeland of the Maori. And Hawaiki is with us always,
+> carried in our hearts through thousands of generations, and
+> thousands of years of migration; carried also through the lifetime
+> of a single heart wherever it may journey.
+>
+> — https://maaori.com/people/maoriara.htm
+
 #### More Images
 
 ##### Sid Meier's Civilization
