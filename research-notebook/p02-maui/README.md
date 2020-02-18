@@ -2,9 +2,9 @@
 
 #### Māui fishing New Zealand out of the ocean
 
-![Maui and the Fish - Te Ika-a-Maui](pictures/15x10cm-maui-and-the-fish.jpg)
+![Te Ika-a-Maui mural by E. Mervyn Taylor (1962)](pictures/te-ika-a-maui-mural-by-e-mervyn-taylor.jpg)
 
-Source: [New Zealand Post Stamps](https://stamps.nzpost.co.nz/new-zealand/2018/maui-and-fish-te-ika-maui)
+Source: [NOTED](https://www.noted.co.nz/culture/culture-arts/e-mervyn-taylor-in-search-of-the-missing-murals-of-a-kiwi-artist)
 
 > Many Europeans were fascinated by Māori mythology.
 > One was the German artist Wilhelm Dittmer,
@@ -20,6 +20,8 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 #### More Images
 
 ##### New Zealand Post
+
+![Maui and the Fish - Te Ika-a-Maui](pictures/15x10cm-maui-and-the-fish.jpg)
 
 * [Maui and the Fish - Te Ika-a-Maui](https://stamps.nzpost.co.nz/new-zealand/2018/maui-and-fish-te-ika-maui)
 
@@ -42,6 +44,10 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 ##### New Zealand Tourism — 100% Pure New Zealand
 
 * [The Legend of New Zealand](https://www.newzealand.com/us/feature/the-legend-of-new-zealand/)
+
+##### NOTED
+
+* [In search of the missing murals of E Mervyn Taylor](https://www.noted.co.nz/culture/culture-arts/e-mervyn-taylor-in-search-of-the-missing-murals-of-a-kiwi-artist)
 
 ##### Project Gutenberg
 
