@@ -1,6 +1,16 @@
 ### Hawaiki
 
 
+#### More Images
+
+##### Sid Meier's Civilization
+
+* [Civilization VI: Gathering Storm – Kupe Leads the Maori](https://civilization.com/news/entries/civilization-vi-gathering-storm-first-look-maori-kupe-leader-pc-release-date-february-14-2019/)
+
+##### Te Ara — The Encyclopedia of New Zealand
+
+* [Hawaiki](https://teara.govt.nz/en/artwork/3803/hawaiki)
+* [Meeting house, Te Papa Tongarewa](https://teara.govt.nz/en/photograph/2384/meeting-house-te-papa-tongarewa)
 
 #### References
 
@@ -23,6 +33,8 @@
 ##### Te Ara — The Encyclopedia of New Zealand
 
 * [Story: Hawaiki](https://teara.govt.nz/en/hawaiki)
+* [Hawaiki](https://teara.govt.nz/en/artwork/3803/hawaiki)
+* [Meeting house, Te Papa Tongarewa](https://teara.govt.nz/en/photograph/2384/meeting-house-te-papa-tongarewa)
 
 ##### Victoria University of Wellington Library
 
