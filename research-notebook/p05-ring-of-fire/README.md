@@ -1,5 +1,9 @@
 ### Ring of Fire
 
+![Ring of Fire](pictures/15x10cm-ring-of-fire.png)
+
+Source: [CNN/USGS](https://edition.cnn.com/2017/09/08/world/ring-of-fire-explainer/index.html)
+
 #### More Images
 
 ##### USGS
