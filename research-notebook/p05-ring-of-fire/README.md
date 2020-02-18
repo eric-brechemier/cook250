@@ -1,5 +1,11 @@
 ### Ring of Fire
 
+#### More Images
+
+##### USGS
+
+* [Pacific Plate boundaries and relative motion](https://www.usgs.gov/media/images/pacific-plate-boundaries-and-relative-motion)
+
 #### References
 
 ##### CNN
