@@ -764,7 +764,9 @@ Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Thevenot_-_Hollandia
 
 ##### Project Gutenberg Australia
 
+* [Abel Janszoon TASMAN (c.1603-1659)](http://gutenberg.net.au/pages/tasman.html)
 * [English Translation of Tasman's handwritten Journal](http://gutenberg.net.au/ebooks06/0600571h.html#journal)
+* [The Journal of Abel Jansz Tasman](http://gutenberg.net.au/ebooks04/0400771.txt)
 
 ##### Six Boats
 
