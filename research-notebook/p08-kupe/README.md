@@ -19,6 +19,14 @@ Source: [New Zealand Post](https://stamps.nzpost.co.nz/new-zealand/2019/kupe-gre
 
 * [Kupe’s Sails](http://abeltasman.org.nz/kupes/)
 
+##### Cryptid Wiki on Fandom
+
+* [Te Wheke-a-Muturangi](https://cryptidz.fandom.com/wiki/Te_Wheke-a-Muturangi)
+
+##### Sid Meier's Civilization
+
+* [Civilization VI: Gathering Storm – Kupe Leads the Maori](https://civilization.com/news/entries/civilization-vi-gathering-storm-first-look-maori-kupe-leader-pc-release-date-february-14-2019/)
+
 ##### Te Ara, The Encyclopedia of New Zealand
 
 * [Statue of Kupe on the Wellington waterfront](https://teara.govt.nz/en/photograph/14132/statue-of-kupe)
@@ -30,7 +38,12 @@ Source: [New Zealand Post](https://stamps.nzpost.co.nz/new-zealand/2019/kupe-gre
 
 ##### Virtual New Zealand Stamps
 
+* [Kupe and The First Maori Settlers](http://virtualnewzealandstamps.blogspot.com/2016/07/kupe-and-first-maori-settlers.html)
 * [2019 Kupe - The Great Navigator](http://virtualnewzealandstamps.blogspot.com/2019/07/2019-kupe-great-navigator.html)
+
+##### Wikipedia
+
+* [Kupe Wheke](https://commons.wikimedia.org/wiki/File:KupeWheke.jpg)
 
 #### References
 
@@ -86,6 +99,12 @@ Source: [New Zealand Post](https://stamps.nzpost.co.nz/new-zealand/2019/kupe-gre
 * [New Zealand Landscape as Culture: Islands (Ngā Motu)](https://www.edx.org/course/new-zealand-landscape-as-culture-islands-nga-motu)
 * [New Zealand Landscape as Culture: Maunga (Mountains)](https://www.edx.org/course/new-zealand-landscape-as-culture-maunga-mountains)
 
+##### Virtual New Zealand Stamps
+
+* [Kupe and The First Maori Settlers](http://virtualnewzealandstamps.blogspot.com/2016/07/kupe-and-first-maori-settlers.html)
+
 ##### Wikipedia
 
 * [Kupe](https://en.wikipedia.org/wiki/Kupe)
+* [Te Wheke-a-Muturangi](https://en.wikipedia.org/wiki/Te_Wheke-a-Muturangi)
+
