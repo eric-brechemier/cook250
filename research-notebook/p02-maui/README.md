@@ -2,7 +2,7 @@
 
 #### Māui fishing New Zealand out of the ocean
 
-![Te Ika-a-Māui mural by E. Mervyn Taylor (1962)](pictures/te-ika-a-maui-mural-by-e-mervyn-taylor.jpg)
+![Te Ika-a-Māui mural by E. Mervyn Taylor (1962)](pictures/15x10cm-te-ika-a-maui-mural-by-e-mervyn-taylor.jpg)
 
 Source: [NOTED](https://www.noted.co.nz/culture/culture-arts/e-mervyn-taylor-in-search-of-the-missing-murals-of-a-kiwi-artist)
 
