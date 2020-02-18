@@ -345,4 +345,38 @@ until they reached the northernmost tip of the North Island on January 4th.
 Tasman then set hist course further north, leaving New Zealand where neither
 he nor any of his men had set foot.
 
+#### More Images
+
+#### More Images
+
+##### Abel Tasman 1642
+
+* [New Zealand images from Tasman’s journal](http://abeltasman.org.nz/images/)
+
+#### Te Ara, The Encyclopedia of New Zealand
+
+* [Conflict at Murderers Bay](https://teara.govt.nz/en/artwork/1407/conflict-at-murderers-bay)
+
+#### References
+
+##### Abel Tasman Museum (NL)
+
+* [Tasman 375 Project](https://tasman375.groningen.nl/en/over-tasman-375)
+* [A Deadly Misunderstanding](https://tasman375.groningen.nl/en/reisverslagen/misverstand-loopt-uit-de-hand)
+* [Trapped][TRAPPED]
+
+[TRAPPED]: https://tasman375.groningen.nl/en/reisverslagen/trapped
+
+##### Six Boats
+
+* [Trapped](http://sixboats.co.nz/trapped/)
+* [More land](http://sixboats.co.nz/more-land/)
+
+#### Te Ara, The Encyclopedia of New Zealand
+
+* [Story: European discovery of New Zealand](https://teara.govt.nz/en/european-discovery-of-new-zealand)
+
+#### Wikipedia
+
+* [Golden Bay / Mohua](https://en.wikipedia.org/wiki/Golden_Bay)
 

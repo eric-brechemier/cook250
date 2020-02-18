@@ -128,6 +128,20 @@ on the [Tasman Map][TASMAN_MAP], drawn circa 1644 based on his charts.
 * [What happened in 1642](http://abeltasman.org.nz/what-happened-in-1642/)
 * [Heemskerck and Zeehaen](http://abeltasman.org.nz/articles-research/heemskerck-zeehaen/)
 
+##### Abel Tasman Museum (NL)
+
+* [Tasman 375 Project](https://tasman375.groningen.nl/en/over-tasman-375)
+* [Do giants live here?](https://tasman375.groningen.nl/en/reisverslagen/wonen-hier-reuzen)
+* [In the mist](https://tasman375.groningen.nl/en/reisverslagen/in-de-mist)
+
+##### Project Gutenberg Australia
+
+* [English Translation of Tasman's handwritten Journal](http://gutenberg.net.au/ebooks06/0600571h.html#journal)
+
+##### State Library, New South Wales
+
+* [Facsimile of Abel Tasman's handwritten Journal](http://archival.sl.nsw.gov.au/Details/archive/110320645)
+
 ##### Wikipedia
 
 * [Abel Tasman][TASMAN]

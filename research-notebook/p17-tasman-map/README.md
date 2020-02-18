@@ -273,3 +273,14 @@ of exploration.
 Back to Indonesia, his expedition concluded on 15 June 1643. His exploration
 of the discovered lands was found lacking, and he was sent on a second voyage
 in 1644 along a different route, and never returned to New Zealand.
+
+#### References
+
+##### Wikipedia
+
+* [Tasman Map][TASMAN_MAP]
+* [Tasman Sea][TASMAN_SEA]
+
+[TASMAN_SEA]: https://en.wikipedia.org/wiki/Tasman_Sea
+[TASMAN_MAP]: https://en.wikipedia.org/wiki/Abel_Tasman#Tasman_Map
+

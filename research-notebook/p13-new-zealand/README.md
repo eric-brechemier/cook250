@@ -119,15 +119,27 @@ navigate north and east for several days:
 >
 > — http://gutenberg.net.au/ebooks06/0600571h.html
 
+#### More Images
+
+##### Abel Tasman 1642
+
+* [New Zealand images from Tasman’s journal](http://abeltasman.org.nz/images/)
+
 #### References
 
-##### New Zealand Tourism — 100% Pure New Zealand
+##### Project Gutenberg Australia
 
-* [New Zealand people](https://www.newzealand.com/us/feature/new-zealand-people/)
-* [New Zealand geography & geology](https://www.newzealand.com/us/feature/new-zealand-geography-and-geology/)
-* [New Zealand plants & animals](https://www.newzealand.com/us/feature/new-zealand-flora-and-fauna/)
-* [New Zealand History](https://www.newzealand.com/us/history/)
-* [Māori culture](https://www.newzealand.com/us/maori-culture/)
+* [English Translation of Tasman's handwritten Journal](http://gutenberg.net.au/ebooks06/0600571h.html#journal)
+
+##### State Library, New South Wales
+
+* [Facsimile of Abel Tasman's handwritten Journal](http://archival.sl.nsw.gov.au/Details/archive/110320645)
+
+#### Te Ara, The Encyclopedia of New Zealand
+
+* [Tasman’s first view of New Zealand](https://teara.govt.nz/en/artwork/1406/tasmans-first-view-of-new-zealand)
+* [Story: European discovery of New Zealand](https://teara.govt.nz/en/european-discovery-of-new-zealand)
+* [Terra australis incognita](https://teara.govt.nz/en/zoomify/1403/terra-australis-incognita)
 
 ##### Wikipedia
 
