@@ -6,10 +6,21 @@
 a gigantic land mass expected to cover 1/5th of the world,
 which was assumed to be required to keep the Earth in balance.
 
+Source: [Filatelia e Storia](https://filateliaestoria.weebly.com/trivial/il-navigatore-olandese-abel-tasman-scopre-la-nuova-zelanda)
+
 #### More Images
 
-* [Images extracted from Tasman Journal](http://abeltasman.org.nz/images/)
-* [Facsimile of Tasman Journal](https://www.nationaalarchief.nl/en/research/archive/1.11.01.01/inventory?inventarisnr=121&activeTab=gahetnascans)
+##### Groninger Museum
+
+* [Portrait of Abel Tasman in Groningen](https://www.groningermuseum.nl/en/art/exhibitions/portrait-abel-tasman-comes-home-groningen)
+
+##### National Library New Zealand
+
+* [Page of a book featuring an image of Abel Tasman by an unidentified artist](https://natlib.govt.nz/records/23244422?search%5Bi%5D%5Busage%5D=Unknown&search%5Bil%5D%5Bsubject%5D=Tasman%2C+Abel+Janszoon%2C+1603%3F-1659%3F&search%5Bpath%5D=photos)
+
+##### Tasman 1642
+
+* [Tasman](http://tasman1642.com.au/#tasman)
 
 ##### Tasman 375 Logo
 
@@ -31,6 +42,10 @@ Source: [Tasman 375 Project](https://tasman375.groningen.nl/en/over-tasman-375)
 ##### Encyclopaedia Britannica
 
 * [Abel Tasman](https://www.britannica.com/biography/Abel-Tasman)
+
+##### National Archives NL
+
+* [Facsimile of Tasman Journal](https://www.nationaalarchief.nl/en/research/archive/1.11.01.01/inventory?inventarisnr=121&activeTab=gahetnascans)
 
 ##### Project Gutenberg Australia
 
