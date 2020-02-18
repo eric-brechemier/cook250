@@ -21,7 +21,7 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 
 ##### New Zealand Post
 
-![Māui and the Fish - Te Ika-a-Māui](pictures/15x10cm-maui-and-the-fish.jpg)
+![Māui and the Fish - Te Ika-a-Māui, by David Hakaraia](pictures/15x10cm-maui-and-the-fish.jpg)
 
 * [Māui and the Fish - Te Ika-a-Māui](https://stamps.nzpost.co.nz/new-zealand/2018/maui-and-fish-te-ika-maui)
 
