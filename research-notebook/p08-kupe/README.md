@@ -21,6 +21,8 @@ Source: [New Zealand Post](https://stamps.nzpost.co.nz/new-zealand/2019/kupe-gre
 
 ##### Cryptid Wiki on Fandom
 
+![Kupe battling Te Wheke](pictures/15x10cm-kupe-battling-te-wheke.jpg)
+
 * [Te Wheke-a-Muturangi](https://cryptidz.fandom.com/wiki/Te_Wheke-a-Muturangi)
 
 ##### Sid Meier's Civilization
