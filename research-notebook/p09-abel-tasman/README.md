@@ -14,6 +14,8 @@ Source: [Filatelia e Storia](https://filateliaestoria.weebly.com/trivial/il-navi
 
 ##### Groninger Museum
 
+![Jacob Gerritsz Cuyp, Portrait of Abel Tasman, his wife and daughter c.1637, National Gallery of Australia, Canberra](pictures/15x10cm-abel-tasman-wife-and-daughter.jpg)
+
 * [Portrait of Abel Tasman in Groningen](https://www.groningermuseum.nl/en/art/exhibitions/portrait-abel-tasman-comes-home-groningen)
 
 ##### National Library New Zealand
