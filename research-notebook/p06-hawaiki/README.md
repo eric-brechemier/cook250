@@ -1,6 +1,6 @@
 ### Hawaiki
 
-![Hawaiki, as depicted in Civilization VI video game](15x10cm-civilization-VI-hawaiki.jpg)
+![Hawaiki, as depicted in Civilization VI video game](pictures/15x10cm-civilization-VI-hawaiki.jpg)
 
 > From Hawaiki to Hawaiki
 >
