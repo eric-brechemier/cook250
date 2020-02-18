@@ -25,7 +25,7 @@ reimagined as a photo album.
 * [09: Abel Tasman](p09-abel-tasman/README.md)
 
 * [10: Mātāwhaorua](p10-matawhaorua/README.md)
-* [11: Heemskerck and Zeehaen](p11-tasman-ships/README.md)
+* [11: Heemskerck and Zeehaen](p11-heemskerck-and-zeehaen/README.md)
 
 * 12: Aotearoa
 * [13: New Zealand](p13-new-zealand/README.md)
