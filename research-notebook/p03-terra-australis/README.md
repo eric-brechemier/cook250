@@ -1,8 +1,8 @@
 ### Terra Australis
 
-#### Cosmographie Universelle, 4ème projection (1556)
+#### Guillaume Le Testu, Cosmographie Universelle, 4ème projection (1556)
 
-![Cosmographie Universelle, 4ème projection](pictures/cosmographie-universelle-4e-projection.jpg)
+![Cosmographie Universelle, 4ème projection](pictures/15x10cm-le-testu-cosmographie-universelle-4th-projection.jpg)
 
 Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Le_Testu_1556_4th_projection.jpg)
 
