@@ -17,30 +17,6 @@ which was assumed to be required to keep the Earth in balance.
 
 Source: [Tasman 375 Project](https://tasman375.groningen.nl/en/over-tasman-375)
 
-##### Turbid Waters Surround New Zealand
-
-![View of sediment from New Zealand flowing in the Pacific Ocean](pictures/turbid-waters-surround-nz.jpg)
-
-> View of sediment from New Zealand flowing in the Pacific Ocean.
-> The volume of sediment in the water hints at rough seas.
-> Distinctive plumes arise from pulsing rivers,
-> while the halo of turquoise around both islands is likely sediment
-> swept up to the ocean surface by powerful waves.
-> The plumes fan out and fade from tan to green and blue
-> with water depth and distance from the shore.
->
-> The Cook Strait, the narrow strip of water separating the North
-> and South Islands of New Zealand, has a reputation for being among
-> the world’s roughest stretches of water. The islands lie within the
-> “Roaring Forties,” a belt of winds that circles the globe around
-> 40 degrees south. The westerlies hit the islands side on and run
-> into the mountain ranges. The Cook Strait is the only opening for
-> the winds, so the channel becomes something of a wind tunnel.
-> Strong winds produce high waves, and they erode the shore as shown
-> in the image.
->
-> — https://en.wikipedia.org/wiki/File:Turbid_Waters_Surround_New_Zealand.jpg
-
 ##### Hollandia Nova Terre Australe (1663)
 
 ![Map reporting findings of Tasman's first voyage](pictures/hollandia-nova-1663.png)
