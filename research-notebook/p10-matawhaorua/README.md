@@ -1,5 +1,7 @@
 ### Mātāwhaorua
 
+![Mātāwhaorua](15x10cm-matawhaorua.jpg)
+
 > According to many tribal narratives,
 > Kupe was the first Pacific explorer to discover the islands of New Zealand.
 > Stories about his exploration on his canoe,
@@ -9,8 +11,6 @@
 > of Māori people, recall his journey.
 >
 > — https://nzhistory.govt.nz/culture/encounters/polynesian-voyaging
-
-![Waka](pictures/waka.png)
 
 Source: [Tupapa](https://www.tupapa.nz/)
 
