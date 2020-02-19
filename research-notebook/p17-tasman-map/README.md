@@ -2,7 +2,7 @@
 
 #### Hollandia Nova Terre Australe (1663)
 
-![Map reporting findings of Tasman's first voyage](pictures/hollandia-nova-1663.png)
+![Map reporting findings of Tasman's first voyage](pictures/15x10cm-tasman-map.jpg)
 
 Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Thevenot_-_Hollandia_Nova_detecta_1644.png)
 
