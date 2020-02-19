@@ -2,7 +2,7 @@
 
 #### Cape Foulwind, the earliest image of New Zealand (folio 62)
 
-![Cape Foulwind, folio 62 in Tasman Journal](pictures/folio62-cape-foulwind.jpg)
+![Cape Foulwind, folio 62 in Tasman Journal](pictures/15x10cm-new-zealand-cape-foulwind.jpg)
 
 Source: Tasman’s journal in the National Archief, The Hague, The Netherlands  
 Downloaded from: [Abel Tasman 1642](http://abeltasman.org.nz/images/)
@@ -124,6 +124,10 @@ navigate north and east for several days:
 ##### Abel Tasman 1642
 
 * [New Zealand images from Tasman’s journal](http://abeltasman.org.nz/images/)
+
+##### Eric Bréchemier on Flickr
+
+* [Teddy in New Zealand](https://www.flickr.com/photos/eric_brechemier/3319885337/in/album-72157611251752316/)
 
 #### References
 
