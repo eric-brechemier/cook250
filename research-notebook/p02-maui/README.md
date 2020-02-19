@@ -19,6 +19,10 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 
 #### More Images
 
+##### Eric Bréchemier on Flickr
+
+* [Te Papa Treasures](https://www.flickr.com/photos/eric_brechemier/3319884409/in/album-72157611251752316/)
+
 ##### New Zealand Post
 
 ![Māui and the Fish - Te Ika-a-Māui, by David Hakaraia](pictures/15x10cm-maui-and-the-fish.jpg)
