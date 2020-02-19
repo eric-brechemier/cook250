@@ -7,7 +7,7 @@
 > Hoving and Emke’s reconstructions in The Ships of Abel Tasman (2000).
 > Two minor differences are mizzenmasts and waist storage of large open boats.
 
-![Heemskerck and Zeehaen](pictures/2-Cape-Fairwind.jpg)
+![Heemskerck and Zeehaen](pictures/15x10cm-heemskerck-and-zeehaen.jpg)
 
 Source: [Abel Tasman 1642](http://abeltasman.org.nz/articles-research/heemskerck-zeehaen/)
 
