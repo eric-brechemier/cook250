@@ -1,6 +1,6 @@
 ### Pacific Migration
 
-![Pacific migration](pictures/pacific-migration.jpg)
+![Pacific migration](pictures/15x10cm-pacific-migrations.jpg)
 
 > The vast expanse of the Pacific Ocean was explored and settled
 > by sailing large double-hulled canoes from island to island.
