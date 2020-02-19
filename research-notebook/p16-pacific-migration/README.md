@@ -33,6 +33,10 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/map/5
 
 * [Who were the first humans to reach New Zealand?](https://www.stuff.co.nz/science/100629585/dna-who-were-the-first-humans-to-reach-aotearoa)
 
+##### Wikimedia
+
+* [First human migration to New Zealand](https://commons.wikimedia.org/wiki/File:First_human_migration_to_New_Zealand.svg)
+
 #### References
 
 ##### Abel Tasman 1642
