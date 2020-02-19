@@ -1,6 +1,19 @@
 ### First Encounters
 
+![View of Murderers Bay, a multi-layered image of the events that unfolded in Golden Bay on 18/19 December 1642 (folio 65)](pictures/15x10cm-murderers-bay.jpg)
 
+> **Conflict at Murderers Bay**
+>
+> The first encounter between Māori and Europeans took place
+> in December 1642 at what is now called Golden Bay.
+> Tasman named it Murderers Bay after a violent encounter with Māori.
+> As Māori approached the Dutch ships in canoes,
+> one canoe rammed a ship’s boat that was passing between
+> Tasman’s two vessels, killing four Dutchmen.
+> One Māori was hit by a shot from Tasman's men in response to the attack.
+> The event was sketched by Isaac Gilsemans, who sailed with Tasman.
+>
+> — https://teara.govt.nz/en/artwork/1407/conflict-at-murderers-bay
 
 #### First Sightings
 
