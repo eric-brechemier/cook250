@@ -9,11 +9,29 @@
 
 Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/map/5994/pacific-migration)
 
+> Since the late 20th century there have been several intriguing areas
+> of research into both the origins of Māori and their date and mode
+> of arrival. Radiocarbon dating of archaeological settlement sites,
+> analysis of volcanic ash, DNA analysis of Māori females and of the
+> Pacific rat, and reconstruction of ancient Polynesian canoes, have
+> all contributed to recent understanding.
+>
+> It is now believed that New Zealand was settled by people from
+> East Polynesia – the Southern Cook and Society islands region;
+> that they migrated deliberately, setting off in different canoes, at
+> different times; and that they first arrived in the late 13th century.
+>
+> — https://teara.govt.nz/en/ideas-of-maori-origins/page-5
+
 #### More Pictures
 
 ##### New Zealand History
 
 * [Sketch of double-hulled waka](https://nzhistory.govt.nz/media/photo/sketch-double-hulled-waka)
+
+##### Stuff NZ
+
+* [Who were the first humans to reach New Zealand?](https://www.stuff.co.nz/science/100629585/dna-who-were-the-first-humans-to-reach-aotearoa)
 
 #### References
 
@@ -32,6 +50,15 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/map/5
 * [Mauri Stones: Hard Drives of the Waka](https://www.thevoyage.co.nz/en/video/63_MAURI-STONES-HARD-DRIVES-OF-THE-WAKA)
 * [Nau mai ki te Land of Voyagers](https://www.thevoyage.co.nz/en/video/14_Nau-mai-ki-te-Land-of-Voyagers)
 
+##### Science
+
+* [‘Game-changing’ study suggests first Polynesians voyaged all the way from East Asia](https://www.sciencemag.org/news/2016/10/game-changing-study-suggests-first-polynesians-voyaged-all-way-east-asia)
+
+##### Stuff NZ
+
+* [The ancient origins of New Zealanders](https://www.stuff.co.nz/science/100455675/the-ancient-origins-of-new-zealanders)
+* [Who were the first humans to reach New Zealand?](https://www.stuff.co.nz/science/100629585/dna-who-were-the-first-humans-to-reach-aotearoa)
+
 ##### Te Ara, The Encyclopedia of New Zealand
 
 * [Waka landing places](https://teara.govt.nz/en/interactive/14130/waka-landing-places)
@@ -41,6 +68,7 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/map/5
 * [Pacific origins](https://teara.govt.nz/en/waka-canoes/page-1)
 * [Story: Hawaiki](https://teara.govt.nz/en/hawaiki)
 * [Mau Piailug, navigator](https://teara.govt.nz/en/video/5995/mau-piailug-navigator)
+* [Story: Ideas of Māori origins](https://teara.govt.nz/en/ideas-of-maori-origins)
 
 ##### Tupapa
 
