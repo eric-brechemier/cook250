@@ -2,7 +2,7 @@
 
 #### James Cook Signature
 
-![James Cook Signature](pictures/james-cook-signature.png)
+![James Cook Signature](pictures/15x10cm-james-cook-signature.jpg)
 
 Source: signature traced by [Jaison Justus](http://gallery.wacom.com/gallery/33975820/Signature-Series-Explorers)
 
