@@ -1,9 +1,5 @@
 ### Star Navigation
 
-![Star compass](pictures/star-compass.svg)
-
-Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/diagram/2220/navigating-by-the-stars)
-
 #### More Images
 
 ##### Hawaiian Voyaging Traditions
@@ -11,6 +7,20 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/diagr
 * [Star Compasses](http://archive.hokulea.com/ike/hookele/star_compasses.html)
 
 ##### Te Ara, The Encyclopedia of New Zealand
+
+![Star compass](pictures/star-compass.svg)
+
+> In the early 1970s members of the Polynesian Voyaging Society in Hawaii
+> searched for Polynesians who remembered traditional navigation techniques.
+> At first they thought there was no one, but they eventually tracked down
+> Mau Piailug from the island of Satawal in Micronesia, who could navigate
+> the open ocean without instruments. He guided the Hōkūle‘a from Hawaii to
+> Tahiti and back using a star compass, shown here. Mau Piailug shared his
+> knowledge with Nainoa Thompson, who became the first Polynesian in centuries
+> to use celestial navigation on long distance ocean voyaging when he repeated
+> the journey in the same vessel in 1980.
+
+* [Navigating by the stars](https://teara.govt.nz/en/diagram/2220/navigating-by-the-stars)
 
 ![Māori star compass](pictures/maori-star-compass.svg)
 
