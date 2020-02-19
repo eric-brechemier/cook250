@@ -58,7 +58,7 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 * [Te Tohunga: The ancient legends and traditions of the Maoris by W. Dittmer](https://www.gutenberg.org/ebooks/54610)
 * [VIII Māui - The creation of New Zealand](https://www.gutenberg.org/files/54610/54610-h/54610-h.htm#VIII)
 
-##### Stuff NZ
+##### Stuff
 
 * [New Māori name created for submerged continent Zealandia](https://www.stuff.co.nz/national/112578516/new-mori-name-created-for-submerged-continent-zealandia)
 

@@ -61,7 +61,7 @@
 
 * [The arrival of Māori](https://www.newzealand.com/int/feature/early-settlement/)
 
-##### Stuff NZ
+##### Stuff
 
 * [The ancient origins of New Zealanders](https://www.stuff.co.nz/science/100455675/the-ancient-origins-of-new-zealanders)
 * [Who were the first humans to reach New Zealand?](https://www.stuff.co.nz/science/100629585/dna-who-were-the-first-humans-to-reach-aotearoa)

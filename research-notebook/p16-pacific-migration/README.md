@@ -29,7 +29,7 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/map/5
 
 * [Sketch of double-hulled waka](https://nzhistory.govt.nz/media/photo/sketch-double-hulled-waka)
 
-##### Stuff NZ
+##### Stuff
 
 * [Who were the first humans to reach New Zealand?](https://www.stuff.co.nz/science/100629585/dna-who-were-the-first-humans-to-reach-aotearoa)
 
@@ -54,7 +54,7 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/map/5
 
 * [‘Game-changing’ study suggests first Polynesians voyaged all the way from East Asia](https://www.sciencemag.org/news/2016/10/game-changing-study-suggests-first-polynesians-voyaged-all-way-east-asia)
 
-##### Stuff NZ
+##### Stuff
 
 * [The ancient origins of New Zealanders](https://www.stuff.co.nz/science/100455675/the-ancient-origins-of-new-zealanders)
 * [Who were the first humans to reach New Zealand?](https://www.stuff.co.nz/science/100629585/dna-who-were-the-first-humans-to-reach-aotearoa)

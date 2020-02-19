@@ -61,7 +61,7 @@ Source: [University of Nebraska–Lincoln](https://news.unl.edu/newsrooms/today/
 
 * [How the submerged continent of Zealandia took shape](https://www.nature.com/articles/d41586-018-07884-y)
 
-##### Stuff NZ
+##### Stuff
 
 * [New Māori name created for submerged continent Zealandia](https://www.stuff.co.nz/national/112578516/new-mori-name-created-for-submerged-continent-zealandia)
 
