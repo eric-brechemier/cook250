@@ -27,7 +27,7 @@ reimagined as a photo album.
 * [10: Mātāwhaorua](p10-matawhaorua/README.md)
 * [11: Heemskerck and Zeehaen](p11-heemskerck-and-zeehaen/README.md)
 
-* 12: Aotearoa
+* [12: Aotearoa](p12-aotearoa/README.md)
 * [13: New Zealand](p13-new-zealand/README.md)
 
 * [14: Waka Landing Places](p14-waka-landing/README.md)
