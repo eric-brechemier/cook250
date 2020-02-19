@@ -2,7 +2,7 @@
 
 #### Waka landing places
 
-![Waka landing places](pictures/10x15cm-waka-landing-places.png)
+![Waka landing places](pictures/10x15cm-waka-landing-places.jpg)
 
 > This map shows the landing places of a number of waka (canoes)
 > important to different iwi (tribes) throughout New Zealand.
