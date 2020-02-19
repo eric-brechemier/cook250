@@ -17,7 +17,7 @@ Downloaded from: [British Library Media](https://www.bl.uk/britishlibrary/~/medi
 #### More Images
 
 * ['Legendary' map of Pacific by James Cook's Tahitian navigator Tupaia finally unlocked](https://www.stuff.co.nz/national/101871481/legendary-map-of-pacific-by-james-cooks-tahitian-navigator-tupaia-finally-unlocked)
-* [A NEW READING OF TUPAIA’S CHART](http://www.jps.auckland.ac.nz/docs/Volume116/jps_v116_no3_2007/3%20A%20new%20reading%20of%20Tupaias%20chart.pdf)
+* [A New Reading of Tupaia’u Chart](http://www.jps.auckland.ac.nz/docs/Volume116/jps_v116_no3_2007/3%20A%20new%20reading%20of%20Tupaias%20chart.pdf)
 * [A chart representing the Isles of the South Sea (...) from the accounts of Tupaya](https://www.tandfonline.com/doi/full/10.1080/00223344.2018.1512369)
 
 #### References
@@ -56,4 +56,4 @@ Downloaded from: [British Library Media](https://www.bl.uk/britishlibrary/~/medi
 
 ##### University of Auckland
 
-* [A NEW READING OF TUPAIA’S CHART](http://www.jps.auckland.ac.nz/docs/Volume116/jps_v116_no3_2007/3%20A%20new%20reading%20of%20Tupaias%20chart.pdf)
+* [A New Reading of Tupaia’s Chart](http://www.jps.auckland.ac.nz/docs/Volume116/jps_v116_no3_2007/3%20A%20new%20reading%20of%20Tupaias%20chart.pdf)
