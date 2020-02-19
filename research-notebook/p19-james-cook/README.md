@@ -16,11 +16,29 @@ Source: signature traced by [Jaison Justus](http://gallery.wacom.com/gallery/339
 * [Act I: The First Voyage](https://lib-dbserver.princeton.edu/visual_materials/maps/websites/pacific/cook1/cook1.html)
 * [Stamps from Royal Mail Commemorating 250th Anniversary of James Cook's Voyages](https://blog.norphil.co.uk/2018/08/250th-anniversary-of-captain-james.html)
 
+##### Michel Tuffery
+
+* [Cookie in Te Wai Pounamu meets Cook Strait](https://micheltuffery.co.nz/product/cookie-in-te-wai-pounamu-meets-cook-strait/)
+
+##### New Zealand Post
+
+* [Tuia 250: Michel Tuffery's Artistic Journey of Discovery](https://stamps.nzpost.co.nz/new-zealand/2019/tuia-250-michel-tufferys-artistic-journey-discovery)
+
 #### References
+
+##### British Library
+
+* [The first voyage of James Cook](https://www.bl.uk/the-voyages-of-captain-james-cook/articles/the-first-voyage-of-james-cook)
+
+##### Hordern House
+
+* [An Account of the Discoveries Made in the South Pacifick Ocean previous to 1764.](https://www.hordern.com/pages/books/4504907/alexander-dalrymple/an-account-of-the-discoveries-made-in-the-south-pacifick-ocean-previous-to-1764)
 
 ##### National Library of Australia
 
 * [Journal of H.M.S. Endeavour, 1768-1771](https://nla.gov.au/nla.obj-228958440/view)
+* [James Cook : his early life and the Endeavour voyage](https://trove.nla.gov.au/goto?i=book&w=8675242&d=https%3A%2F%2Fnla.gov.au%2Fnla.obj-5069509&s=8VW60GCrHy0bp626%2Fo%2FlyYkp6wwl4wYKvC0VwF9jMww%3D)
+* [An Account of the Discoveries Made in the South Pacifick Ocean previous to 1764.](https://nla.gov.au/nla.obj-18696055/view?partId=nla.obj-18697220)
 
 ##### Princeton University Library
 
@@ -31,7 +49,9 @@ Source: signature traced by [Jaison Justus](http://gallery.wacom.com/gallery/339
 
 ##### Project Gutenberg Australia
 
+* [James COOK (1728-1779)](http://gutenberg.net.au/pages/cook.html)
 * [CAPTAIN COOK'S JOURNAL. FIRST VOYAGE.](http://gutenberg.net.au/ebooks/e00043.html)
+* [Journals of Australian Land and Sea Explorers and Discoverers](http://gutenberg.net.au/explorers-journals.html)
 
 ##### South Seas
 
@@ -41,3 +61,9 @@ Source: signature traced by [Jaison Justus](http://gallery.wacom.com/gallery/339
 
 * [James Cook](https://teara.govt.nz/en/biographies/1c25/cook-james)
 * [Story: European discovery of New Zealand](https://teara.govt.nz/en/european-discovery-of-new-zealand)
+
+##### Wikipedia
+
+* [James Cook](https://en.wikipedia.org/wiki/James_Cook)
+* [First voyage of James Cook](https://en.wikipedia.org/wiki/First_voyage_of_James_Cook)
+
