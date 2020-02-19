@@ -4,7 +4,7 @@
 
 Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/diagram/2220/navigating-by-the-stars)
 
-#### Other Images
+#### More Images
 
 ##### Hawaiian Voyaging Traditions
 
