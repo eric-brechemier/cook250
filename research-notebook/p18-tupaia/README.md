@@ -11,8 +11,8 @@ Copy chart of the society islands by James Cook after Tupaia.
 > to the emptiness of the same space in European maps of the time.
 > — https://teara.govt.nz/en/map/46867/tupaias-chart)
 
-Source: [British Library](https://www.bl.uk/collection-items/the-society-islands)
-Downloaded from: [British Library](https://www.bl.uk/britishlibrary/~/media/bl/global/picturing%20places/add%20ms%2021593%20c%20copy%20chart%20of%20the%20society%20islands%20by%20cook%20after%20tupaia.jpg)
+Source: [British Library](https://www.bl.uk/collection-items/the-society-islands)  
+Downloaded from: [British Library Media](https://www.bl.uk/britishlibrary/~/media/bl/global/picturing%20places/add%20ms%2021593%20c%20copy%20chart%20of%20the%20society%20islands%20by%20cook%20after%20tupaia.jpg)
 
 #### More Images
 
