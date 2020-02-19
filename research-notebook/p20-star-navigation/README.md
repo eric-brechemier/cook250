@@ -1,5 +1,9 @@
 ### Star Navigation
 
+![Nainoa’s Hawaiian Star Compass with the Brightest Stars](pictures/15x10cm-star-compass-brightest-stars.jpg)
+
+Source: [Hawaiian Voyaging Traditions](http://archive.hokulea.com/ike/hookele/star_compasses.html)
+
 #### More Images
 
 ##### Hawaiian Voyaging Traditions
