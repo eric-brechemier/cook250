@@ -12,6 +12,14 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/diagr
 
 ##### Te Ara, The Encyclopedia of New Zealand
 
+![Māori star compass](pictures/maori-star-compass.svg)
+
+> Te kapehu whetū – the Māori star compass – divides the 360 degrees
+> around a canoe in the open ocean into different whare (houses).
+> The location of these houses depends on where the sun, moon and stars
+> set and rise. The navigator then attempts to keep the canoe on a course
+> relative to these observations.
+
 * [Māori star compass](https://teara.govt.nz/en/diagram/2222/maori-star-compass)
 
 #### References
