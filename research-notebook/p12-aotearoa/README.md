@@ -29,7 +29,7 @@
 >
 > — https://stamps.nzpost.co.nz/new-zealand/2019/kupe-great-navigator
 
-![Kupe's wife sighting Aotearoa](pictures/kupe-wife-sighting-aotearoa.jpg)
+![Kupe's wife sighting Aotearoa](pictures/10x15cm-kupe-wife-sighting-aotearoa.jpg)
 
 Source: [Encircle Photos](https://www.encirclephotos.com/image/kupe-raiatea-sighting-of-aotearoa-in-wellington-new-zealand/)
 
