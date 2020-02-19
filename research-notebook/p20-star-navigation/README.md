@@ -41,3 +41,8 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/diagr
 * [Navigating by the stars](https://teara.govt.nz/en/diagram/2220/navigating-by-the-stars)
 * [Ocean voyaging](https://teara.govt.nz/en/canoe-navigation/page-2)
 * [Mau Piailug, navigator](https:/jteara.govt.nz/en/video/5995/mau-piailug-navigator)
+
+##### Wikipedia
+
+* [Polynesian navigation](https://en.wikipedia.org/wiki/Polynesian_navigation)
+
