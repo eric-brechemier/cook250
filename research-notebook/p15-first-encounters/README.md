@@ -347,8 +347,6 @@ he nor any of his men had set foot.
 
 #### More Images
 
-#### More Images
-
 ##### Abel Tasman 1642
 
 * [New Zealand images from Tasman’s journal](http://abeltasman.org.nz/images/)
