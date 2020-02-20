@@ -3,7 +3,7 @@
 
 #### More Images
 
-##### Stuff NZ
+##### Stuff
 
 * [Boat-building Picton family's ancestors built and housed the Endeavour](https://www.stuff.co.nz/national/116246105/boatbuilding-picton-familys-ancestors-built-and-housed-the-endeavour)
 
@@ -22,7 +22,7 @@
 * [HMB Endeavour Replica](https://www.thevoyage.co.nz/en/vessels/hmb-endeavour-replica)
 * [HMB Endeavour: Sydney to Tauranga](https://www.thevoyage.co.nz/en/video/47_HMB-Endeavour-Sydney-to-Tauranga)
 
-##### Stuff NZ
+##### Stuff
 
 * [Boat-building Picton family's ancestors built and housed the Endeavour](https://www.stuff.co.nz/national/116246105/boatbuilding-picton-familys-ancestors-built-and-housed-the-endeavour)
 

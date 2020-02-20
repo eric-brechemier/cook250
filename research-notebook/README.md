@@ -40,7 +40,7 @@ reimagined as a photo album.
 * [19: James Cook](p19-james-cook/README.md)
 
 * [20: Star Navigation](p20-star-navigation/README.md)
-* 21: Endeavour
+* [21: Endeavour](p21-endeavour/README.md)
 
 * 22: Horouta
 * [23: Cook's Arrival to New Zealand](p23-cook-arrival/README.md)
