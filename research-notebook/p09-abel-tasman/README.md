@@ -8,9 +8,16 @@ which was assumed to be required to keep the Earth in balance.
 
 ![Tasman's Discovery of New Zealand, Centennial of New Zealand Stamp, 1940](pictures/15x10cm-abel-tasman-stamp.jpg)
 
-Source: [Filatelia e Storia](https://filateliaestoria.weebly.com/trivial/il-navigatore-olandese-abel-tasman-scopre-la-nuova-zelanda)
+Source: [Te Ara — The Encyclopedia of New Zealand](https://teara.govt.nz/en/zoomify/43023/centennial-stamps)
+
+> part of a series of thirteen stamps issued by the New Zealand Post Office
+> for the centennial of New Zealand in 1940
 
 #### More Images
+
+##### Filatelia e Storia
+
+* [Il navigatore olandese Abel Tasman scopre la Nuova Zelanda](https://filateliaestoria.weebly.com/trivial/il-navigatore-olandese-abel-tasman-scopre-la-nuova-zelanda)
 
 ##### Groninger Museum
 
@@ -31,6 +38,10 @@ Source: [Filatelia e Storia](https://filateliaestoria.weebly.com/trivial/il-navi
 ![Tasman 375 Logo](pictures/tasman375.jpg)
 
 Source: [Tasman 375 Project](https://tasman375.groningen.nl/en/over-tasman-375)
+
+##### Te Ara — The Encyclopedia of New Zealand
+
+* [Centennial stamps](https://teara.govt.nz/en/zoomify/43023/centennial-stamps)
 
 #### References
 
