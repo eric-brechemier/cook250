@@ -16,6 +16,10 @@ Source: signature traced by [Jaison Justus](http://gallery.wacom.com/gallery/339
 * [Act I: The First Voyage](https://lib-dbserver.princeton.edu/visual_materials/maps/websites/pacific/cook1/cook1.html)
 * [Stamps from Royal Mail Commemorating 250th Anniversary of James Cook's Voyages](https://blog.norphil.co.uk/2018/08/250th-anniversary-of-captain-james.html)
 
+##### Lego Ideas
+
+* [James Cook and the HMS Endeavour](https://ideas.lego.com/projects/73681484-d113-419a-9dfb-571bf49246a4)
+
 ##### Michel Tuffery
 
 * [Cookie in Te Wai Pounamu meets Cook Strait](https://micheltuffery.co.nz/product/cookie-in-te-wai-pounamu-meets-cook-strait/)
