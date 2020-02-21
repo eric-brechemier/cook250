@@ -16,6 +16,10 @@ Source: signature traced by [Jaison Justus](http://gallery.wacom.com/gallery/339
 * [Act I: The First Voyage](https://lib-dbserver.princeton.edu/visual_materials/maps/websites/pacific/cook1/cook1.html)
 * [Stamps from Royal Mail Commemorating 250th Anniversary of James Cook's Voyages](https://blog.norphil.co.uk/2018/08/250th-anniversary-of-captain-james.html)
 
+##### Daily Mail Online
+
+* [Captain Cook's Endeavour is finally found 230 years after it disappeared](https://www.dailymail.co.uk/news/article-3568740/Captain-Cook-s-HMS-Endeavour-United-States.html)
+
 ##### Lego Ideas
 
 * [James Cook and the HMS Endeavour](https://ideas.lego.com/projects/73681484-d113-419a-9dfb-571bf49246a4)
@@ -27,6 +31,15 @@ Source: signature traced by [Jaison Justus](http://gallery.wacom.com/gallery/339
 ##### New Zealand Post
 
 * [Tuia 250: Michel Tuffery's Artistic Journey of Discovery](https://stamps.nzpost.co.nz/new-zealand/2019/tuia-250-michel-tufferys-artistic-journey-discovery)
+
+##### Royal Museums Greenwich
+
+* [James Cook portrait by Nathaniel Dance (1776)](https://collections.rmg.co.uk/collections/objects/14102.html)
+* [James Cook portrait by William Hodges (1775-1776)](https://collections.rmg.co.uk/collections/objects/15640.html)
+
+##### Te Ara, The Encyclopedia of New Zealand
+
+* [Centennial stamps](https://teara.govt.nz/en/zoomify/43023/centennial-stamps)
 
 #### References
 
