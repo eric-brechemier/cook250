@@ -32,6 +32,10 @@ A larger resolution of the picture is available on that page.
 
 #### References
 
+##### Princeton University Library
+
+* [Pacific Winds](https://lib-dbserver.princeton.edu/visual_materials/maps/websites/pacific/pacific-ocean/pacific-winds.html)
+
 ##### Wikipedia
 
 * [Roaring Forties](https://en.wikipedia.org/wiki/Roaring_Forties)

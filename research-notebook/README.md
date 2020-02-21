@@ -94,7 +94,7 @@ reimagined as a photo album.
 * 55: Coca-Cola: Celebrate
 
 * [56: Ambigram](p52-ambigram/README.md)
-* 57: Princess Bride
+* [57: James Cook Signature](p57-james-cook-signature/README.md)
 
 * [58: Whakarare](p54-whakarare/README.md)
 * 59: Helvetica
