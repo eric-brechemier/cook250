@@ -2,7 +2,7 @@
 
 ![A cutaway painting of Captain Cook's Endeavour ship during its journey](pictures/15x10cm-endeavour-cutaway-painting.jpg)
 
-Source: [National Geographic/Getty Images/Daily Mail Online](https://www.dailymail.co.uk/news/article-3568740/Captain-Cook-s-HMS-Endeavour-United-States.html)
+Source: [National Geographic/Getty Images via Daily Mail Online](https://www.dailymail.co.uk/news/article-3568740/Captain-Cook-s-HMS-Endeavour-United-States.html)
 
 #### More Images
 
