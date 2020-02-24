@@ -34,7 +34,7 @@ Source: [New Zealand Post](https://stamps.nzpost.co.nz/new-zealand/2019/kupe-gre
 * [Statue of Kupe on the Wellington waterfront](https://teara.govt.nz/en/photograph/14132/statue-of-kupe)
 * [Battling Te Wheke](https://teara.govt.nz/en/artwork/6800/battling-te-wheke)
 
-##### Te Papa Tongarewa (Museum of New Zealand)
+##### Te Papa Tongarewa — Museum of New Zealand
 
 * [Kupe Sites: A photographic journey ](https://www.tepapa.govt.nz/discover-collections/read-watch-play/maori/kupe-sites-photographic-journey)
 
@@ -91,7 +91,7 @@ Source: [New Zealand Post](https://stamps.nzpost.co.nz/new-zealand/2019/kupe-gre
 * [Kupe and the Giant Wheke](http://eng.mataurangamaori.tki.org.nz/Support-materials/Te-Reo-Maori/Maori-Myths-Legends-and-Contemporary-Stories/Kupe-and-the-Giant-Wheke)
 * [Kupe's travels around Aotearoa](http://eng.mataurangamaori.tki.org.nz/Support-materials/Te-Reo-Maori/Maori-Myths-Legends-and-Contemporary-Stories/Kupe-s-travels-around-Aotearoa)
 
-##### Te Papa Tongarewa (Museum of New Zealand)
+##### Te Papa Tongarewa — Museum of New Zealand
 
 * [Voyage and discovery in the Pacific](https://www.tepapa.govt.nz/discover-collections/read-watch-play/history/voyage-and-discovery-pacific)
 
