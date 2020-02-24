@@ -1,5 +1,9 @@
 ### James Cook
 
+![Cook's re-discovery of New Zealand 1769, Centennial of New Zealand Stamp, 1840](pictures/15x10cm-james-cook-stamp.jpg)
+
+Source: [Te Ara — The Encyclopedia of New Zealand](https://teara.govt.nz/en/zoomify/43023/centennial-stamps)
+
 #### More Images
 
 ##### Daily Mail Online
