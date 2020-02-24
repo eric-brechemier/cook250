@@ -38,6 +38,7 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 * [Māui fishes up the North Island](https://teara.govt.nz/en/artwork/5982/maui-fishes-up-the-north-island)
 * [Places associated with Māui](https://teara.govt.nz/en/map/2382/places-associated-with-maui)
 * [Māui](https://teara.govt.nz/en/document/3802/maui)
+* [Whakairo on Hikurangi](https://teara.govt.nz/en/photograph/33352/whakairo-on-hikurangi)
 
 #### References
 
