@@ -42,7 +42,7 @@ reimagined as a photo album.
 * [20: Star Navigation](p20-star-navigation/README.md)
 * [21: Endeavour](p21-endeavour/README.md)
 
-* 22: Horouta
+* [22: Horouta](p22-horouta/README.md)
 * [23: Cook's Arrival to New Zealand](p23-cook-arrival/README.md)
 
 * [24: Te Maro](p24-te-maro/README.md)
