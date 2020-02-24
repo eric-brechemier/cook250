@@ -1,6 +1,11 @@
 ### Murder of Te Maro
 
-![Te Maro Memorial](pictures/te-maro-memorial.jpg)
+#### Te Maro Memorial
+
+![Te Maro Memorial](pictures/15x10cm-te-maro-memorial.jpg)
+
+Sculpture by Nick Tupara, a descendant of Te Maro  
+Photograph by David Thomsen (detail)
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Te_Maro_memorial.jpg)
 
