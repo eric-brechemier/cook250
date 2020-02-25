@@ -17,6 +17,10 @@
 
 #### References
 
+##### Gisborne District Council
+
+* [Tūranganui-ā-Kiwa / Poverty Bay name change](https://gdc.govt.nz/turanganui-a-kiwa-poverty-bay-name-change)
+
 ##### Kā Huru Manu
 
 * [The Cultural Mapping Story](http://www.kahurumanu.co.nz/cultural-mapping-story)
