@@ -18,6 +18,10 @@ Source: [Journal of Sidney Parkinson, SPL Hand Coloured Rare Book Collection](ht
 
 * [A Journal of a Voyage to the South Seas in His Majesty’s Ship the Endeavour..., by Sidney Parkinson](https://www.splrarebooks.com/collection/view/a-journal-of-a-voyage-to-the-south-seas-in-his-majestys-ship-the-endeavour-)
 
+##### Te Ara — The Encyclopedia of New Zealand
+
+* [Young Nicks Head](https://teara.govt.nz/en/photograph/1417/young-nicks-head)
+
 #### References
 
 ##### New Zealand Tourism — 100% Pure New Zealand
