@@ -107,6 +107,8 @@ by Izzat Design Limited. Commissioned 2007. © Te Papa.
 * [Story: East Coast region: Waka landings, places of significance and tribes](https://teara.govt.nz/en/map/33350/waka-landings-places-of-significance-and-tribes)
 * [Story: East Coast region: Māori settlement](https://teara.govt.nz/en/map/33350/waka-landings-places-of-significance-and-tribes)
 * [Story: Kūmara](https://teara.govt.nz/en/kumara)
+* [‘Taputini’ – a traditional kūmara cultivar](https://teara.govt.nz/en/photograph/1763/taputini-a-traditional-kumara-cultivar)
+* [Story: Pacific migrations](https://teara.govt.nz/en/pacific-migrations)
 
 ##### The Journal of the Polynesian Society
 
