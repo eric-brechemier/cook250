@@ -57,6 +57,10 @@ Downloaded from: [British Library Media](https://www.bl.uk/britishlibrary/~/medi
 
 * ['Legendary' map of Pacific by James Cook's Tahitian navigator Tupaia finally unlocked](https://www.stuff.co.nz/national/101871481/legendary-map-of-pacific-by-james-cooks-tahitian-navigator-tupaia-finally-unlocked)
 
+##### Tahiti Infos
+
+* [Cook, Banks et Tupaia, une histoire du voyage autour du monde de l’Endeavour](https://www.tahiti-infos.com/Cook-Banks-et-Tupaia-une-histoire-du-voyage-autour-du-monde-de-l-Endeavour_a180498.html)
+
 ##### Taylor & Francis Online
 
 * [The Making of Tupaia’s Map: A Story of the Extent and Mastery of Polynesian Navigation, Competing Systems of Wayfinding on James Cook’s Endeavour, and the Invention of an Ingenious Cartographic System](https://www.tandfonline.com/doi/full/10.1080/00223344.2018.1512369)
