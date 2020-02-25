@@ -2,7 +2,7 @@
 
 #### Sophora microphylla (Leguminosae) - Plate 431
 
-
+![Sophora microphylla (Leguminosae), plate 431](pictures/10x15cm-banks-florigelium-plate431.jpg)
 
 > Line engraving by Frederick Polydore Nodder after Sydney Parkinson (1769).
 > Joseph Banks and his party saw this species at:
