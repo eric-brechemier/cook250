@@ -18,8 +18,6 @@ ENDEAVOUR.
 
 Source: [Journal of Sydney Parkinson](http://www.splrarebooks.com/collection/view/a-journal-of-a-voyage-to-the-south-seas-in-his-majestys-ship-the-endeavour-)
 
-Source: 
-
 #### More Images
 
 ##### British Library
