@@ -196,7 +196,7 @@ The picture referred to by Joseph Banks is on the left page:
 * [View of MURDERERS BAY on NEW ZEALAND in 15 fathom Water](https://nla.gov.au/nla.obj-18696055/view?partId=nla.obj-18718192#page/n110/mode/1up)
 
 
-> On the 9th, early in the morning, (...)
+> **On the 9th, early in the morning,** (...)
 > We also discovered many of the natives (who seemed to be of a very dark hue)
 > and several of their canoes hauled upon the beach. The natives, on
 > approaching nearer to them, took but little notice of us. Having cast
