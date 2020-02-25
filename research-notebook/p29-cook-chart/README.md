@@ -16,7 +16,7 @@ His Majesty's Bark
 ENDEAVOUR.
 ```
 
-Source: [Journal of Sydney Parkinson](http://www.splrarebooks.com/collection/view/a-journal-of-a-voyage-to-the-south-seas-in-his-majestys-ship-the-endeavour-)
+Source: [Journal of Sydney Parkinson, SPL Hand Coloured Rare Book Collection](http://www.splrarebooks.com/collection/view/a-journal-of-a-voyage-to-the-south-seas-in-his-majestys-ship-the-endeavour-)
 
 #### More Images
 
