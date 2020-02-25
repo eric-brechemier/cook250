@@ -17,6 +17,11 @@
 
 #### References
 
+##### Alecto Historical Editions
+
+* [Banks' Florilegium](https://www.alecto-historical-editions.com/)
+* [Banks' Florilegium: New Zealand](https://www.alecto-historical-editions.com/collections/new-zealand)
+
 ##### Botanical Art & Artists
 
 * [About Sydney Parkinson (1745-1771)](https://www.botanicalartandartists.com/sydney-parkinson.html)
