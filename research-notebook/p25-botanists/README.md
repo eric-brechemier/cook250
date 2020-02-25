@@ -13,9 +13,13 @@
 
 ##### SPL Hand Coloured Rare Book Collection
 
-* [Journal of Sydney Parkinson](http://www.bobins.splrarebooks.com/collection/view/a-journal-of-a-voyage-to-the-south-seas-in-his-majestys-ship-the-endeavour-)
+* [Journal of Sydney Parkinson](http://www.splrarebooks.com/collection/view/a-journal-of-a-voyage-to-the-south-seas-in-his-majestys-ship-the-endeavour-)
 
 #### References
+
+##### Botanical Art & Artists
+
+* [About Sydney Parkinson (1745-1771)](https://www.botanicalartandartists.com/sydney-parkinson.html)
 
 ##### National History Museum, UK
 
@@ -37,7 +41,7 @@
 
 ##### SPL Hand Coloured Rare Book Collection
 
-* [A Journal of a Voyage to the South Seas in His Majesty’s Ship the Endeavour, faithfully transcribed from the papers of the late Sydney Parkinson, draughtsman to Sir Joseph Banks Bart in his Expedition with Dr Solander round the World (...)](http://www.bobins.splrarebooks.com/collection/view/a-journal-of-a-voyage-to-the-south-seas-in-his-majestys-ship-the-endeavour-)
+* [A Journal of a Voyage to the South Seas in His Majesty’s Ship the Endeavour, faithfully transcribed from the papers of the late Sydney Parkinson, draughtsman to Sir Joseph Banks Bart in his Expedition with Dr Solander round the World (...)](http://www.splrarebooks.com/collection/view/a-journal-of-a-voyage-to-the-south-seas-in-his-majestys-ship-the-endeavour-)
 
 ##### University of Otago
 
@@ -52,3 +56,5 @@
 * [Joseph Banks](https://en.wikipedia.org/wiki/Joseph_Banks)
 * [Daniel Solander](https://en.wikipedia.org/wiki/Daniel_Solander)
 * [Sydney Parkinson](https://en.wikipedia.org/wiki/Sydney_Parkinson)
+* [Banks' Florilegium](https://en.wikipedia.org/wiki/Banks%27_Florilegium)
+
