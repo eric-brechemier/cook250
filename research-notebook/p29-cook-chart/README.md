@@ -2,7 +2,7 @@
 
 #### Map of the Coast of New Zealand
 
-![Map of the Coast of New Zealand... by James Cook](pictures/sydney-parkinson-journal-029.jpg)
+![Map of the Coast of New Zealand... by James Cook](pictures/10x15cm-james-cook-map.jpg)
 
 ```
 MAP
