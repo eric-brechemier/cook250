@@ -36,7 +36,7 @@
 
 ##### South Seas
 
-* [The Endeavour Journal of Joseph Banks, 1768-1771](http://southseas.nla.gov.au/index_voyaging.html)
+* [The Endeavour Journal of Joseph Banks, 1768-1771](http://southseas.nla.gov.au/journals/banks/contents.html)
 * [Sydney Parkinson's Journal of a Voyage to the South Seas, in His Majesty's Ship, The Endeavour](http://southseas.nla.gov.au/journals/parkinson/contents.html)
 
 ##### SPL Hand Coloured Rare Book Collection
