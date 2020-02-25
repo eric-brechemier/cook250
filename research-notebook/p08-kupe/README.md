@@ -25,6 +25,10 @@ Source: [New Zealand Post](https://stamps.nzpost.co.nz/new-zealand/2019/kupe-gre
 
 * [Te Wheke-a-Muturangi](https://cryptidz.fandom.com/wiki/Te_Wheke-a-Muturangi)
 
+##### New Zealand Post
+
+* [The Discoverers - Millenium Part One](https://stamps.nzpost.co.nz/new-zealand/1997/discoverers-millenium-part-one)
+
 ##### Sid Meier's Civilization
 
 * [Civilization VI: Gathering Storm – Kupe Leads the Maori](https://civilization.com/news/entries/civilization-vi-gathering-storm-first-look-maori-kupe-leader-pc-release-date-february-14-2019/)
