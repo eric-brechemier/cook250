@@ -16,9 +16,21 @@ Downloaded from: [British Library Media](https://www.bl.uk/britishlibrary/~/medi
 
 #### More Images
 
+##### Stuff
+
 * ['Legendary' map of Pacific by James Cook's Tahitian navigator Tupaia finally unlocked](https://www.stuff.co.nz/national/101871481/legendary-map-of-pacific-by-james-cooks-tahitian-navigator-tupaia-finally-unlocked)
-* [A New Reading of Tupaia’u Chart](http://www.jps.auckland.ac.nz/docs/Volume116/jps_v116_no3_2007/3%20A%20new%20reading%20of%20Tupaias%20chart.pdf)
+
+##### Taylor & Francis Online
+
 * [A chart representing the Isles of the South Sea (...) from the accounts of Tupaya](https://www.tandfonline.com/doi/full/10.1080/00223344.2018.1512369)
+
+##### Te Hā 1769 - 2019 Sestercentennial
+
+* [Te Hā 2016](http://www.teha2019.co.nz/assets/Uploads/TE-HA-2016-LOW-RES.pdf)
+
+##### The Journal of the Polynesian Society
+
+* [A New Reading of Tupaia’u Chart](http://www.jps.auckland.ac.nz/docs/Volume116/jps_v116_no3_2007/3%20A%20new%20reading%20of%20Tupaias%20chart.pdf)
 
 #### References
 
