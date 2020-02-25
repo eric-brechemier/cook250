@@ -10,7 +10,7 @@
 >
 > — https://insights.nzherald.co.nz/article/our-place-names/
 
-![Māori and non-Māori landmarks in New Zealand](pictures/maori-names-in-nz.png)
+![Māori and non-Māori landmarks in New Zealand](pictures/10x15cm-maori-place-names.jpg)
 
 * [Our Place Names (NZ Herald)](https://insights.nzherald.co.nz/article/our-place-names/)
 * [Identify Māori text (GitHub)](https://github.com/TeHikuMedia/nga-kupu)
