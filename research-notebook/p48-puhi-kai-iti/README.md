@@ -1,6 +1,6 @@
 ### Puhi Kai Iti / Cook Landing Site National Historic Reserve
 
-###### Nine pou to represent the men shot in the encounter with Endeavour crew
+#### Nine pou to represent the men shot in the encounter with Endeavour crew
 
 ![Nine pou to represent the men shot in the encounter with Endeavour crew](pictures/15x10cm-nine-pou-at-puhi-kai-iti.jpg)
 
