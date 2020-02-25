@@ -44,8 +44,8 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Te_Maro_memorial.jpg)
 > The art piece, by Nick Tupara, represents Te Maro, his tipuna and
 > significant gardener of the mana whenua (land).
 > (...)
-> Te Maro was the grandson of the rangatira Rakai a Tane at the time of
-> the Endeavour arrival in 1769.
+> Te Maro was the grandson of the rangatira Rakai a Tane
+> at the time of the Endeavour arrival in 1769.
 >
 > A sculpture to acknowledge the region’s voyaging traditions, Te Ikaroa,
 > will also be completed at Puhi Kai Iti Cook Landing Site this week.
@@ -64,6 +64,17 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Te_Maro_memorial.jpg)
 > — Tipuna Te Maro, The Gisborne Herald, September 25th, 2019
 > http://www.gisborneherald.co.nz/local-news/20190925/tipuna-te-maro/
 
+> The rangatira (chief) was responsible for organising large communal
+> enterprises, including food production. His position was hereditary,
+> but leadership ability was vital. A chief’s position and status could
+> vary depending on his effectiveness as a leader during the business
+> of food production.
+>
+> — Roles and mana: Rangatira,
+> Story: Te mahi kai – food production economics
+> Te Ara — The Encyclopedia of New Zealand
+> https://teara.govt.nz/en/te-mahi-kai-food-production-economics/page-5
+
 
 > (...) We heard, too, from Nick Tupara and Charlotte Gibson about the death
 > of their ancestor Te Maro, who died when Captain James Cook first landed on
@@ -79,6 +90,48 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Te_Maro_memorial.jpg)
 > a compelling look at Maori culture, inews.co.uk, September 24th, 2018
 > https://inews.co.uk/culture/television/oceans-apart-art-and-pacific-james-fox-review-bbc-four-250804
 
+> Aubrey Ria is tangata whenua in Tūranganui a Kiwa and descends directly
+> from the original inhabitants of the region, who date back over 500 years
+> before the arrival of Europeans.
+>
+> “For a long time, my people, the tribes of this region, have been asking
+> for an apology from the government, from those who strongly support this
+> individual called Cook, but we're still waiting," she says.
+>
+> When the Endeavour first landed in Gisborne in 1769, local chief Te Maro
+> was killed. He was a great cultivator and renown gardener who fed the many
+> tribes of the Tūranganui a Kiwa area.
+>
+> Ria says accurate histories are still being overlooked in Aotearoa.
+>
+> “For a long time, Te Maro has been remembered merely as the person who
+> was shot by Cook's soldiers, most people aren't aware that he was a chief
+> among our people."
+>
+> — https://www.teaomaori.news/endeavour-replica-reveals-racism
+
+> Speaking on behalf of Tūranga iwi Ngāti Oneone, Nick Tupara says,
+> “We also hope that her statement [British High Commissioner to New Zealand
+> has issued a formal expression of regret to the iwi of Tūranganui a Kiwa
+> for the deaths of at least five Māori at the hands of Captain Cook and
+> the crew of the Endeavour] stands for a voice for our community
+> being able to come together in our traditional places and share our
+> kōrero and feel safe to do so and start to rebuild and develop our
+> community going forward.
+>
+> One of the nine Māori shot in the first two days of the Endeavour's visit
+> to Tūranga in 1769, was local chief Te Maro of Ngāti Oneone.
+>
+> Although monuments to Captain Cook have been erected around the country,
+> the story of Te Maro has only national attention in recent years.
+>
+> Tupara says that “Te Maro's job was to grow kai and feed his people
+> that was his purpose, and that's a chiefly endeavour. and to ensure
+> that his people's well-being was being cared for and through his action,
+> they had a way forward, they had a future for their mokopuna and I feel
+> we're trying to emulate that.”
+>
+> — https://www.teaomaori.news/we-cant-sit-back-and-let-be-shallow-statement
 
 > MONDAY, 9th October.
 > (...) After this I went ashore with a Party of men in the Pinnace and yawl
@@ -167,7 +220,7 @@ The picture referred to by Joseph Banks is on the left page:
 * [Stories of arrival unveiled in Gisborne](https://boffamiskell.co.nz/news-and-insights/article.php?v=stories-of-arrival-unveiled-in-gisborne)
 * [Puhi Kai Iti / Cook Landing Site Historic Reserve Redevelopment](https://boffamiskell.co.nz/project.php?v=puhi-kai-iti-cook-landing-site-historic-reserve-redevelopment)
 
-##### Facebook
+##### Eugenie Sage MP on Facebook
 
 ![Te Maro sculpture with artist Nick Tupara, descendant of Te Maro](te-maro-and-nick-tupara.jpg)
 
@@ -186,6 +239,10 @@ The picture referred to by Joseph Banks is on the left page:
 ##### New Zealand Post
 
 * [Tuia 250: Michel Tuffery's Artistic Journey of Discovery](https://stamps.nzpost.co.nz/new-zealand/2019/tuia-250-michel-tufferys-artistic-journey-discovery)
+
+##### Te Ara — The Encyclopedia of New Zealand
+
+* [Māori settlement](https://teara.govt.nz/en/diagram/17355/maori-settlement)
 
 ##### Tupapa
 
@@ -217,81 +274,29 @@ The picture referred to by Joseph Banks is on the left page:
 
 * [Puhi Kai Iti Cook Landing Site transforming with tukutuku](https://gdc.govt.nz/puhi-kai-iti-cook-landing-site-transforming-with-tukutuku/)
 
-##### Newshub
-
-* [Captain Cook red-faced in Gisborne rebellion](https://www.newshub.co.nz/home/new-zealand/2016/08/captain-cook-red-faced-in-gisborne-rebellion.html)
-
 ##### Project Gutenberg Australia
 
 * [The Endeavour Journal of Sir Joseph Banks, 1769 October 8. Arrived New Zealand](http://gutenberg.net.au/ebooks05/0501141h.html#oct1769)
 
 ##### RNZ Radio New Zealand
 
-###### September 20th, 2018
-
-* [Archaeologists may have found Captain Cook's Endeavour](https://www.rnz.co.nz/news/world/366930/archaeologists-may-have-found-captain-cook-s-endeavour)
-
-###### November 29th, 2018
-
-* [Apology demanded over 'imperial vanguard murderer' Cook](https://www.rnz.co.nz/news/te-manu-korihi/377075/apology-demanded-over-imperial-vanguard-murderer-cook)
-
-###### May 3rd, 2019
-
-* [Controversial statue of Captain James Cook to be moved](https://www.rnz.co.nz/news/te-manu-korihi/388425/controversial-statue-of-captain-james-cook-to-be-moved)
-
-###### May 9th, 2019
-
-* [$20m Captain Cook commemoration ignores Māori pain - critics](https://www.rnz.co.nz/news/te-manu-korihi/388808/20m-captain-cook-commemoration-ignores-maori-pain-critics)
-
-###### May 13th, 2019
-
-* [Captain Cook 250-year commemoration to tell Māori side of history - Minister Kelvin Davis](https://www.rnz.co.nz/news/national/389081/captain-cook-250-year-commemoration-to-tell-maori-side-of-history-minister-kelvin-davis)
-
-###### May 20th, 2019
-
-* [Te Papa acquires painting from Cook voyage with 'portrayal of our tīpuna'](https://www.rnz.co.nz/news/national/389655/te-papa-acquires-painting-from-cook-voyage-with-portrayal-of-our-tipuna)
-
-###### May 28th, 2019
-
-* [South Island readies for 250th anniversary of Captain Cook's arrival](https://www.rnz.co.nz/news/national/390729/south-island-readies-for-250th-anniversary-of-captain-cook-s-arrival)
-
-###### July 11th, 2019
-
-* [Captain James Cook graffiti raises necessary kōrero - councillor](https://www.rnz.co.nz/news/national/394171/captain-james-cook-graffiti-raises-necessary-korero-councillor)
-
-###### August 27th, 2019
-
-* [Taonga of Captain Cook's ship to return home](https://www.rnz.co.nz/news/te-manu-korihi/397611/taonga-of-captain-cook-s-ship-to-return-home)
-
-###### September 12th, 2019
-
-* [New Zealand history will be compulsory in all schools by 2022](https://www.rnz.co.nz/news/national/398599/new-zealand-history-will-be-compulsory-in-all-schools-by-2022)
-
-###### September 16th, 2019
-
-* [Captain Cook replica banned from docking in Mangonui during commemoration](https://www.rnz.co.nz/news/te-manu-korihi/398912/captain-cook-replica-banned-from-docking-in-mangonui-during-commemoration)
-
 ###### October 2nd, 2019
 
 * [Iwi to receive message expressing regret for Māori killed in James Cook meeting](https://www.rnz.co.nz/news/te-manu-korihi/400095/iwi-to-receive-message-expressing-regret-for-maori-killed-in-james-cook-meeting)
 
-###### December 15th, 2019
-
-* [Tuia 250 flotilla reaches final stop in Hawke's Bay](https://www.rnz.co.nz/news/te-manu-korihi/405536/tuia-250-flotilla-reaches-final-stop-in-hawke-s-bay)
-
 ##### Smithsonian
 
 * [British Government ‘Expresses Regret’ for Māori Killed After James Cook’s Arrival in New Zealand](https://www.smithsonianmag.com/smart-news/british-government-expresses-regret-maori-killed-after-james-cooks-arrival-new-zealand-180973270/)
-
-##### Tairawhiti Museum
-
-* [Gisborne’s ‘Crook Cook’ – the story behind the statue](https://tairawhitimuseum.org.nz/2019/03/26/the-crook-cook-the-story-of-the-statue-2/)
 
 ##### Te Ao — Māori News
 
 ###### August 18th, 2018
 
 * [Ngāti Oneone re-tell accurate history of Gisborne](https://www.teaomaori.news/ngati-oneone-re-tell-accurate-history-gisborne)
+
+###### July 4th, 2019
+
+* [Endeavour replica reveals racism](https://www.teaomaori.news/endeavour-replica-reveals-racism)
 
 ###### October 1st, 2019
 
@@ -311,14 +316,6 @@ The picture referred to by Joseph Banks is on the left page:
 
 ##### Te Ao — Māori News
 
-###### August 18th, 2018
-
-* [Ngāti Oneone re-tell accurate history of Gisborne](https://www.teaomaori.news/ngati-oneone-re-tell-accurate-history-gisborne)
-
-###### July 4th, 2019
-
-* [Endeavour replica reveals racism](https://www.teaomaori.news/endeavour-replica-reveals-racism)
-
 ###### July 16th, 2019
 
 * [Capt. Cook: A 'genocidal murderer' - indigenous scholar Tina Ngata](https://www.teaomaori.news/capt-cook-genocidal-murderer-indigenous-scholartina-ngata)
@@ -331,6 +328,10 @@ The picture referred to by Joseph Banks is on the left page:
 
 * [Story: Tūranganui-a-Kiwa tribes: Lands and ancestors](https://teara.govt.nz/en/turanganui-a-kiwa-tribes/page-1)
 * [Story: Canoe traditions: Canoes of the East Coast](https://teara.govt.nz/en/canoe-traditions/page-6)
+* [Story: Māori foods – kai Māori](https://teara.govt.nz/en/maori-foods-kai-maori)
+* [Story: Ngā tupu mai i Hawaiki – plants from Polynesia](https://teara.govt.nz/en/nga-tupu-mai-i-hawaiki-plants-from-polynesia)
+* [Hue – gourd](https://teara.govt.nz/en/photograph/17491/hue-gourd)
+* [Page 5. Roles and mana](https://teara.govt.nz/en/te-mahi-kai-food-production-economics/page-5)
 
 ##### Te Papa Tongarewa — Museum of New Zealand
 
