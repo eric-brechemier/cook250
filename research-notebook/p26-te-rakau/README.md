@@ -4,7 +4,7 @@
 
 ##### SPL Hand Coloured Rare Book Collection
 
-![A New Zealand Warrior..., Journal of Sydney Parkison](pictures/sydney-parkinson-journal-018.jpg)
+![A New Zealand Warrior..., Journal of Sydney Parkison](pictures/10x15cm-new-zealand-warrior.jpg)
 
 Source: [Journal of Sydney Parkinson](http://www.splrarebooks.com/collection/view/a-journal-of-a-voyage-to-the-south-seas-in-his-majestys-ship-the-endeavour-)
 
@@ -305,7 +305,7 @@ Source: [Journal of Sydney Parkinson](http://www.splrarebooks.com/collection/vie
 
 ###### Nine pou to represent the men shot in the encounter with Endeavour crew
 
-![Nine pou to represent the men shot in the encounter with Endeavour crew](pictures/nine-pou-at-puhi-kai-iti.jpg)
+![Nine pou to represent the men shot in the encounter with Endeavour crew](pictures/15x10cm-nine-pou-at-puhi-kai-iti.jpg)
 
 * [Eugenie Sage MP on Facebook, September 27th, 2019](https://www.facebook.com/EugenieSageMP/posts/2868526743175692)
 
