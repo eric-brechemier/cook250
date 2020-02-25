@@ -290,6 +290,10 @@ The picture referred to by Joseph Banks is on the left page:
 
 * [British Government ‘Expresses Regret’ for Māori Killed After James Cook’s Arrival in New Zealand](https://www.smithsonianmag.com/smart-news/british-government-expresses-regret-maori-killed-after-james-cooks-arrival-new-zealand-180973270/)
 
+##### South Seas
+
+* [Sydney Parkinson's Journal of a Voyage to the South Seas](http://nla.gov.au/nla.cs-ss-jrnl-parkinson-120)
+
 ##### Te Ao — Māori News
 
 ###### August 18th, 2018
