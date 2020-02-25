@@ -1,6 +1,6 @@
 ### Horouta
 
-![Model pahi (sailing canoe from Tuamotu)](pictures/model-pahi.jpg)
+![Model pahi (sailing canoe from Tuamotu)](pictures/15x10cm-model-pahi.jpg)
 
 [Model pahi (sailing canoe from Tuamotu)](https://collections.tepapa.govt.nz/object/747347), 2007, New Zealand,
 by Izzat Design Limited. Commissioned 2007. © Te Papa.
