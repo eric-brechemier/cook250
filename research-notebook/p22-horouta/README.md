@@ -39,6 +39,7 @@ by Izzat Design Limited. Commissioned 2007. © Te Papa.
 
 * [Story: East Coast region: Waka landings, places of significance and tribes](https://teara.govt.nz/en/map/33350/waka-landings-places-of-significance-and-tribes)
 * [Hine Hakirirangi](https://teara.govt.nz/en/artwork/33354/hine-hakirirangi)
+* [Double-hulled voyaging canoes, Gisborne, 2000](https://teara.govt.nz/en/object/1814/double-hulled-voyaging-canoes-gisborne-2000)
 
 ##### Te Papa Tongarewa — Museum of New Zealand
 
