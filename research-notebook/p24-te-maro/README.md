@@ -133,7 +133,8 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Te_Maro_memorial.jpg)
 >
 > — https://www.teaomaori.news/we-cant-sit-back-and-let-be-shallow-statement
 
-> MONDAY, 9th October.
+> **MONDAY, 9th October.**
+>
 > (...) After this I went ashore with a Party of men in the Pinnace and yawl
 > accompanied by Mr. Banks and Dr. Solander. We landed abreast of the Ship and
 > on the East side of the River just mentioned; but seeing some of the Natives
@@ -162,7 +163,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Te_Maro_memorial.jpg)
 > http://gutenberg.net.au/ebooks/e00043.html#ch5
 
 
-> 1769 October 8. Arrived New Zealand
+> **1769 October 8. Arrived New Zealand**
 >
 > (...)
 >
@@ -276,6 +277,7 @@ The picture referred to by Joseph Banks is on the left page:
 
 ##### Project Gutenberg Australia
 
+* [Captain cook's Journal. First Voyage.](http://gutenberg.net.au/ebooks/e00043.html#ch)
 * [The Endeavour Journal of Sir Joseph Banks, 1769 October 8. Arrived New Zealand](http://gutenberg.net.au/ebooks05/0501141h.html#oct1769)
 
 ##### RNZ Radio New Zealand
