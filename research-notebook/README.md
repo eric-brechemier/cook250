@@ -52,7 +52,7 @@ reimagined as a photo album.
 * [27: Claim on New Zealand](p27-claim-on-new-zealand/README.md)
 
 * [28: Māori Place Names](p28-maori-place-names/README.md)
-* [29: Cook's chart of New Zealand](p29-cook-chart/README.md)
+* [29: Cook's Chart of New Zealand](p29-cook-chart/README.md)
 
 * 30: Another History of Great Discoveries
 * [31: Great Discoveries](p31-great-discoveries/README.md)
