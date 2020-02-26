@@ -1,7 +1,7 @@
-### Another History of the Age of Exploration
+### Another History of Great Explorers
 
 This French book is a collection of essays by historians
-who tell a different story of the Age of Exploration.
+who tell a different story of the exploration of the world.
 They give credit to the people who stand in the shadow of
 the Great Explorers and contributed to their discoveries.
 
