@@ -1,0 +1,30 @@
+Author	Carey, Mathew
+Date	1795
+Short Title	A Map of the World from the best Authorities.
+Publisher	Mathew Carey
+Publisher Location	Philadelphia
+Type	Atlas Map
+Obj Height cm	29
+Obj Width cm	50
+Scale 1	80,000,000
+Note	Uncolored double hemisphere map with the routes of Captain Cook shown.
+Reference	P6007.
+World Area	World
+Full Title	A Map of the World from the best Authorities. Western Hemisphere. Eastern Hemisphere. Engrav'd for Carey's Edition of Guthrie's new System of Geography. Thackara & Vallance sc.
+List No	2931.003
+Series No	3
+Engraver or Printer	Thackara & Vallance
+Publication Author	Carey, Mathew
+Pub Date	1795
+Pub Title	The General Atlas For Carey's Edition Of Guthrie's Geography improved ... Philadelphia: Published By Mathew Carey. May 1, 1795.
+Pub Reference	P6007.
+Pub Note	Accompanies Carey's 2 vol Guthrie, 1794-95 (see our 2647). Although the title page calls for it, the large United States map is not present here, nor in any editions we know of (Baskes, LOC, Yale), therefore we conclude that it was not ready until late 1795 and was first included in the 1796 General Atlas (see our copy). The title page of this atlas differs considerably from the 1796 General Atlas title page (which has no mention of Guthrie, nor written explanation of the "small hand pointer," both of which appear here. The maps are in the same order as the 1796 edition, with the Tennessee map the same as the American Atlas Tennessee (Tennessee Government vs Tennessee State in the 1796 edition). The maps all appear to have been folded originally (same as Baskes copy), which probably means they were folded first to be in the text volumes (one way they appeared), but when some buyers wanted the separate atlas, they were unfolded and bound on edge. The overall size of this volume is shorter than the 1796 edition. The owner has written on the title page "Price, with the 2 vols of Guthrie's Geography. 16 Dols = 6 (pounds)." Covers are quarter leather, marbled paper covered boards.
+Pub List No	2931.000
+Pub Type	World Atlas
+Pub Maps	44
+Pub Height cm	39
+Pub Width cm	25
+Image No	2931003
+Download 1	<a href=http://www.davidrumsey.com/rumsey/download.pl?image=/D5005/2931003.sid target=_blank>Full Image Download in MrSID Format</a>
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Authors	Carey, Mathew
