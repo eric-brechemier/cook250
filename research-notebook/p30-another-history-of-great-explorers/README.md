@@ -18,7 +18,15 @@ Source: [Seuil](http://www.seuil.com/ouvrage/l-exploration-du-monde-collectif/97
 * [Épisode 2 : Histoire d’une rencontre : le miroir des Grandes Découvertes](https://www.franceculture.fr/emissions/le-cours-de-lhistoire/quand-explorer-rime-avec-sapproprier-24-histoire-dune-rencontre-le-miroir-des-grandes-decouvertes)
 * [Épisode 3 : Diabolique Amérique : de Christophe Colomb à Vladimir Maïakovski](https://www.franceculture.fr/emissions/le-cours-de-lhistoire/quand-explorer-rime-avec-sapproprier-34-diabolique-amerique-de-christophe-colomb-a-vladimir)
 
+##### Royal Geographical Society, UK
+
+* [The Indigenous map, by Joy Slappnig](https://www.rgs.org/about/our-collections/collaborative-research-on-the-collections/%E2%80%8Bthe-indigenous-map-native-information,-ethnograp/)
+
 ##### Seuil
 
 * [L'Exploration du monde: Une autre histoire des Grandes Découvertes](http://www.seuil.com/ouvrage/l-exploration-du-monde-collectif/9782021406252)
+
+##### Simon & Schuster UK
+
+* [The Phantom Atlas, by Edward Brooke-Hitching](https://www.simonandschuster.co.uk/books/The-Phantom-Atlas/Edward-Brooke-Hitching/9781471159459)
 
