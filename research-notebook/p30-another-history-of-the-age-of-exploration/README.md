@@ -1,5 +1,10 @@
 ### Another History of the Age of Exploration
 
+This French book is a collection of essays by historians
+who tell a different story of the Age of Exploration.
+They give credit to the people who stand in the shadow of
+the Great Explorers and contributed to their discoveries.
+
 ![L'exploration du monde, book cover](pictures/10x15cm-une-autre-histoire.jpg)
 
 Source: [Seuil](http://www.seuil.com/ouvrage/l-exploration-du-monde-collectif/9782021406252)
