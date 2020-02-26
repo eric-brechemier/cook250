@@ -54,8 +54,8 @@ reimagined as a photo album.
 * [28: Māori Place Names](p28-maori-place-names/README.md)
 * [29: Cook's Chart of New Zealand](p29-cook-chart/README.md)
 
-* [30: Another History of Great Discoveries](p30-another-history-of-great-discoveries/README.md)
-* [31: Great Discoveries](p31-great-discoveries/README.md)
+* [30: Another History of Great Explorers](p30-another-history-of-great-discoveries/README.md)
+* [31: Age of Exploration](p31-age-of-exploration/README.md)
 
 * 32: New Zealand Wars
 * [33: Treaty of Waitangi](p33-treaty-of-waitangi/README.md)
