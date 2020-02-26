@@ -1,6 +1,6 @@
 ### Another History of Great Discoveries
 
-![L'exploration du monde, book cover](pictures/une-autre-histoire.jpg)
+![L'exploration du monde, book cover](pictures/10x15cm-une-autre-histoire.jpg)
 
 Source: [Seuil](http://www.seuil.com/ouvrage/l-exploration-du-monde-collectif/9782021406252)
 
