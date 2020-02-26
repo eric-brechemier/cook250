@@ -239,6 +239,24 @@ The picture referred to by Joseph Banks is on the left page:
 
 ##### New Zealand Post
 
+###### Solander and Te Maro
+
+![Solander and Te Maro](pictures/10x15cm-solander-and-te-maro.jpg)
+
+> **$2.60 ‘Te Maro and Solander, two intellectuals from opposite sides of the world, 1769’ (Solander and Te Maro)**
+>
+> Te Maro of Ngāti Rakai (later Ngāti Oneone) and Te Aitanga a Hauiti
+> was trained in the whare wānanga (house of learning) Puhi Kai Iti,
+> an expert in reading nature and a master producer of cultivated foods.
+> Linnaean disciple Daniel Solander was committed to cataloguing the
+> natural world. Nick Tupara, a descendant of Te Maro, is depicted here:
+> a reminder of the legacy of the tragic first meeting of Māori and British
+> at the Tūranganui River, when Te Maro was shot and killed. Te Maro and
+> Solander never met.
+>
+> — TUIA 250, Michel Tuffery's Artistic Journey of Discovery
+> New Zealand Post, Stamps Presentation Pack
+
 * [Tuia 250: Michel Tuffery's Artistic Journey of Discovery](https://stamps.nzpost.co.nz/new-zealand/2019/tuia-250-michel-tufferys-artistic-journey-discovery)
 
 ##### Te Ara — The Encyclopedia of New Zealand
