@@ -54,7 +54,7 @@ reimagined as a photo album.
 * [28: Māori Place Names](p28-maori-place-names/README.md)
 * [29: Cook's Chart of New Zealand](p29-cook-chart/README.md)
 
-* [30: Another History of Great Explorers](p30-another-history-of-great-discoveries/README.md)
+* [30: Another History of the Age of Exploration](p30-another-history-of-the-age-of-exploration/README.md)
 * [31: Age of Exploration](p31-age-of-exploration/README.md)
 
 * 32: New Zealand Wars
