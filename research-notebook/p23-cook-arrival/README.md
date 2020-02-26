@@ -2,7 +2,7 @@
 
 ![View of Poverty Bay featuring Young Nick's Head](pictures/15x10cm-young-nick-head.jpg)
 
-Source: [Journal of Sidney Parkinson, SPL Hand Coloured Rare Book Collection](https://www.splrarebooks.com/uploads/images/5469/med/5469_017.jpg)
+Source: [Journal of Sidney Parkinson, Plate XIV, SPL Hand Coloured Rare Book Collection](https://www.splrarebooks.com/collection/view/a-journal-of-a-voyage-to-the-south-seas-in-his-majestys-ship-the-endeavour-)
 
 #### More Images
 
