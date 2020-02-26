@@ -1,6 +1,6 @@
 ### Te Riu-a-Māui - Zealandia
 
-![Te Riu-a-Māui/Zealandia](pictures/15x10cm-te-riu-a-maui-zealandia.png)
+![Te Riu-a-Māui/Zealandia](pictures/15x10cm-te-riu-a-maui-zealandia.jpg)
 
 Source: [University of Nebraska–Lincoln](https://news.unl.edu/newsrooms/today/article/what-makes-a-continent-husker-geologist-says-zealandia-fits/)
 
