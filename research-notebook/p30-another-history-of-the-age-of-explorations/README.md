@@ -1,4 +1,4 @@
-### Another History of Great Discoveries
+### Another History of the Age of Exploration
 
 ![L'exploration du monde, book cover](pictures/10x15cm-une-autre-histoire.jpg)
 
