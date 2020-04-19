@@ -1,4 +1,4 @@
-### Tā moko
+### Tā Moko
 
 ![Tā moko](pictures/ta-moko.jpg)
 
@@ -9,6 +9,10 @@ Source: [New Zealand Tourism](https://visuals.newzealand.com/asset/2558)
 ##### Deviant Art
 
 * [New Zealand Map Tattoo](https://www.deviantart.com/casanova218/art/New-Zealand-Map-Tattoo-537376145)
+
+##### Toi Iho — Maori Made
+
+* [Nick Tupara, Te Ara Hoe](http://www.toiiho.co.nz/nick-tupara-te-ara-hoe/)
 
 ##### Wikipedia
 
