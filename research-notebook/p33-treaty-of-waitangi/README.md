@@ -23,10 +23,12 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Treatyofwaitangi.jpg)
 ##### Te Ara — The Encyclopedia of New Zealand
 
 * [Story: Treaty of Waitangi](https://teara.govt.nz/en/treaty-of-waitangi)
+* [Story: Te Rōpū Whakamana i te Tiriti o Waitangi](https://teara.govt.nz/en/waitangi-tribunal-te-ropu-whakamana)
 
 ##### Wikipedia
 
 * [Treaty of Waitangi](https://en.wikipedia.org/wiki/Treaty_of_Waitangi)
+* [Waitangi Tribunal](https://en.wikipedia.org/wiki/Waitangi_Tribunal)
 
 ##### YouTube
 
