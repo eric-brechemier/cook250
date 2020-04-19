@@ -1,16 +1,18 @@
 ### Treaty of Waitangi
 
+##### The Waitangi Sheet of the Treaty of Waitangi
 
+Signed between the British Crown and various Māori chiefs in 1840.
+
+![The Waitangi Sheet of the Treaty of Waitangi](pictures/treaty-of-waitangi.jpg)
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Treatyofwaitangi.jpg)
 
 #### More Images
 
 ##### Te Ara — The Encyclopedia of New Zealand
 
 * [All images and media from the story: Treaty of Waitangi](https://teara.govt.nz/en/treaty-of-waitangi/media)
-
-##### Wikipedia
-
-* [The Waitangi Sheet of the Treaty of Waitangi, signed between the British Crown and various Māori chiefs in 1840.](https://en.wikipedia.org/wiki/File:Treatyofwaitangi.jpg)
 
 #### References
 
