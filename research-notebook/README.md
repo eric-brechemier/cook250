@@ -57,8 +57,8 @@ reimagined as a photo album.
 * [30: Another History of Great Explorers](p30-another-history-of-great-explorers/README.md)
 * [31: Great Explorers](p31-great-explorers/README.md)
 
-* [32: New Zealand Wars](p32-new-zealand-wars/README.md)
-* [33: Treaty of Waitangi](p33-treaty-of-waitangi/README.md)
+* [32: Treaty of Waitangi](p32-treaty-of-waitangi/README.md)
+* [33: New Zealand Wars](p33-new-zealand-wars/README.md)
 
 * [34: Māori Flag](p34-maori-flag/README.md)
 * [35: New Zealand Flag](p35-new-zealand-flag/README.md)
