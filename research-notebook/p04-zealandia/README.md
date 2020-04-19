@@ -84,3 +84,5 @@ Source: [University of Nebraska–Lincoln](https://news.unl.edu/newsrooms/today/
 ##### Wikipedia
 
 * [Zealandia](https://en.wikipedia.org/wiki/Zealandia)
+* [Zealandia (personification)](https://en.wikipedia.org/wiki/Zealandia_(personification))
+
