@@ -57,41 +57,41 @@ reimagined as a photo album.
 * [30: Another History of Great Explorers](p30-another-history-of-great-explorers/README.md)
 * [31: Great Explorers](p31-great-explorers/README.md)
 
-* [32: Treaty of Waitangi](p32-treaty-of-waitangi/README.md)
-* [33: New Zealand Wars](p33-new-zealand-wars/README.md)
+* [32: Parihaka](p32-parihaka/README.md)
+* [33: Treaty of Waitangi](p33-treaty-of-waitangi/README.md)
 
-* [34: Māori Flag](p34-maori-flag/README.md)
-* [35: New Zealand Flag](p35-new-zealand-flag/README.md)
+* [34: No Celebration](p34-no-celebration/README.md)
+* [35: Tuia 250](p35-tuia-250/README.md)
 
-* [36: Māori Symbols](p36-maori-symbols/README.md)
-* 37: New Zealand Coat of Arms
+* [36: Māori Flag](p36-maori-flag/README.md)
+* [37: New Zealand Flag](p37-new-zealand-flag/README.md)
 
-* [38: Pounamu](p38-pounamu/README.md)
-* [39: Tā Moko](p39-ta-moko/README.md)
+* [38: Māori Symbols](p38-maori-symbols/README.md)
+* 39: New Zealand Coat of Arms
 
-* [40: Hongi](p40-hongi/README.md)
-* [41: Haka](p41-haka/README.md)
+* [40: Pounamu](p40-pounamu/README.md)
+* [41: Tā Moko](p41-ta-moko/README.md)
 
-* 42: Hue
-* [43: Kiwi Fruit](p43-kiwi-fruit/README.md)
+* [42: Hongi](p42-hongi/README.md)
+* [43: Haka](p43-haka/README.md)
 
-* [44: Kiwi Bird](p44-kiwi-bird/README.md)
-* [45: Silver Fern](p45-silver-fern/README.md)
+* 44: Hue
+* [45: Kiwi Fruit](p43-kiwi-fruit/README.md)
 
-* [46: Old and New](p46-old-and-new/README.md)
-* [47: New and Old](p47-new-and-old/README.md)
+* [46: Kiwi Bird](p46-kiwi-bird/README.md)
+* [47: Silver Fern](p47-silver-fern/README.md)
 
-* [48: Time to tell our story](p46-time-to-tell-our-story/README.md)
-* 49: Abel Tasman 1642
+* [48: Old and New](p48-old-and-new/README.md)
+* [49: New and Old](p49-new-and-old/README.md)
 
-* [50: Puhi Kai Iti / Cook Landing Site National Historic Reserve](p50-puhi-kai-iti/README.md)
-* [51: Captain Cook Memorial](p51-captain-cook-memorial/README.md)
+* [50: Time to tell our story](p50-time-to-tell-our-story/README.md)
+* 51: Abel Tasman 1642
 
-* [52: Crook Cook](p52-crook-cook/README.md)
-* [53: Captain Cook Legacy](p53-captain-cook-legacy/README.md)
+* [52: Puhi Kai Iti / Cook Landing Site National Historic Reserve](p52-puhi-kai-iti/README.md)
+* [53: Captain Cook Memorial](p53-captain-cook-memorial/README.md)
 
-* [54: No Celebration](p54-no-celebration/README.md)
-* [55: Tuia 250](p55-tuia-250/README.md)
+* [54: Crook Cook](p54-crook-cook/README.md)
+* [55: Captain Cook Legacy](p55-captain-cook-legacy/README.md)
 
 * 56: Cocacolonization
 * 57: Coca-Cola: Celebrate
@@ -109,7 +109,7 @@ reimagined as a photo album.
 * 65: La couleur, c'est la misère de la peinture
 
 * 66: New Zealand and Māori Colors
-* [67: Coca-Cola Logo Colors](p65-coca-cola-colors/README.md)s
+* [67: Coca-Cola Logo Colors](p67-coca-cola-colors/README.md)s
 
 * 68: Paper Formats
 * 69: Grid
