@@ -28,6 +28,10 @@ Source: [Christchurch Art Gallery](https://christchurchartgallery.org.nz/collect
 
 * [Parihaka: The Art of Passive Resistance](http://citygallery.org.nz/wp-content/uploads/2017/01/Parihaka_150ppi_medium-Jpeg2000compression-copy.pdf)
 
+##### Te Ara — The Encyclopedia of New Zealand
+
+* [Government troops at Parihaka](https://teara.govt.nz/en/photograph/35931/government-troops-at-parihaka)
+
 ##### Wikipedia
 
 * [The Death of Von Tempsky at Te Ngutu o Te Manu, a portrayal of an incident in the New Zealand wars on 7 September 1868.](https://en.wikipedia.org/wiki/File:Von_Tempsky%27s_death_Kennett_Watkins.jpg)
