@@ -1,4 +1,4 @@
-### New Zealand Wars
+### Parihaka
 
 #### Te Whiti drawing-painting
 
@@ -84,8 +84,8 @@ Source: [Christchurch Art Gallery](https://christchurchartgallery.org.nz/collect
 
 ##### Wikipedia
 
-* [The Death of Von Tempsky at Te Ngutu o Te Manu, a portrayal of an incident in the New Zealand wars on 7 September 1868.](https://en.wikipedia.org/wiki/File:Von_Tempsky%27s_death_Kennett_Watkins.jpg)
-* [Hone Heke fells the flagstaff at Kororareka. Painting by Arthur David McCormick.](https://en.wikipedia.org/wiki/File:HekeFlagstaff.jpg)
+* [Armed constabulary field force at parihaka](https://en.wikipedia.org/wiki/File:Armed_constabulary_field_force_at_parihaka.jpg)
+* [Te Whiti leaving Parihaka under arrest, November 5, 1881.](https://en.wikipedia.org/wiki/File:Whiti.jpg)
 
 #### References
 
@@ -108,6 +108,7 @@ Source: [Christchurch Art Gallery](https://christchurchartgallery.org.nz/collect
 
 ##### Wikipedia
 
+* [Parihaka](https://en.wikipedia.org/wiki/Parihaka)
 * [New Zealand Wars](https://en.wikipedia.org/wiki/New_Zealand_Wars)
 * [Flagstaff Hill (New Zealand)](https://en.wikipedia.org/wiki/Flagstaff_Hill_(New_Zealand))
 * [Ralph Hotere](https://en.wikipedia.org/wiki/Ralph_Hotere)
