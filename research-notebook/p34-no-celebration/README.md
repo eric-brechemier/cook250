@@ -55,3 +55,10 @@ Source: [Te Ara — The Encyclopedia of New Zealand](https://teara.govt.nz/en/ph
 ###### October 5th, 2019
 
 * [Move over, James Cook: Māori and Pacific voices on Tuia 250](https://thespinoff.co.nz/atea/05-10-2019/maori-and-pacific-voices-on-tuia-250-whose-history-are-we-celebrating-again/)
+
+##### Te Ara — The Encyclopedia of New Zealand
+
+* [Story: Treaty of Waitangi](https://teara.govt.nz/en/treaty-of-waitangi)
+* [Story: Ngā rōpū tautohetohe – Māori protest movements](https://teara.govt.nz/en/nga-ropu-tautohetohe-maori-protest-movements)
+* [Waitangi Day protests](https://teara.govt.nz/en/nga-ropu-tautohetohe-maori-protest-movements/page-2)
+
