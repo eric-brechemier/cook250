@@ -64,7 +64,7 @@ reimagined as a photo album.
 * [35: New Zealand Flag](p35-new-zealand-flag/README.md)
 
 * [36: Māori Symbols](p36-maori-symbols/README.md)
-* [37: Silver Fern](p37-silver-fern/README.md)
+* 37: New Zealand Coat of Arms
 
 * [38: Pounamu](p38-pounamu/README.md)
 * [39: Tā Moko](p39-ta-moko/README.md)
@@ -72,46 +72,62 @@ reimagined as a photo album.
 * [40: Hongi](p40-hongi/README.md)
 * [41: Haka](p41-haka/README.md)
 
-* [42: Kiwi Bird](p42-kiwi-bird/README.md)
+* 42: Hue
 * [43: Kiwi Fruit](p43-kiwi-fruit/README.md)
 
-* [44: Old and New](p44-old-and-new/README.md)
-* [45: New and Old](p45-new-and-old/README.md)
+* [44: Kiwi Bird](p44-kiwi-bird/README.md)
+* [45: Silver Fern](p45-silver-fern/README.md)
 
-* [46: Time to tell our story](p46-time-to-tell-our-story/README.md)
-* 47: Abel Tasman 1642
+* [46: Old and New](p46-old-and-new/README.md)
+* [47: New and Old](p47-new-and-old/README.md)
 
-* [48: Puhi Kai Iti / Cook Landing Site National Historic Reserve](p48-puhi-kai-iti/README.md)
-* 49: Captain Cook Memorial
+* [48: Time to tell our story](p46-time-to-tell-our-story/README.md)
+* 49: Abel Tasman 1642
 
-* [50: Crook Cook](p50-crook-cook/README.md)
-* 51: Captain Cook Legacy
+* [50: Puhi Kai Iti / Cook Landing Site National Historic Reserve](p50-puhi-kai-iti/README.md)
+* [51: Captain Cook Memorial](p51-captain-cook-memorial/README.md)
 
-* [52: No Celebration](p52-no-celebration/README.md)
-* [53: Tuia 250](p53-tuia-250/README.md)
+* [52: Crook Cook](p52-crook-cook/README.md)
+* [53: Captain Cook Legacy](p53-captain-cook-legacy/README.md)
 
-* 54: Cocacolonization
-* 55: Coca-Cola: Celebrate
+* [54: No Celebration](p54-no-celebration/README.md)
+* [55: Tuia 250](p55-tuia-250/README.md)
 
-* [56: Ambigram](p52-ambigram/README.md)
-* [57: James Cook Signature](p57-james-cook-signature/README.md)
+* 56: Cocacolonization
+* 57: Coca-Cola: Celebrate
 
-* [58: Whakarare](p54-whakarare/README.md)
-* 59: Helvetica
+* [58: Ambigram](p58-ambigram/README.md)
+* [59: James Cook Signature](p59-james-cook-signature/README.md)
 
-* 60: Josef Albers, Interaction of Color
-* 61: La couleur, c'est la misère de la peinture
+* [60: Whakarare](p60-whakarare/README.md)
+* 61: Helvetica
 
-* 62: Camouflage
-* [63: Colors](p63-colors/README.md)
+* 62: In Memoriam
+* 63: Blackletter
 
-* 64: In Memoriam Te Maro
-* 65: Discovery of New Zealand by James Cook
+* 64: Josef Albers, Interaction of Color
+* 65: La couleur, c'est la misère de la peinture
 
-* 66: sos chaos
-* 67: Cook 250
+* 66: New Zealand and Māori Colors
+* [67: Coca-Cola Logo Colors](p65-coca-cola-colors/README.md)s
 
-* 68: Poster: Māori perspective
-* 69: Poster: European perspective
+* 68: Paper Formats
+* 69: Grid
 
+* 70: Ink Sprays
+* 71: Discovery of New Zealand by James Cook
+
+* 72: SOS Chaos
+* 73: Cook 250
+
+* 74: Hei whakamaharatanga ki a Te Maro
+* 75: In Memoriam Te Maro
+
+* 76: Poster: Māori perspective
+* 77: Poster: European perspective
+
+* 78: Thank You
+* 79:
+
+* 80: [Cook 250 (same as page 1)](p01-cook-250/README.md)
 
