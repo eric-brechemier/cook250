@@ -4,9 +4,9 @@
 
 ![Te Whiti drawing-painting](pictures/te-whiti-drawing-painting.jpg)
 
-by Ralph Hotere (1931–2013)
-Acrylic and ink on paper
-731 x 528mm
+by Ralph Hotere (1931–2013)  
+Acrylic and ink on paper  
+731 x 528mm  
 1972
 
 Source: [Christchurch Art Gallery](https://christchurchartgallery.org.nz/collection/2000-22/ralph-hotere/te-whiti-drawing-painting)
