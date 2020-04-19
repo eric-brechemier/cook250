@@ -40,9 +40,9 @@ Source: [Stuff](https://www.stuff.co.nz/opinion/107003588/time-to-tell-our-stori
 
 ##### RNZ Radio New Zealand
 
-###### ...
+###### September 12th, 2019
 
-* [...](https://www.rnz.co.nz/news/national/398599/new-zealand-history-will-be-compulsory-in-all-schools-by-2022)
+* [New Zealand history will be compulsory in all schools by 2022](https://www.rnz.co.nz/news/national/398599/new-zealand-history-will-be-compulsory-in-all-schools-by-2022)
 
 ##### Stuff
 
@@ -105,3 +105,7 @@ Source: [Stuff](https://www.stuff.co.nz/opinion/107003588/time-to-tell-our-stori
 
 * [New Zealand history to be taught in schools by 2022, says PM Jacinda Ardern](https://www.stuff.co.nz/national/education/115712569/new-zealand-history-to-be-taught-in-schools-by-2022-says-pm-jacinda-ardern)
 
+##### Te Ara — The Encyclopedia of New Zealand
+
+* [Te Ara – a history: Māori content, biculturalism and translation](https://teara.govt.nz/en/te-ara-a-history/page-5)
+* [Map of New Zealand with iwi](https://teara.govt.nz/en/map/45555/map-of-new-zealand-with-iwi)
