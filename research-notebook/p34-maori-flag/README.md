@@ -10,6 +10,10 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Tino_Rangatiratanga_Maori
 
 * [National Colors Of New Zealand Color Scheme](https://www.schemecolor.com/national-colors-of-new-zealand.php)
 
+##### Wikipedia
+
+* [United Tribes of New Zealand](https://en.wikipedia.org/wiki/United_Tribes_of_New_Zealand)
+
 #### References
 
 ##### Manatū Taonga, Ministry for Culture & Heritage
