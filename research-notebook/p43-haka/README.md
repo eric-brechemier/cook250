@@ -14,6 +14,11 @@ Source: [RugbyPass](https://www.rugbypass.com/news/english-football-star-mocks-h
 
 * [Inappropriate haka use: 'It was mana-diminishing'](https://www.rnz.co.nz/news/te-manu-korihi/381822/inappropriate-haka-use-it-was-mana-diminishing)
 
+
+##### Te Ara — The Encyclopedia of New Zealand
+
+* [Āpirana Ngata at Waitangi](https://teara.govt.nz/en/photograph/35933/apirana-ngata-at-waitangi)
+
 ##### XV Mondial
 
 * [Angleterre - Nouvelle-Zélande : le Haka en vidéo](http://www.quinzemondial.com/actualites-international/angleterre-nouvelle-zelande-le-haka-en-video-200891)
