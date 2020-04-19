@@ -6,6 +6,10 @@ Source: [Flying Fish](https://flyingfishsail.wordpress.com/2019/04/04/the-new-ze
 
 #### More Images
 
+##### Eric Bréchemier on Flickr
+
+* [Native Fern](https://www.flickr.com/photos/eric_brechemier/3324116234/in/album-72157611251752316/)
+
 ##### Photos.com
 
 * [New Zealand Fern](https://photos.com/featured/new-zealand-fern-alkalyne.html)
