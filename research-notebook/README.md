@@ -67,7 +67,7 @@ reimagined as a photo album.
 * [37: New Zealand Flag](p37-new-zealand-flag/README.md)
 
 * [38: Māori Symbols](p38-maori-symbols/README.md)
-* 39: New Zealand Coat of Arms
+* [39: New Zealand Coat of Arms](p39-new-zealand-coat-of-arms/README.md)
 
 * [40: Pounamu](p40-pounamu/README.md)
 * [41: Tā Moko](p41-ta-moko/README.md)
@@ -75,7 +75,7 @@ reimagined as a photo album.
 * [42: Hongi](p42-hongi/README.md)
 * [43: Haka](p43-haka/README.md)
 
-* 44: Hue
+* [44: Hue](p44-hue/README.md)
 * [45: Kiwi Fruit](p43-kiwi-fruit/README.md)
 
 * [46: Kiwi Bird](p46-kiwi-bird/README.md)
