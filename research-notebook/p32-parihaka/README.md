@@ -104,7 +104,10 @@ Source: [Christchurch Art Gallery](https://christchurchartgallery.org.nz/collect
 ##### Te Ara — The Encyclopedia of New Zealand
 
 * [Story: New Zealand wars](https://teara.govt.nz/en/new-zealand-wars/page-1)
-* [Books about the New Zealand wars](https://teara.govt.nz/en/ephemera/36885/books-about-the-new-zealand-wars)
+* [Story: Communes and communities: Parihaka](https://teara.govt.nz/en/speech/28100/parihaka)
+* [Story: Te tango whenua – Māori land alienation: Parihaka](https://teara.govt.nz/en/photograph/19521/parihaka)
+* [Story: Taranaki tribe](https://teara.govt.nz/en/taranaki-tribe)
+* [Resistance](https://teara.govt.nz/en/taranaki-tribe/page-4)
 
 ##### Wikipedia
 
