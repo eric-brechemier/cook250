@@ -29,6 +29,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Treatyofwaitangi.jpg)
 
 * [Treaty of Waitangi](https://en.wikipedia.org/wiki/Treaty_of_Waitangi)
 * [Waitangi Tribunal](https://en.wikipedia.org/wiki/Waitangi_Tribunal)
+* [New Zealand Centennial Exhibition](https://en.wikipedia.org/wiki/New_Zealand_Centennial_Exhibition)
 
 ##### YouTube
 
