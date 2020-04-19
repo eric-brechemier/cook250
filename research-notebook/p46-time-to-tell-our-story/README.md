@@ -2,7 +2,7 @@
 
 ![Time to tell our stories](pictures/time-to-tell-our-story.jpg)
 
-Source: [Stuff NZ](https://www.stuff.co.nz/opinion/107003588/time-to-tell-our-stories)
+Source: [Stuff](https://www.stuff.co.nz/opinion/107003588/time-to-tell-our-stories)
 
 > A push to ensure New Zealand history is taught in the country's schools
 > in a coherent manner has paid off, with the prime minister announcing
@@ -44,7 +44,7 @@ Source: [Stuff NZ](https://www.stuff.co.nz/opinion/107003588/time-to-tell-our-st
 
 * [...](https://www.rnz.co.nz/news/national/398599/new-zealand-history-will-be-compulsory-in-all-schools-by-2022)
 
-##### Stuff NZ
+##### Stuff
 
 ###### August 25th, 2016
 
