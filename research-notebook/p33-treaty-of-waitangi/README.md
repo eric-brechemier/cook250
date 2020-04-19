@@ -1,17 +1,6 @@
 ### Treaty of Waitangi
 
-#### Protesting the 150th anniversary of the Treaty of Waitangi
 
-> A group of protesters look out from the roof of a bus at Waitangi in 1990,
-> on the 150th anniversary of the signing of the Treaty of Waitangi.
-> Flags, including the Kotahitanga (Māori parliament movement) and
-> tino rangatiratanga (self-determination) flags, fly from the bus, and
-> banners hang from it displaying phrases such as '150 years of oppression',
-> illustrating disquiet with the commemorations.
-
-![Protesting the 150th anniversary of the Treaty of Waitangi](pictures/protesting-treaty-of-waitangi-150th-anniversary.jpg)
-
-Source: [Te Ara — The Encyclopedia of New Zealand](https://teara.govt.nz/en/photograph/35929/protesting-the-150th-anniversary-of-the-treaty-of-waitangi)
 
 #### More Images
 
