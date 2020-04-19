@@ -20,6 +20,7 @@ Source: [Te Ara — The Encyclopedia of New Zealand](https://teara.govt.nz/en/ph
 * [All images and media from the story: Treaty of Waitangi](https://teara.govt.nz/en/treaty-of-waitangi/media)
 * [Treaty protest posters: ‘The treaty is a fraud’ (1st of 2)](https://teara.govt.nz/en/ephemera/36376/treaty-protest-posters-the-treaty-is-a-fraud)
 * [Treaty protest posters: ‘What is there to celebrate?’ (2nd of 2)](https://teara.govt.nz/en/zoomify/36377/treaty-protest-posters-what-is-there-to-celebrate)
+* [Āpirana Ngata at Waitangi](https://teara.govt.nz/en/photograph/35933/apirana-ngata-at-waitangi)
 
 ##### Wikipedia
 
