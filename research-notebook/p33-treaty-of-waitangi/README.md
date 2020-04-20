@@ -10,6 +10,10 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Treatyofwaitangi.jpg)
 
 #### More Images
 
+##### New Zealand Post
+
+* [Single 6d 'Annexation of New Zealand' gummed stamp](https://stamps.nzpost.co.nz/new-zealand/1906/christchurch-exhibition)
+
 ##### Te Ara — The Encyclopedia of New Zealand
 
 * [All images and media from the story: Treaty of Waitangi](https://teara.govt.nz/en/treaty-of-waitangi/media)
