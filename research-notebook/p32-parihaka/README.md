@@ -162,6 +162,8 @@ Source: [Christchurch Art Gallery](https://christchurchartgallery.org.nz/collect
 ##### Wikipedia
 
 * [Parihaka](https://en.wikipedia.org/wiki/Parihaka)
+* [Te Whiti o Rongomai](https://en.wikipedia.org/wiki/Te_Whiti_o_Rongomai)
+* [Tohu Kākahi](https://en.wikipedia.org/wiki/Tohu_K%C4%81kahi)
 * [New Zealand Wars](https://en.wikipedia.org/wiki/New_Zealand_Wars)
 * [Flagstaff Hill (New Zealand)](https://en.wikipedia.org/wiki/Flagstaff_Hill_(New_Zealand))
 * [Ralph Hotere](https://en.wikipedia.org/wiki/Ralph_Hotere)
