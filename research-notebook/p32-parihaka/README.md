@@ -101,6 +101,50 @@ Source: [Christchurch Art Gallery](https://christchurchartgallery.org.nz/collect
 
 * [Parihaka: The Art of Passive Resistance](https://citygallery.org.nz/exhibitions/parihaka/)
 
+##### New Zealand Geographic
+
+###### November–December 2016
+
+* [Why wasn’t I told?](https://www.nzgeo.com/stories/parihaka/)
+* [The case for Parihaka Day](https://www.nzgeo.com/stories/the-case-for-parihaka-day/)
+
+##### New Zealand History
+
+* [Parihaka Attack](https://nzhistory.govt.nz/keyword/parihaka)
+* [Parihaka ploughing campaign begins, 26 May 1879](https://nzhistory.govt.nz/parihaka-ploughing-campaign-begins)
+* [Invasion of pacifist settlement at Parihaka, 5 November 1881](https://nzhistory.govt.nz/occupation-pacifist-settlement-at-parihaka)
+
+##### Parihaka Film
+
+* [Tatarakihi – The Children of Parihaka](http://www.parihakafilm.co.nz/the-film.html)
+* [Background to Parihaka](http://www.parihakafilm.co.nz/about.html)
+* [The Film](http://www.parihakafilm.co.nz/the-film.html)
+
+##### Parihaka — Past, Present and Future
+
+* [Establishment of Parihaka](https://parihaka.maori.nz/#tab-3d007942-3724-3)
+* [Timeline](https://parihaka.maori.nz/#timeline)
+
+##### RNZ — Radio New Zealand
+
+###### November 6, 2015
+
+* [Public support growing for Parihaka Day](https://www.rnz.co.nz/news/national/289058/public-support-growing-for-parihaka-day)
+
+###### September 29, 2019
+
+* [Waitara battle sites focus of land wars commemoration](https://www.rnz.co.nz/news/te-manu-korihi/399879/waitara-battle-sites-focus-of-land-wars-commemoration)
+
+###### October 24, 2019
+
+* [Parihaka reach milestone to reconcile relationship with Crown](https://www.rnz.co.nz/news/te-manu-korihi/401714/parihaka-reach-milestone-to-reconcile-relationship-with-crown)
+
+##### Stuff
+
+###### November 5, 2017
+
+* [National Parihaka Day back on the table](https://www.stuff.co.nz/national/politics/98573351/national-parihaka-day-back-on-the-table)
+
 ##### Te Ara — The Encyclopedia of New Zealand
 
 * [Story: New Zealand wars](https://teara.govt.nz/en/new-zealand-wars/page-1)
@@ -108,6 +152,12 @@ Source: [Christchurch Art Gallery](https://christchurchartgallery.org.nz/collect
 * [Story: Te tango whenua – Māori land alienation: Parihaka](https://teara.govt.nz/en/photograph/19521/parihaka)
 * [Story: Taranaki tribe](https://teara.govt.nz/en/taranaki-tribe)
 * [Resistance](https://teara.govt.nz/en/taranaki-tribe/page-4)
+
+##### The Spinoff
+
+###### June 9, 2017
+
+* [A milestone day for Parihaka – and for the long march to justice and peace in Aotearoa](https://thespinoff.co.nz/atea/09-06-2017/a-milestone-day-for-parihaka-and-for-the-long-march-to-justice-and-peace-in-aotearoa/)
 
 ##### Wikipedia
 
