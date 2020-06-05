@@ -14,6 +14,7 @@ Source: [Journal of Sidney Parkinson, Plate XIV, SPL Hand Coloured Rare Book Col
 
 * [Tuia 250: Michel Tuffery's Artistic Journey of Discovery](https://stamps.nzpost.co.nz/new-zealand/2019/tuia-250-michel-tufferys-artistic-journey-discovery)
 * [Single 3d 'Landing of Captain Cook' gummed stamp](https://stamps.nzpost.co.nz/new-zealand/1906/christchurch-exhibition)
+* [Single 2s 'Landing of Captain Cook' gummed stamp](https://stamps.nzpost.co.nz/new-zealand/1936/pictorial-officials)
 
 ##### SPL — Hand Coloured Rare Book Collection
 
