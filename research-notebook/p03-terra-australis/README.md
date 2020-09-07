@@ -1,10 +1,12 @@
+*[Previous](../p02-maui/)* | Page 03 | *[Next](../p04-zealandia/)*
 ### Terra Australis
 
-#### Guillaume Le Testu, Cosmographie Universelle, 4ème projection (1556)
+#### Terra Australis, the South Continent
 
-![Cosmographie Universelle, 4ème projection](pictures/15x10cm-le-testu-cosmographie-universelle-4th-projection.jpg)
+![Cosmographie Universelle, 4ème projection](pictures/148x100-WxHmm-le-testu-cosmographie-universelle-4th-projection.jpg)
+*Cosmographie Universelle, 4ème projection by Guillaume Le Testu (1556)*
 
-Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Le_Testu_1556_4th_projection.jpg)
+Source: [gallica.bnf.fr / Bibliothèque nationale de France](https://gallica.bnf.fr/ark:/12148/btv1b8447838j/f18.item)
 
 #### More Images
 
@@ -19,6 +21,7 @@ Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Le_Testu_1556_4th
 
 ##### Wikipedia
 
+* [Cosmographie Universelle, 4ème projection](https://en.wikipedia.org/wiki/File:Le_Testu_1556_4th_projection.jpg)
 * [Cornelius Wytfliet South 1597](https://en.wikipedia.org/wiki/File:Cornelius_Wytfliet_South_1597.jpg)
 * [Le pôle antarctique, Jacques de Vaux](https://en.wikipedia.org/wiki/File:Map-533.jpg)
 * [Mercator World Map](https://en.wikipedia.org/wiki/File:Mercator_World_Map.jpg)
@@ -43,3 +46,4 @@ Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Le_Testu_1556_4th
 * [Guillaume Le Testu](https://en.wikipedia.org/wiki/Guillaume_Le_Testu)
 * [Terra Australis](https://en.wikipedia.org/wiki/Terra_Australis)
 
+*[Previous](../p02-maui/)* | Page 03 | *[Next](../p04-zealandia/)*
