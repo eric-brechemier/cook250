@@ -1,4 +1,4 @@
-*[Previous](../p01-cook-250/)* | Page 02 | *[Next](../p03-terra-australis)*
+*[Previous](../p01-cook-250/)* | Page 02 | *[Next](../p03-terra-australis/)*
 ### Māui
 
 #### Māui fishing New Zealand out of the ocean
@@ -77,4 +77,4 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 
 * [Māui](https://en.wikipedia.org/wiki/M%C4%81ui_(mythology))
 
-*[Previous](../p01-cook-250/)* | Page 02 | *[Next](../p03-terra-australis)*
+*[Previous](../p01-cook-250/)* | Page 02 | *[Next](../p03-terra-australis/)*
