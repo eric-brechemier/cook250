@@ -1,6 +1,8 @@
-### Te Riu-a-Māui - Zealandia
+*[Previous](../p03-terra-australis/)* | Page 04 | *[Next](../p05-ring-of-fire/)*
+### Te Riu-a-Māui / Zealandia, a continent 94% underwater
 
-![Te Riu-a-Māui/Zealandia](pictures/15x10cm-te-riu-a-maui-zealandia.jpg)
+![Te Riu-a-Māui/Zealandia](pictures/148x100-WxHmm-zealandia.jpg)
+*The hills, valleys and plains of Māui*
 
 Source: [University of Nebraska–Lincoln](https://news.unl.edu/newsrooms/today/article/what-makes-a-continent-husker-geologist-says-zealandia-fits/)
 
@@ -86,3 +88,4 @@ Source: [University of Nebraska–Lincoln](https://news.unl.edu/newsrooms/today/
 * [Zealandia](https://en.wikipedia.org/wiki/Zealandia)
 * [Zealandia (personification)](https://en.wikipedia.org/wiki/Zealandia_(personification))
 
+*[Previous](../p03-terra-australis/)* | Page 04 | *[Next](../p05-ring-of-fire/)*
