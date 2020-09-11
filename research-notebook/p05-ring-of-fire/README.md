@@ -1,6 +1,7 @@
+*[Previous](../p04-zealandia/)* | Page 05 | *[Next](../p06-hawaiki/)*
 ### Ring of Fire
 
-![Ring of Fire](pictures/15x10cm-ring-of-fire.png)
+![Ring of Fire](pictures/148x100-WxHmm-ring-of-fire.jpg)
 
 Source: [CNN/USGS](https://edition.cnn.com/2017/09/08/world/ring-of-fire-explainer/index.html)
 
@@ -27,3 +28,5 @@ Source: [CNN/USGS](https://edition.cnn.com/2017/09/08/world/ring-of-fire-explain
 ##### Wikipedia
 
 * [Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire)
+
+*[Previous](../p04-zealandia/)* | Page 05 | *[Next](../p06-hawaiki/)*
