@@ -7,7 +7,7 @@
 > produce high waves, and they erode the shore as shown in this image.
 > — https://en.wikipedia.org/wiki/Roaring_Forties
 
-![View of sediment from New Zealand flowing in the Pacific Ocean](pictures/10x15cm-roaring-forties.jpg)
+![View of sediment from New Zealand flowing in the Pacific Ocean](pictures/148x100-WxHmm-roaring-forties.jpg)
 
 > View of sediment from New Zealand flowing in the Pacific Ocean.
 > The volume of sediment in the water hints at rough seas.
