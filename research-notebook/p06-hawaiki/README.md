@@ -1,6 +1,7 @@
+*[Previous](../p05-ring-of-fire/)* | Page 06 | *[Next](../p07-roaring-forties/)*
 ### Hawaiki
 
-![Hawaiki, as depicted in Civilization VI video game](pictures/15x10cm-civilization-VI-hawaiki.jpg)
+![Hawaiki, as depicted in Civilization VI video game](pictures/148x100-WxHmm-hawaiki.jpg)
 
 > From Hawaiki to Hawaiki
 >
@@ -84,3 +85,5 @@
 ##### Wikisource
 
 * [Hawaiki: The Original Home of the Maori, by S. Percy Smith](https://en.wikisource.org/wiki/Hawaiki_The_Original_Home_of_the_Maori)
+
+*[Previous](../p05-ring-of-fire/)* | Page 06 | *[Next](../p07-roaring-forties/)*
