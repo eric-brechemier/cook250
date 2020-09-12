@@ -9,10 +9,17 @@
 pageName="$1"
 shortCode="${2:-${1#*-}}"
 
+cd "$(dirname "$0")"
 if test -z "$pageName"
 then
   echo "Usage: $0 pageName [shortCode]" 2>&1
   exit 1
+fi
+
+if test ! -d "$pageName"
+then
+  echo "No folder found for the page '$pageName'"
+  exit 2
 fi
 
 echo "Create short link https://git.io/cook250:$shortCode for page $pageName"
