@@ -1,3 +1,4 @@
+*[Previous](../p06-hawaiki/)* | Page 07 | *[Next](../p08-kupe/)*
 ### Roaring Forties
 
 #### Turbid Waters Surround New Zealand
@@ -26,9 +27,21 @@
 > Strong winds produce high waves, and they erode the shore
 > as shown in the image.
 
-Source: [Wikimedia](https://en.wikipedia.org/wiki/File:Turbid_Waters_Surround_New_Zealand.jpg)
+Source: [NASA Ocean Color on Wikimedia](https://en.wikipedia.org/wiki/File:Turbid_Waters_Surround_New_Zealand.jpg)
 
 A larger resolution of the picture is available on that page.
+
+#### More Images
+
+##### NASA Ocean Color Team
+
+* [New Zealand, April 29, 2011](https://oceancolor.gsfc.nasa.gov/gallery/393/)
+
+> Runoff from recent heavy rains and wave action along the coast
+> have increased the turbidity of coastal waters
+> in this April 29, 2011 MODIS image of New Zealand.
+
+* [New Zealand, January 9, 2015](https://oceancolor.gsfc.nasa.gov/gallery/438/)
 
 #### References
 
@@ -39,3 +52,5 @@ A larger resolution of the picture is available on that page.
 ##### Wikipedia
 
 * [Roaring Forties](https://en.wikipedia.org/wiki/Roaring_Forties)
+
+*[Previous](../p06-hawaiki/)* | Page 07 | *[Next](../p08-kupe/)*
