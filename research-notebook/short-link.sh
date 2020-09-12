@@ -32,5 +32,5 @@ echo '1...' && sleep 1
 curl -i https://git.io \
   -F "url=https://github.com/eric-brechemier/cook250/tree/master/research-notebook/$pageName" \
   -F "code=cook250:$shortCode"
-
+echo
 echo "Done."
