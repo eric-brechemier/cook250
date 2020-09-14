@@ -1,8 +1,11 @@
+*[Previous](../p07-roaring-forties/)* | Page 08 | *[Next](../p09-abel-tasman/)*
 ### Kupe
 
-#### Kupe, The Great Navigator
+#### A cloud! A white cloud! A long white cloud!
 
-![Kupe, The Great Navigator, by Dave Burke](pictures/kupe-stamps.png)
+![Kupe, The Great Navigator, by Dave Burke](pictures/kupe-stamps.png)  
+*Kupe's wife, Hine-te-Aparangi, was the first to spot Aotearoa.*  
+*Stamps designed by Dave Burke, issued June 5, 2019 by New Zealand Post*
 
 > Kupe - The Great Navigator Sheetlet
 >
@@ -80,6 +83,7 @@ Source: [New Zealand Post](https://stamps.nzpost.co.nz/new-zealand/2019/kupe-gre
 
 ##### Te Ara, The Encyclopedia of New Zealand
 
+* [Aotearoa](https://teara.govt.nz/en/1966/aotearoa)
 * [Story: First peoples in Māori tradition](https://teara.govt.nz/en/first-peoples-in-maori-tradition)
 * [Kupe](https://teara.govt.nz/en/first-peoples-in-maori-tradition/page-6)
 * [Coastal Explorers](https://teara.govt.nz/en/nga-waewae-tapu-maori-exploration/page-2)
@@ -114,3 +118,4 @@ Source: [New Zealand Post](https://stamps.nzpost.co.nz/new-zealand/2019/kupe-gre
 * [Kupe](https://en.wikipedia.org/wiki/Kupe)
 * [Te Wheke-a-Muturangi](https://en.wikipedia.org/wiki/Te_Wheke-a-Muturangi)
 
+*[Previous](../p07-roaring-forties/)* | Page 08 | *[Next](../p09-abel-tasman/)*
