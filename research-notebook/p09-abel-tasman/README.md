@@ -1,3 +1,4 @@
+*[Previous](../p08-kupe/)* | Page 09 | *[Next](../p10-matawhaorua/)*
 ### Abel Tasman
 
 [Abel Tasman][TASMAN] was a Dutch explorer employed by the
@@ -6,7 +7,7 @@
 a gigantic land mass expected to cover 1/5th of the world,
 which was assumed to be required to keep the Earth in balance.
 
-![Tasman's Discovery of New Zealand, Centennial of New Zealand Stamp, 1940](pictures/15x10cm-abel-tasman-stamp.jpg)
+![Tasman's Discovery of New Zealand, Centennial of New Zealand Stamp, 1940](pictures/148x100-WxHmm-abel-tasman.jpg)
 
 Source: [Te Ara — The Encyclopedia of New Zealand](https://teara.govt.nz/en/zoomify/43023/centennial-stamps)
 
@@ -96,3 +97,5 @@ Source: [Tasman 375 Project](https://tasman375.groningen.nl/en/over-tasman-375)
 [TASMAN_SHIPS]: http://abeltasman.org.nz/articles-research/heemskerck-zeehaen/
 [TERRA_AUSTRALIS]: https://en.wikipedia.org/wiki/Terra_Australis
 [VOC]: https://en.wikipedia.org/wiki/Dutch_East_India_Company
+
+*[Previous](../p08-kupe/)* | Page 09 | *[Next](../p10-matawhaorua/)*
