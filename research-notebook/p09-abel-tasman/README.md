@@ -63,6 +63,10 @@ Source: [Tasman 375 Project](https://tasman375.groningen.nl/en/over-tasman-375)
 
 * [Facsimile of Tasman Journal](https://www.nationaalarchief.nl/en/research/archive/1.11.01.01/inventory?inventarisnr=121&activeTab=gahetnascans)
 
+##### New Zealand Post
+
+* [1940 Centennial](https://stamps.nzpost.co.nz/new-zealand/1940/centennial)
+
 ##### Project Gutenberg Australia
 
 * [Abel Janszoon TASMAN (c.1603-1659)](http://gutenberg.net.au/pages/tasman.html)
