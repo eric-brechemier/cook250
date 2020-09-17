@@ -60,6 +60,10 @@ Source: [New Zealand Post](https://stamps.nzpost.co.nz/new-zealand/2019/kupe-gre
 
 * [Kupe’s Sails](http://abeltasman.org.nz/kupes/)
 
+##### Ao Ako Global Learning
+
+* [The Wheke – The Octopus](https://aoakogloballearning.co.nz/te-wheke/)
+
 ##### Encyclopedia Mythica
 
 * [Kupe](https://pantheon.org/articles/k/kupe.html)
