@@ -29,7 +29,9 @@
 >
 > — https://stamps.nzpost.co.nz/new-zealand/2019/kupe-great-navigator
 
-![Kupe's wife sighting Aotearoa](pictures/10x15cm-kupe-wife-sighting-aotearoa.jpg)
+![Kupe's wife sighting Aotearoa](pictures/10x15cm-kupe-wife-sighting-aotearoa.jpg)  
+*Statue sculpted by William Trethewey in 1939, cast in bronze in 1999*  
+*Photography by Richard F. Ebert*
 
 Source: [Encircle Photos](https://www.encirclephotos.com/image/kupe-raiatea-sighting-of-aotearoa-in-wellington-new-zealand/)
 
@@ -68,6 +70,10 @@ Source: [Encircle Photos](https://www.encirclephotos.com/image/kupe-raiatea-sigh
 
 * [The long white cloud (Ao tea roa) by William Pember Reeves (1899)](https://archive.org/details/longwhitecloudao00reevuoft/page/n8/mode/2up)
 
+##### New Zealand Festival
+
+* [Kupe’s Arrival](https://2018.festival.co.nz/2018/events/a-waka-odyssey/kupes-arrival/)
+
 ##### New Zealand Tourism Guide
 
 * [Māori Stories and Legends](https://www.tourism.net.nz/new-zealand/about-new-zealand/maori-stories-and-legends.html)
@@ -94,6 +100,7 @@ Source: [Encircle Photos](https://www.encirclephotos.com/image/kupe-raiatea-sigh
 * [Aotearoa](https://en.wikipedia.org/wiki/Aotearoa)
 * [Kupe](https://en.wikipedia.org/wiki/Kupe)
 * [Kuramarotini](https://en.wikipedia.org/wiki/Kuramarotini)
+* [William Trethewey](https://en.wikipedia.org/wiki/William_Trethewey)
 
 ##### Wiktionary
 
