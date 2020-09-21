@@ -1,3 +1,4 @@
+[Cook 250 Research Notebook](../) > Ring of Fire  
 *[Previous](../p04-zealandia/)* | Page 05 | *[Next](../p06-hawaiki/)*
 ### Ring of Fire
 
@@ -29,4 +30,5 @@ Source: [CNN/USGS](https://edition.cnn.com/2017/09/08/world/ring-of-fire-explain
 
 * [Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire)
 
+[Cook 250 Research Notebook](../) > Ring of Fire  
 *[Previous](../p04-zealandia/)* | Page 05 | *[Next](../p06-hawaiki/)*

@@ -1,3 +1,4 @@
+[Cook 250 Research Notebook](../) > Mātāwhaorua  
 *[Previous](../p09-abel-tasman/)* | Page 10 | *[Next](../p11-heemskerck-and-zeehaen/)*
 ### Mātāwhaorua, Kupe's waka
 
@@ -66,4 +67,5 @@ Source: [Tupapa](https://www.tupapa.nz/)
 
 * [Top of the South Iwi relaunch their waka traditions](https://teaomaori.news/top-south-iwi-relaunch-their-waka-traditions)
 
+[Cook 250 Research Notebook](../) > Mātāwhaorua  
 *[Previous](../p09-abel-tasman/)* | Page 10 | *[Next](../p11-heemskerck-and-zeehaen/)*

@@ -1,3 +1,4 @@
+[Cook 250 Research Notebook](../) > Abel Tasman  
 *[Previous](../p08-kupe/)* | Page 09 | *[Next](../p10-matawhaorua/)*
 ### Abel Tasman
 
@@ -102,4 +103,5 @@ Source: [Tasman 375 Project](https://tasman375.groningen.nl/en/over-tasman-375)
 [TERRA_AUSTRALIS]: https://en.wikipedia.org/wiki/Terra_Australis
 [VOC]: https://en.wikipedia.org/wiki/Dutch_East_India_Company
 
+[Cook 250 Research Notebook](../) > Abel Tasman  
 *[Previous](../p08-kupe/)* | Page 09 | *[Next](../p10-matawhaorua/)*

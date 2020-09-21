@@ -1,3 +1,4 @@
+[Cook 250 Research Notebook](../) > Hawaiki  
 *[Previous](../p05-ring-of-fire/)* | Page 06 | *[Next](../p07-roaring-forties/)*
 ### Hawaiki
 
@@ -86,4 +87,5 @@
 
 * [Hawaiki: The Original Home of the Maori, by S. Percy Smith](https://en.wikisource.org/wiki/Hawaiki_The_Original_Home_of_the_Maori)
 
+[Cook 250 Research Notebook](../) > Hawaiki  
 *[Previous](../p05-ring-of-fire/)* | Page 06 | *[Next](../p07-roaring-forties/)*

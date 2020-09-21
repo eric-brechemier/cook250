@@ -1,3 +1,4 @@
+[Cook 250 Research Notebook](../) > Terra Australis  
 *[Previous](../p02-maui/)* | Page 03 | *[Next](../p04-zealandia/)*
 ### Terra Australis
 
@@ -46,4 +47,5 @@ Source: [gallica.bnf.fr / Bibliothèque nationale de France](https://gallica.bnf
 * [Guillaume Le Testu](https://en.wikipedia.org/wiki/Guillaume_Le_Testu)
 * [Terra Australis](https://en.wikipedia.org/wiki/Terra_Australis)
 
+[Cook 250 Research Notebook](../) > Terra Australis  
 *[Previous](../p02-maui/)* | Page 03 | *[Next](../p04-zealandia/)*

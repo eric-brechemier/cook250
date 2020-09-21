@@ -1,3 +1,4 @@
+[Cook 250 Research Notebook](../) > Māui  
 *[Previous](../p01-cook-250/)* | Page 02 | *[Next](../p03-terra-australis/)*
 ### Māui
 
@@ -77,4 +78,5 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 
 * [Māui](https://en.wikipedia.org/wiki/M%C4%81ui_(mythology))
 
+[Cook 250 Research Notebook](../) > Māui  
 *[Previous](../p01-cook-250/)* | Page 02 | *[Next](../p03-terra-australis/)*

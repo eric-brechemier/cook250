@@ -1,3 +1,4 @@
+[Cook 250 Research Notebook](../) > Roaring Forties  
 *[Previous](../p06-hawaiki/)* | Page 07 | *[Next](../p08-kupe/)*
 ### Roaring Forties
 
@@ -53,4 +54,5 @@ A larger resolution of the picture is available on that page.
 
 * [Roaring Forties](https://en.wikipedia.org/wiki/Roaring_Forties)
 
+[Cook 250 Research Notebook](../) > Roaring Forties  
 *[Previous](../p06-hawaiki/)* | Page 07 | *[Next](../p08-kupe/)*

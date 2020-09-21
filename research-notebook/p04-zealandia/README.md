@@ -1,3 +1,4 @@
+[Cook 250 Research Notebook](../) > Zealandia  
 *[Previous](../p03-terra-australis/)* | Page 04 | *[Next](../p05-ring-of-fire/)*
 ### Te Riu-a-Māui / Zealandia, a continent 94% underwater
 
@@ -88,4 +89,5 @@ Source: [University of Nebraska–Lincoln](https://news.unl.edu/newsrooms/today/
 * [Zealandia](https://en.wikipedia.org/wiki/Zealandia)
 * [Zealandia (personification)](https://en.wikipedia.org/wiki/Zealandia_(personification))
 
+[Cook 250 Research Notebook](../) > Zealandia  
 *[Previous](../p03-terra-australis/)* | Page 04 | *[Next](../p05-ring-of-fire/)*

@@ -1,3 +1,4 @@
+[Cook 250 Research Notebook](../) > Kupe  
 *[Previous](../p07-roaring-forties/)* | Page 08 | *[Next](../p09-abel-tasman/)*
 ### Kupe
 
@@ -122,4 +123,5 @@ Source: [New Zealand Post](https://stamps.nzpost.co.nz/new-zealand/2019/kupe-gre
 * [Kupe](https://en.wikipedia.org/wiki/Kupe)
 * [Te Wheke-a-Muturangi](https://en.wikipedia.org/wiki/Te_Wheke-a-Muturangi)
 
+[Cook 250 Research Notebook](../) > Kupe  
 *[Previous](../p07-roaring-forties/)* | Page 08 | *[Next](../p09-abel-tasman/)*
