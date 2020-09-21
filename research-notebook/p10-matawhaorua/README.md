@@ -1,6 +1,8 @@
-### Mātāwhaorua
+*[Previous](../p09-abel-tasman/)* | Page 10 | *[Next](../p11-heemskerck-and-zeehaen/)*
+### Mātāwhaorua, Kupe's waka
 
-![Mātāwhaorua](pictures/15x10cm-matawhaorua.jpg)
+![Mātāwhaorua](pictures/148x100-WxHmm-matawhaorua.jpg)  
+*Polynesian double hull waka*
 
 > According to many tribal narratives,
 > Kupe was the first Pacific explorer to discover the islands of New Zealand.
@@ -29,6 +31,7 @@ Source: [Tupapa](https://www.tupapa.nz/)
 * [Polynesian double hull](https://teara.govt.nz/en/artwork/5987/polynesian-double-hull)
 * [Kupe’s anchor](https://teara.govt.nz/en/photograph/2295/kupes-anchor)
 * [Replica of the Ngātokimatawhaorua canoe](https://teara.govt.nz/en/photograph/4134/replica-of-the-ngatokimatawhaorua-canoe)
+* [Ngātokimatawhaorua](https://teara.govt.nz/en/photograph/6001/ngatokimatawhaorua)
 
 ##### Tuia 250
 
@@ -62,3 +65,5 @@ Source: [Tupapa](https://www.tupapa.nz/)
 ##### Te Ao Māori News
 
 * [Top of the South Iwi relaunch their waka traditions](https://teaomaori.news/top-south-iwi-relaunch-their-waka-traditions)
+
+*[Previous](../p09-abel-tasman/)* | Page 10 | *[Next](../p11-heemskerck-and-zeehaen/)*
