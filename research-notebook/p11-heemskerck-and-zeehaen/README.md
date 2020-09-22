@@ -143,6 +143,7 @@ on the [Tasman Map][TASMAN_MAP], drawn circa 1644 based on his charts.
 ##### Robert Jenkin
 
 * [Heemskerck](https://robertianjenkin.co.nz/my-art/heemskerck/)
+* [Golden Bay Museum](https://robertianjenkin.co.nz/tasman/golden-bay-museum/)
 * [The Last Unicorn](https://robertianjenkin.co.nz/my-art/the-last-unicorn/)
 
 ##### State Library, New South Wales
