@@ -1,3 +1,5 @@
+[Cook 250 Research Notebook](../) > Aotearoa  
+*[Previous](../p11-heemskerck-and-zeehaen/)* | Page 12 | *[Next](../p13-new-zealand/)*
 ### Aotearoa
 
 > Māori oral history names Kupe as the first explorer to discover New Zealand.
@@ -29,7 +31,7 @@
 >
 > — https://stamps.nzpost.co.nz/new-zealand/2019/kupe-great-navigator
 
-![Kupe's wife sighting Aotearoa](pictures/10x15cm-kupe-wife-sighting-aotearoa.jpg)  
+![Kupe's wife sighting Aotearoa](pictures/100x148-WxHmm-aotearoa.jpg)  
 *Statue sculpted by William Trethewey in 1939, cast in bronze in 1999*  
 *Photography by Richard F. Ebert*
 
@@ -106,3 +108,5 @@ Source: [Encircle Photos](https://www.encirclephotos.com/image/kupe-raiatea-sigh
 
 * [Aotearoa](https://en.wiktionary.org/wiki/Aotearoa)
 
+[Cook 250 Research Notebook](../) > Aotearoa  
+*[Previous](../p11-heemskerck-and-zeehaen/)* | Page 12 | *[Next](../p13-new-zealand/)*
