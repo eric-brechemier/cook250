@@ -1,15 +1,17 @@
-### Heemskerck and Zeehaen
+[Cook 250 Research Notebook](../) > Heemskerck and Zeehaen  
+*[Previous](../p10-matawhaorua/)* | Page 11 | *[Next](../p12-aotearoa/)*
+### Heemskerck and Zeehaen, Abel Tasman's ships
 
-#### Heemskerck and Zeehaen weigh anchor at sunrise off Nine Mile Beach, December 15th 1642
+![Heemskerck and Zeehaen](pictures/148x100-WxHmm-heemskerck-and-zeehaen.jpg)
+*Heemskerck and Zeehaen anchored in Golden Bay at sunset, December 18, 1642*  
+*Painting by [Robert Jenkin](https://robertianjenkin.co.nz/my-art/heemskerck/)*
+
+Source: [Abel Tasman 1642](http://abeltasman.org.nz/articles-research/heemskerck-zeehaen/)
 
 > These ship paintings are based on Robert Jenkin’s 2014 reconstructions
 > which appear below [in the page], and those are largely based on
 > Hoving and Emke’s reconstructions in The Ships of Abel Tasman (2000).
 > Two minor differences are mizzenmasts and waist storage of large open boats.
-
-![Heemskerck and Zeehaen](pictures/15x10cm-heemskerck-and-zeehaen.jpg)
-
-Source: [Abel Tasman 1642](http://abeltasman.org.nz/articles-research/heemskerck-zeehaen/)
 
 #### Start of Tasman First Voyage
 
@@ -138,9 +140,18 @@ on the [Tasman Map][TASMAN_MAP], drawn circa 1644 based on his charts.
 
 * [English Translation of Tasman's handwritten Journal](http://gutenberg.net.au/ebooks06/0600571h.html#journal)
 
+##### Robert Jenkin
+
+* [Heemskerck](https://robertianjenkin.co.nz/my-art/heemskerck/)
+* [The Last Unicorn](https://robertianjenkin.co.nz/my-art/the-last-unicorn/)
+
 ##### State Library, New South Wales
 
 * [Facsimile of Abel Tasman's handwritten Journal](http://archival.sl.nsw.gov.au/Details/archive/110320645)
+
+##### Stuff
+
+* [Commemoration plans of first encounter between Abel Tasman, Māori 375 years ago](https://www.stuff.co.nz/travel/destinations/nz/97210590/commemoration-plans-of-first-encounter-between-abel-tasman-mori-375-years-ago)
 
 ##### Wikipedia
 
@@ -155,3 +166,6 @@ on the [Tasman Map][TASMAN_MAP], drawn circa 1644 based on his charts.
 [TASMAN_MAP]: https://en.wikipedia.org/wiki/Abel_Tasman#Tasman_Map
 [TASMAN_SHIPS]: http://abeltasman.org.nz/articles-research/heemskerck-zeehaen/
 [TERRA_AUSTRALIS]: https://en.wikipedia.org/wiki/Terra_Australis
+
+[Cook 250 Research Notebook](../) > Heemskerck and Zeehaen  
+*[Previous](../p10-matawhaorua/)* | Page 11 | *[Next](../p12-aotearoa/)*
