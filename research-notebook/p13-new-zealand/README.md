@@ -10,6 +10,13 @@
 
 Source: [Abel Tasman 1642](http://abeltasman.org.nz/images/) / National Archief, The Hague, Netherlands
 
+> (translated from Dutch)
+> Thus appears the main land to south of the Rocky Point [Cape Foulwind]
+> when you sail along the coast and views of the Rocky Point which appear
+> thus as you can see below.
+>
+> — https://natlib.govt.nz/records/22333911
+
 > New Zealand was first seen by European eyes when Abel Tasman came upon
 > the west coast of the South Island. One of Tasman’s associates,
 > Isaac Gilsemans, sketched the coast from just north of Punakaiki
@@ -143,6 +150,10 @@ navigate north and east for several days:
 
 * [Facsimile of Abel Tasman's journal, including drawings](https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/121/file/NL-HaNA_1.11.01.01_121_0001)
 * [Folio 62](https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/121/file/NL-HaNA_1.11.01.01_121_0062)
+
+##### National Library of New Zealand
+
+* [Gilsemans, Isaac : Thus appears the main land to south of the Rocky Point [Cape Foulwind]…](https://natlib.govt.nz/records/22333911)
 
 ##### Project Gutenberg Australia
 
