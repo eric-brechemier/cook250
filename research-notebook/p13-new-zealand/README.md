@@ -4,7 +4,7 @@
 
 #### The earliest picture of New Zealand
 
-![Cape Foulwind, folio 62 in Tasman Journal](pictures/15x10cm-new-zealand-cape-foulwind.jpg)
+![Cape Foulwind, folio 62 in Tasman Journal](pictures/148x100-WxHmm-new-zealand.jpg)
 *Cape Foulwind, folio 62 of Abel Tasman’s journal.*
 
 Source: [Abel Tasman 1642](http://abeltasman.org.nz/images/) / National Archief, The Hague, Netherlands
