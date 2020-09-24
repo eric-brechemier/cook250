@@ -8,7 +8,7 @@
 *Cape Foulwind, folio 62 of Abel Tasman’s journal.*  
 *Drawing attributed to Isaack Gilsemans*
 
-Source: [Abel Tasman 1642](http://abeltasman.org.nz/images/) / National Archief, The Hague, Netherlands
+Source: [Abel Tasman 1642](http://abeltasman.org.nz/images/) / Nationaal Archief, Netherlands
 
 > (translated from Dutch)
 > Thus appears the main land to south of the Rocky Point [Cape Foulwind]
@@ -146,7 +146,7 @@ navigate north and east for several days:
 * [1642](http://abeltasman.org.nz/what-happened-in-1642/)
 * [Was Gilsemans really Tasman’s primary draughtsman?](http://abeltasman.org.nz/was-gilsemans-really-tasmans-draughtsman/)
 
-##### National Archief, Netherlands
+##### Nationaal Archief, Netherlands
 
 * [Facsimile of Abel Tasman's journal, including drawings](https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/121/file/NL-HaNA_1.11.01.01_121_0001)
 * [Folio 62](https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/121/file/NL-HaNA_1.11.01.01_121_0062)
