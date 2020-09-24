@@ -2,10 +2,11 @@
 *[Previous](../p12-aotearoa/)* | Page 13 | *[Next](../p14-waka-landing/)*
 ### New Zealand
 
-#### The earliest picture of New Zealand
+#### The earliest picture of New Zealand (December 1642)
 
 ![Cape Foulwind, folio 62 in Tasman Journal](pictures/148x100-WxHmm-new-zealand.jpg)
-*Cape Foulwind, folio 62 of Abel Tasman’s journal.*
+*Cape Foulwind, folio 62 of Abel Tasman’s journal.*  
+*Drawing attributed to Isaack Gilsemans*
 
 Source: [Abel Tasman 1642](http://abeltasman.org.nz/images/) / National Archief, The Hague, Netherlands
 
@@ -121,8 +122,6 @@ navigate north and east for several days:
 >
 > — http://gutenberg.net.au/ebooks06/0600571h.html
 
-[TERRA_AUSTRALIS]: https://en.wikipedia.org/wiki/Terra_Australis
-
 #### More Images
 
 ##### Abel Tasman 1642
@@ -135,6 +134,16 @@ navigate north and east for several days:
 
 #### References
 
+##### Abel Tasman 1642
+
+* [1642](http://abeltasman.org.nz/what-happened-in-1642/)
+* [Was Gilsemans really Tasman’s primary draughtsman?](http://abeltasman.org.nz/was-gilsemans-really-tasmans-draughtsman/)
+
+##### National Archief, Netherlands
+
+* [Facsimile of Abel Tasman's journal, including drawings](https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/121/file/NL-HaNA_1.11.01.01_121_0001)
+* [Folio 62](https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/121/file/NL-HaNA_1.11.01.01_121_0062)
+
 ##### Project Gutenberg Australia
 
 * [English Translation of Tasman's handwritten Journal](http://gutenberg.net.au/ebooks06/0600571h.html#journal)
@@ -142,6 +151,11 @@ navigate north and east for several days:
 ##### State Library, New South Wales
 
 * [Facsimile of Abel Tasman's handwritten Journal](http://archival.sl.nsw.gov.au/Details/archive/110320645)
+
+##### Studio Hartebeest
+
+* [View on Golden Bay 1642–2012](https://hartebeest.nl/viewongoldenbay/?page_id=140)
+* [The original Abel Tasmans journal at the National Archives The Hague](https://hartebeest.nl/viewongoldenbay/?p=231)
 
 #### Te Ara, The Encyclopedia of New Zealand
 
@@ -152,6 +166,10 @@ navigate north and east for several days:
 ##### Wikipedia
 
 * [New Zealand](https://en.wikipedia.org/wiki/New_Zealand#Etymology)
+* [Isaack Gilsemans](https://en.wikipedia.org/wiki/Isaack_Gilsemans)
+* [Terra Australis](https://en.wikipedia.org/wiki/Terra_Australis)
+
+[TERRA_AUSTRALIS]: https://en.wikipedia.org/wiki/Terra_Australis
 
 [Cook 250 Research Notebook](../) > New Zealand  
 *[Previous](../p12-aotearoa/)* | Page 13 | *[Next](../p14-waka-landing/)*
