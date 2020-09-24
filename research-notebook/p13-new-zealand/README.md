@@ -1,11 +1,13 @@
+[Cook 250 Research Notebook](../) > New Zealand  
+*[Previous](../p12-aotearoa/)* | Page 13 | *[Next](../p14-waka-landing/)*
 ### New Zealand
 
-#### Cape Foulwind, the earliest image of New Zealand (folio 62)
+#### The earliest picture of New Zealand
 
 ![Cape Foulwind, folio 62 in Tasman Journal](pictures/15x10cm-new-zealand-cape-foulwind.jpg)
+*Cape Foulwind, folio 62 of Abel Tasman’s journal.*
 
-Source: Tasman’s journal in the National Archief, The Hague, The Netherlands  
-Downloaded from: [Abel Tasman 1642](http://abeltasman.org.nz/images/)
+Source: [Abel Tasman 1642](http://abeltasman.org.nz/images/) / National Archief, The Hague, Netherlands
 
 > New Zealand was first seen by European eyes when Abel Tasman came upon
 > the west coast of the South Island. One of Tasman’s associates,
@@ -148,3 +150,6 @@ navigate north and east for several days:
 ##### Wikipedia
 
 * [New Zealand](https://en.wikipedia.org/wiki/New_Zealand#Etymology)
+
+[Cook 250 Research Notebook](../) > New Zealand  
+*[Previous](../p12-aotearoa/)* | Page 13 | *[Next](../p14-waka-landing/)*
