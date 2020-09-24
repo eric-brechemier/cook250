@@ -121,6 +121,8 @@ navigate north and east for several days:
 >
 > — http://gutenberg.net.au/ebooks06/0600571h.html
 
+[TERRA_AUSTRALIS]: https://en.wikipedia.org/wiki/Terra_Australis
+
 #### More Images
 
 ##### Abel Tasman 1642
