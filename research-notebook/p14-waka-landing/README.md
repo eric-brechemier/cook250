@@ -15,6 +15,10 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/inter
 
 #### References
 
+##### Mahaki.com
+
+* [Our History](https://www.mahaki.com/our-history.html)
+
 ##### Te Ara, The Encyclopedia of New Zealand
 
 * [Story: Ngā waewae tapu – Māori exploration](https://teara.govt.nz/en/nga-waewae-tapu-maori-exploration)
