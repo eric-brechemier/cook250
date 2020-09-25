@@ -1,8 +1,10 @@
+[Cook 250 Research Notebook](../) > Waka Landing  
+*[Previous](../p13-new-zealand/)* | Page 14 | *[Next](../p15-first-encounters/)*
 ### Waka Landing
 
 #### Waka landing places
 
-![Waka landing places](pictures/10x15cm-waka-landing-places.jpg)
+![Waka landing places](pictures/100x148-WxHmm-waka-landing.jpg)
 
 > This map shows the landing places of a number of waka (canoes)
 > important to different iwi (tribes) throughout New Zealand.
@@ -10,7 +12,6 @@
 > Aotea, Tokomaru, Horouta, Uruaokapuarangi and Ārai-te-uru.
 
 Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/interactive/14130/waka-landing-places)  
-(Screenshot taken from the interactive map using Firefox)
 
 #### References
 
@@ -24,3 +25,5 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/inter
 * [List of Māori waka](https://en.wikipedia.org/wiki/List_of_M%C4%81ori_waka)
 * [Waka](https://en.wikipedia.org/wiki/Waka_(canoe))
 
+[Cook 250 Research Notebook](../) > Waka Landing  
+*[Previous](../p13-new-zealand/)* | Page 14 | *[Next](../p15-first-encounters/)*
