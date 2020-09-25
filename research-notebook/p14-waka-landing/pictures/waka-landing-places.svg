@@ -1,0 +1,273 @@
+<svg version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  x="0px" y="0px" viewBox="0 0 660 953"
+  xml:space="preserve"
+  width="660px" height="953px"
+>
+  <style type="text/css">
+    /* Categorical Palette designed using NCS Navigator
+    S 2060-B    = rgb(  0, 135, 189)
+    S 1050-B40G = rgb( 21, 191, 196)
+    S 4040-B80G = rgb(  0, 122, 104)
+    S 2050-G20Y = rgb( 99, 168,  99)
+    S 1070-G60Y = rgb(181, 196,  36)
+    S 0580-Y    = rgb(255, 211,   0)
+    S 1080-Y40R = rgb(237, 117,   0)
+    S 1580-Y80R = rgb(198,  44,  32)
+    S 1060-R20B = rgb(220,  92, 133)
+    S 2050-R60B = rgb(139, 115, 185)
+    assigned to each waka in decreasing order of number of landing:
+
+    Tākitimu (#taki)    x10 -> color  1  = st6
+    Tainui (#Tainui)     x9 -> color  2  = st1
+    Te Arawa (#tearawa)  x4 -> color  3  = st7
+    Uruao (#uruao)       x3 -> color  4  = st9
+    Mataatua (#Mataatua) x2 -> color  5  = st0
+    Aotea (#aotea)       x2 -> color  6  = st2
+    Ārai-te-uru (#arai)  x2 -> color  7  = st3
+    Kurahaupō (#kura)    x1 -> color  8  = st5
+    Horouta (#horouta)   x1 -> color  9  = st4
+    Tokomaru (#tokomaru) x1 -> color 10  = st8
+    */
+
+    .st6{fill:rgb(255, 211,   0);stroke:#FFFFFF;stroke-width:0.7413;}
+    .st1{fill:rgb(237, 117,   0);stroke:#FFFFFF;stroke-width:0.7413;}
+    .st7{fill:rgb(198,  44,  32);stroke:#FFFFFF;stroke-width:0.7413;}
+    .st9{fill:rgb(220,  92, 133);stroke:#FFFFFF;stroke-width:0.7413;}
+    .st0{fill:rgb(139, 115, 185);stroke:#FFFFFF;stroke-width:0.7413;}
+    .st2{fill:rgb(  0, 135, 189);stroke:#FFFFFF;stroke-width:0.7413;}
+    .st3{fill:rgb( 21, 191, 196);stroke:#FFFFFF;stroke-width:0.7413;}
+    .st5{fill:rgb(  0, 122, 104);stroke:#FFFFFF;stroke-width:0.7413;}
+    .st4{fill:rgb( 99, 168,  99);stroke:#FFFFFF;stroke-width:0.7413;}
+    .st8{fill:rgb(181, 196,  36);stroke:#FFFFFF;stroke-width:0.7413;}
+
+    /*
+    I also reordered the legend to match the order of the waka
+    on the map, in reading order from top-left to bottom-right,
+    and I changed the orientation of some waka to match their orientation
+    on the map, the first time that they are encountered, in reading order.
+    */
+
+    /* Original Color Scheme */
+    /*
+    .st0{fill:#935222;stroke:#FFFFFF;stroke-width:0.7413;}
+    .st1{fill:#1A1F1C;stroke:#FFFFFF;stroke-width:0.7413;}
+    .st2{fill:#0082AA;stroke:#FFFFFF;stroke-width:0.7413;}
+    .st3{fill:#0066FF;stroke:#FFFFFF;stroke-width:0.7413;}
+    .st4{fill:#B3E56C;stroke:#FFFFFF;stroke-width:0.7413;}
+    .st5{fill:#EFD200;stroke:#FFFFFF;stroke-width:0.7413;}
+    .st6{fill:#FF9900;stroke:#FFFFFF;stroke-width:0.7413;}
+    .st7{fill:#FF83CD;stroke:#FFFFFF;stroke-width:0.7413;}
+    .st8{fill:#F4224F;stroke:#FFFFFF;stroke-width:0.7413;}
+    .st9{fill:#87397E;stroke:#FFFFFF;stroke-width:0.7413;}
+    */
+    .st10{opacity:0.5;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;stroke-opacity:0.1;}
+    .st11{fill:#595959;}
+    .st12{font-family:'Verdana';}
+    .st13{font-size:13px; letter-spacing: 0.03em;}
+  </style>
+  <symbol id="Mataatua" viewBox="-11.4 -7.9 22.7 15.8">
+    <path class="st0" d="M-10.7-3.3c-0.4-0.1-0.4-1.2,0.2-1.3C-9.9-4.8-6.2-6.5-1-3.8c5.2,2.7,7.5,5.7,7.5,5.7s0,0.8-0.4,0.6
+      C5.5,2.1-1.5-1-3.4-1.6C-5.2-2.2-10.7-3.3-10.7-3.3z"></path>
+    <path class="st0" d="M-7.4-5.4c0,0,4.5,10.3,9.2,12.7c0,0-0.1-5.6,2.7-4.8c2.8,0.8,4,1.7,4,1.7S7.2-1.5-7.4-5.4z"></path>
+    <path class="st0" d="M-9.4-5.2c-0.4-0.1-0.5-1.5,0.3-1.6C-8.4-6.9-4-9,2.2-5.8C8.3-2.6,11,0.9,11,0.9s0.1,1-0.5,0.7
+      c-0.6-0.3-8.9-4-11.1-4.7C-2.8-3.9-9.4-5.2-9.4-5.2z"></path>
+  </symbol>
+  <symbol id="Tainui" viewBox="-11.4 -7.9 22.7 15.8">
+    <path class="st1" d="M-10.7-3.3c-0.4-0.1-0.4-1.2,0.2-1.3C-9.9-4.8-6.2-6.5-1-3.8c5.2,2.7,7.5,5.7,7.5,5.7s0,0.8-0.4,0.6
+      C5.5,2.1-1.5-1-3.4-1.6C-5.2-2.2-10.7-3.3-10.7-3.3z"></path>
+    <path class="st1" d="M-7.4-5.4c0,0,4.5,10.3,9.2,12.7c0,0-0.1-5.6,2.7-4.8c2.8,0.8,4,1.7,4,1.7S7.2-1.5-7.4-5.4z"></path>
+    <path class="st1" d="M-9.4-5.2c-0.4-0.1-0.5-1.5,0.3-1.6C-8.4-6.9-4-9,2.2-5.8C8.3-2.6,11,0.9,11,0.9s0.1,1-0.5,0.7
+      c-0.6-0.3-8.9-4-11.1-4.7C-2.8-3.9-9.4-5.2-9.4-5.2z"></path>
+  </symbol>
+  <symbol id="aotea" viewBox="-11.4 -7.9 22.7 15.8">
+    <path class="st2" d="M-10.7-3.3c-0.4-0.1-0.4-1.2,0.2-1.3C-9.9-4.8-6.2-6.5-1-3.8c5.2,2.7,7.5,5.7,7.5,5.7s0,0.8-0.4,0.6
+      C5.5,2.1-1.5-1-3.4-1.6C-5.2-2.2-10.7-3.3-10.7-3.3z"></path>
+    <path class="st2" d="M-7.4-5.4c0,0,4.5,10.3,9.2,12.7c0,0-0.1-5.6,2.7-4.8c2.8,0.8,4,1.7,4,1.7S7.2-1.5-7.4-5.4z"></path>
+    <path class="st2" d="M-9.4-5.2c-0.4-0.1-0.5-1.5,0.3-1.6C-8.4-6.9-4-9,2.2-5.8C8.3-2.6,11,0.9,11,0.9s0.1,1-0.5,0.7
+      c-0.6-0.3-8.9-4-11.1-4.7C-2.8-3.9-9.4-5.2-9.4-5.2z"></path>
+  </symbol>
+  <symbol id="arai" viewBox="-11.4 -7.9 22.7 15.8">
+    <path class="st3" d="M-10.7-3.3c-0.4-0.1-0.4-1.2,0.2-1.3C-9.9-4.8-6.2-6.5-1-3.8c5.2,2.7,7.5,5.7,7.5,5.7s0,0.8-0.4,0.6
+      C5.5,2.1-1.5-1-3.4-1.6C-5.2-2.2-10.7-3.3-10.7-3.3z"></path>
+    <path class="st3" d="M-7.4-5.4c0,0,4.5,10.3,9.2,12.7c0,0-0.1-5.6,2.7-4.8c2.8,0.8,4,1.7,4,1.7S7.2-1.5-7.4-5.4z"></path>
+    <path class="st3" d="M-9.4-5.2c-0.4-0.1-0.5-1.5,0.3-1.6C-8.4-6.9-4-9,2.2-5.8C8.3-2.6,11,0.9,11,0.9s0.1,1-0.5,0.7
+      c-0.6-0.3-8.9-4-11.1-4.7C-2.8-3.9-9.4-5.2-9.4-5.2z"></path>
+  </symbol>
+  <symbol id="horouta" viewBox="-11.4 -7.9 22.7 15.8">
+    <path class="st4" d="M-10.7-3.3c-0.4-0.1-0.4-1.2,0.2-1.3C-9.9-4.8-6.2-6.5-1-3.8c5.2,2.7,7.5,5.7,7.5,5.7s0,0.8-0.4,0.6
+      C5.5,2.1-1.5-1-3.4-1.6C-5.2-2.2-10.7-3.3-10.7-3.3z"></path>
+    <path class="st4" d="M-7.4-5.4c0,0,4.5,10.3,9.2,12.7c0,0-0.1-5.6,2.7-4.8c2.8,0.8,4,1.7,4,1.7S7.2-1.5-7.4-5.4z"></path>
+    <path class="st4" d="M-9.4-5.2c-0.4-0.1-0.5-1.5,0.3-1.6C-8.4-6.9-4-9,2.2-5.8C8.3-2.6,11,0.9,11,0.9s0.1,1-0.5,0.7
+      c-0.6-0.3-8.9-4-11.1-4.7C-2.8-3.9-9.4-5.2-9.4-5.2z"></path>
+  </symbol>
+  <symbol id="kura" viewBox="-11.4 -7.9 22.7 15.8">
+    <path class="st5" d="M-10.7-3.3c-0.4-0.1-0.4-1.2,0.2-1.3C-9.9-4.8-6.2-6.5-1-3.8c5.2,2.7,7.5,5.7,7.5,5.7s0,0.8-0.4,0.6
+      C5.5,2.1-1.5-1-3.4-1.6C-5.2-2.2-10.7-3.3-10.7-3.3z"></path>
+    <path class="st5" d="M-7.4-5.4c0,0,4.5,10.3,9.2,12.7c0,0-0.1-5.6,2.7-4.8c2.8,0.8,4,1.7,4,1.7S7.2-1.5-7.4-5.4z"></path>
+    <path class="st5" d="M-9.4-5.2c-0.4-0.1-0.5-1.5,0.3-1.6C-8.4-6.9-4-9,2.2-5.8C8.3-2.6,11,0.9,11,0.9s0.1,1-0.5,0.7
+      c-0.6-0.3-8.9-4-11.1-4.7C-2.8-3.9-9.4-5.2-9.4-5.2z"></path>
+  </symbol>
+  <symbol id="taki" viewBox="-11.4 -7.9 22.7 15.8">
+    <path class="st6" d="M-10.7-3.3c-0.4-0.1-0.4-1.2,0.2-1.3C-9.9-4.8-6.2-6.5-1-3.8c5.2,2.7,7.5,5.7,7.5,5.7s0,0.8-0.4,0.6
+      C5.5,2.1-1.5-1-3.4-1.6C-5.2-2.2-10.7-3.3-10.7-3.3z"></path>
+    <path class="st6" d="M-7.4-5.4c0,0,4.5,10.3,9.2,12.7c0,0-0.1-5.6,2.7-4.8c2.8,0.8,4,1.7,4,1.7S7.2-1.5-7.4-5.4z"></path>
+    <path class="st6" d="M-9.4-5.2c-0.4-0.1-0.5-1.5,0.3-1.6C-8.4-6.9-4-9,2.2-5.8C8.3-2.6,11,0.9,11,0.9s0.1,1-0.5,0.7
+      c-0.6-0.3-8.9-4-11.1-4.7C-2.8-3.9-9.4-5.2-9.4-5.2z"></path>
+  </symbol>
+  <symbol id="tearawa" viewBox="-11.4 -7.9 22.7 15.8">
+    <path class="st7" d="M-10.7-3.3c-0.4-0.1-0.4-1.2,0.2-1.3C-9.9-4.8-6.2-6.5-1-3.8c5.2,2.7,7.5,5.7,7.5,5.7s0,0.8-0.4,0.6
+      C5.5,2.1-1.5-1-3.4-1.6C-5.2-2.2-10.7-3.3-10.7-3.3z"></path>
+    <path class="st7" d="M-7.4-5.4c0,0,4.5,10.3,9.2,12.7c0,0-0.1-5.6,2.7-4.8c2.8,0.8,4,1.7,4,1.7S7.2-1.5-7.4-5.4z"></path>
+    <path class="st7" d="M-9.4-5.2c-0.4-0.1-0.5-1.5,0.3-1.6C-8.4-6.9-4-9,2.2-5.8C8.3-2.6,11,0.9,11,0.9s0.1,1-0.5,0.7
+      c-0.6-0.3-8.9-4-11.1-4.7C-2.8-3.9-9.4-5.2-9.4-5.2z"></path>
+  </symbol>
+  <symbol id="tokomaru" viewBox="-11.4 -7.9 22.7 15.8">
+    <path class="st8" d="M-10.7-3.3c-0.4-0.1-0.4-1.2,0.2-1.3C-9.9-4.8-6.2-6.5-1-3.8c5.2,2.7,7.5,5.7,7.5,5.7s0,0.8-0.4,0.6
+      C5.5,2.1-1.5-1-3.4-1.6C-5.2-2.2-10.7-3.3-10.7-3.3z"></path>
+    <path class="st8" d="M-7.4-5.4c0,0,4.5,10.3,9.2,12.7c0,0-0.1-5.6,2.7-4.8c2.8,0.8,4,1.7,4,1.7S7.2-1.5-7.4-5.4z"></path>
+    <path class="st8" d="M-9.4-5.2c-0.4-0.1-0.5-1.5,0.3-1.6C-8.4-6.9-4-9,2.2-5.8C8.3-2.6,11,0.9,11,0.9s0.1,1-0.5,0.7
+      c-0.6-0.3-8.9-4-11.1-4.7C-2.8-3.9-9.4-5.2-9.4-5.2z"></path>
+  </symbol>
+  <symbol id="uruao" viewBox="-11.4 -7.9 22.7 15.8">
+    <path class="st9" d="M-10.7-3.3c-0.4-0.1-0.4-1.2,0.2-1.3C-9.9-4.8-6.2-6.5-1-3.8c5.2,2.7,7.5,5.7,7.5,5.7s0,0.8-0.4,0.6
+      C5.5,2.1-1.5-1-3.4-1.6C-5.2-2.2-10.7-3.3-10.7-3.3z"></path>
+    <path class="st9" d="M-7.4-5.4c0,0,4.5,10.3,9.2,12.7c0,0-0.1-5.6,2.7-4.8c2.8,0.8,4,1.7,4,1.7S7.2-1.5-7.4-5.4z"></path>
+    <path class="st9" d="M-9.4-5.2c-0.4-0.1-0.5-1.5,0.3-1.6C-8.4-6.9-4-9,2.2-5.8C8.3-2.6,11,0.9,11,0.9s0.1,1-0.5,0.7
+      c-0.6-0.3-8.9-4-11.1-4.7C-2.8-3.9-9.4-5.2-9.4-5.2z"></path>
+  </symbol>
+  <image x="0" y="0" width="660" height="953" xlink:href="./waka-landing-places-basemap.jpg" />
+  <g id="LEGEND_ICONS" class="">
+    <rect x="20" y="20.5" class="st10" width="141" height="250"></rect>
+    <use xlink:href="#kura" width="22.7" height="15.8" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 46.306 43.746)" style="overflow:visible;"></use>
+    <use xlink:href="#taki" width="22.7" height="15.8" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 46.306 65.5794)" style="overflow:visible;"></use>
+    <use xlink:href="#Mataatua" width="22.7" height="15.8" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 46.306 87.4127)" style="overflow:visible;"></use>
+    <use xlink:href="#aotea" width="22.7" height="15.8" x="-11.4" y="-7.9" transform="matrix(-1 0 0 -1 46.306 109.246)" style="overflow:visible;"></use>
+    <use xlink:href="#tearawa" width="22.7" height="15.8" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 46.306 131.0794)" style="overflow:visible;"></use>
+    <use xlink:href="#Tainui" width="22.7" height="15.8" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 46.306 152.9127)" style="overflow:visible;"></use>
+    <use xlink:href="#horouta" width="22.7" height="15.8" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 46.306 174.746)" style="overflow:visible;"></use>
+    <use xlink:href="#tokomaru" width="22.7" height="15.8" x="-11.4" y="-7.9" transform="matrix(-1 0 0 -1 46.306 196.5794)" style="overflow:visible;"></use>
+    <use xlink:href="#uruao" width="22.7" height="15.8" x="-11.4" y="-7.9" transform="matrix(-1 0 0 -1 46.306 218.4127)" style="overflow:visible;"></use>
+    <use xlink:href="#arai" width="22.7" height="15.8" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 46.306 240.246)" style="overflow:visible;"></use>
+  </g>
+  <g id="LEGEND_TEXT" class="">
+    <text transform="matrix(0.9 0 0 1 66  48.2139)" class="st11 st12 st13">Kurahaupō</text>
+    <text transform="matrix(0.9 0 0 1 66  70.1842)" class="st11 st12 st13">Tākitimu</text>
+    <text transform="matrix(0.9 0 0 1 66  92.1543)" class="st11 st12 st13">Mataatua</text>
+    <text transform="matrix(0.9 0 0 1 66 114.1241)" class="st11 st12 st13">Aotea</text>
+    <text transform="matrix(0.9 0 0 1 66 136.0943)" class="st11 st12 st13">Te Arawa</text>
+    <text transform="matrix(0.9 0 0 1 66 158.0644)" class="st11 st12 st13">Tainui</text>
+    <text transform="matrix(0.9 0 0 1 66 180.0345)" class="st11 st12 st13">Horouta</text>
+    <text transform="matrix(0.9 0 0 1 66 202.0046)" class="st11 st12 st13">Tokomaru</text>
+    <text transform="matrix(0.9 0 0 1 66 223.9747)" class="st11 st12 st13">Uruao</text>
+    <text transform="matrix(0.9 0 0 1 66 246.2144)" class="st11 st12 st13">Ārai-te-uru</text>
+  </g>
+  <g id="ICONS_1_">
+    <g id="0">
+      <use xlink:href="#kura" width="22.7" height="15.8" id="Takapaukura" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 335.1316 32.4123)" style="overflow:visible;"></use>
+    </g>
+    <g id="1">
+      <use xlink:href="#taki" width="22.7" height="15.8" id="Te_Awanui" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 359.1322 65.0382)" style="overflow:visible;"></use>
+    </g>
+    <g id="2">
+      <use xlink:href="#Mataatua" width="22.7" height="15.8" id="Takou_Bay" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 382.7578 69.9133)" style="overflow:visible;"></use>
+    </g>
+    <g id="3">
+      <use xlink:href="#aotea" width="22.7" height="15.8" id="Kaipara_Harbour" x="-11.4" y="-7.9" transform="matrix(-1 0 0 -1 395.1331 171.9158)" style="overflow:visible;"></use>
+    </g>
+    <g id="4">
+      <use xlink:href="#tearawa" width="22.7" height="15.8" id="WhangaparaoaP1" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 437.1342 176.0409)" style="overflow:visible;"></use>
+    </g>
+    <g id="5">
+      <use xlink:href="#Tainui" width="22.7" height="15.8" id="WhangaparaoaP2" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 441.6343 188.4162)" style="overflow:visible;"></use>
+    </g>
+    <g id="6">
+      <use xlink:href="#Tainui" width="22.7" height="15.8" id="Te_Haukapua" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 445.5719 197.7352)" style="overflow:visible;"></use>
+    </g>
+    <g id="7">
+      <use xlink:href="#Tainui" width="22.7" height="15.8" id="Tamaki_River" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 455.3221 205.8542)" style="overflow:visible;"></use>
+    </g>
+    <g id="8">
+      <use xlink:href="#Tainui" width="22.7" height="15.8" id="Manukau_Harbour" x="-11.4" y="-7.9" transform="matrix(-1 0 0 -1 418.3837 216.5419)" style="overflow:visible;"></use>
+    </g>
+    <g id="9">
+      <use xlink:href="#Tainui" width="22.7" height="15.8" id="Whaingaroa__x28_Raglan_x29_" x="-11.4" y="-7.9" transform="matrix(-1 0 0 -1 427.7589 271.1747)" style="overflow:visible;"></use>
+    </g>
+    <g id="10">
+      <use xlink:href="#aotea" width="22.7" height="15.8" id="Hawaiki-iti" x="-11.4" y="-7.9" transform="matrix(-1 0 0 -1 423.6338 280.925)" style="overflow:visible;"></use>
+    </g>
+    <g id="11">
+      <use xlink:href="#Tainui" width="22.7" height="15.8" id="Te_Ahurei" x="-11.4" y="-7.9" transform="matrix(-1 0 0 -1 420.6338 291.0503)" style="overflow:visible;"></use>
+    </g>
+    <g id="12">
+      <use xlink:href="#Tainui" width="22.7" height="15.8" id="Mokau" x="-11.4" y="-7.9" transform="matrix(-1 0 0 -1 416.8837 328.1762)" style="overflow:visible;"></use>
+    </g>
+    <g id="13">
+      <use xlink:href="#tokomaru" width="22.7" height="15.8" id="Tongaporutu_River" x="-11.4" y="-7.9" transform="matrix(-1 0 0 -1 410.5085 343.1765)" style="overflow:visible;"></use>
+    </g>
+    <g id="14">
+      <use xlink:href="#Tainui" width="22.7" height="15.8" id="Tauranga_Moana1" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 507.8234 248.2302)" style="overflow:visible;"></use>
+    </g>
+    <g id="15">
+      <use xlink:href="#taki" width="22.7" height="15.8" id="Tauranga_Moana2" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 516.4509 258.0494)" style="overflow:visible;"></use>
+    </g>
+    <g id="16">
+      <use xlink:href="#tearawa" width="22.7" height="15.8" id="Maketu" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 532.3888 267.2372)" style="overflow:visible;"></use>
+    </g>
+    <g id="17">
+      <use xlink:href="#Mataatua" width="22.7" height="15.8" id="Whakatane" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 562.3896 281.8625)" style="overflow:visible;"></use>
+    </g>
+    <g id="18">
+      <use xlink:href="#tearawa" width="22.7" height="15.8" id="Torere" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 587.3277 275.2999)" style="overflow:visible;"></use>
+    </g>
+    <g id="19">
+      <use xlink:href="#Tainui" width="22.7" height="15.8" id="Whangaparaoa2" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 615.0784 253.1743)" style="overflow:visible;"></use>
+    </g>
+    <g id="20">
+      <use xlink:href="#tearawa" width="22.7" height="15.8" id="Whangaparaoa3" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 630.8288 256.5494)" style="overflow:visible;"></use>
+    </g>
+    <g id="21">
+      <use xlink:href="#taki" width="22.7" height="15.8" id="Waiapu_River" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 643.6293 278.8)" style="overflow:visible;"></use>
+    </g>
+    <g id="22">
+      <use xlink:href="#taki" width="22.7" height="15.8" id="uawa" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 637.2542 309.1757)" style="overflow:visible;"></use>
+    </g>
+    <g id="23">
+      <use xlink:href="#horouta" width="22.7" height="15.8" id="turanganui1" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 630.504 337.5514)" style="overflow:visible;"></use>
+    </g>
+    <g id="24">
+      <use xlink:href="#taki" width="22.7" height="15.8" id="turanganui2" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 613.6286 339.8015)" style="overflow:visible;"></use>
+    </g>
+    <g id="25">
+      <use xlink:href="#taki" width="22.7" height="15.8" id="Mahia_Peninsula" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 612.1285 361.177)" style="overflow:visible;"></use>
+    </g>
+    <g id="26">
+      <use xlink:href="#taki" width="22.7" height="15.8" id="Te_Wairoa" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 585.5029 368.3022)" style="overflow:visible;"></use>
+    </g>
+    <g id="27">
+      <use xlink:href="#taki" width="22.7" height="15.8" id="Mohaka_River" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 564.0771 373.1773)" style="overflow:visible;"></use>
+    </g>
+    <g id="28">
+      <use xlink:href="#taki" width="22.7" height="15.8" id="Porangahau" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 542.3265 443.304)" style="overflow:visible;"></use>
+    </g>
+    <g id="29">
+      <use xlink:href="#uruao" width="22.7" height="15.8" id="Whakatu" x="-11.4" y="-7.9" transform="matrix(-1 0 0 -1 339.3388 501.4305)" style="overflow:visible;"></use>
+    </g>
+    <g id="30">
+      <use xlink:href="#uruao" width="22.7" height="15.8" id="Kaikoura" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 380.6975 583.5576)" style="overflow:visible;"></use>
+    </g>
+    <g id="31">
+      <use xlink:href="#uruao" width="22.7" height="15.8" id="Horomaka" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 343.9466 689.3102)" style="overflow:visible;"></use>
+    </g>
+    <g id="32">
+      <use xlink:href="#arai" width="22.7" height="15.8" id="Moeraki" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 245.6941 770.3123)" style="overflow:visible;"></use>
+    </g>
+    <g id="33">
+      <use xlink:href="#arai" width="22.7" height="15.8" id="Shag_Point" x="-11.4" y="-7.9" transform="matrix(1 0 0 -1 243.2566 786.2501)" style="overflow:visible;"></use>
+    </g>
+    <g id="34">
+      <use xlink:href="#taki" width="22.7" height="15.8" id="Te_Waewae_Bay" x="-11.4" y="-7.9" transform="matrix(-1 0 0 -1 71.5821 868.9397)" style="overflow:visible;"></use>
+    </g>
+  </g>
+</svg>
