@@ -25,6 +25,10 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/inter
 * [Page 1. Exploration traditions](https://teara.govt.nz/en/nga-waewae-tapu-maori-exploration/page-1)
 * [Page 2. Coastal explorers](https://teara.govt.nz/en/nga-waewae-tapu-maori-exploration/page-2)
 
+* [Story: Tūranganui-a-Kiwa tribes](https://teara.govt.nz/en/turanganui-a-kiwa-tribes)
+* [Page 1. Lands and ancestors](https://teara.govt.nz/en/turanganui-a-kiwa-tribes/page-1)
+* [Page 2. Arrivals and alliances](https://teara.govt.nz/en/turanganui-a-kiwa-tribes/page-2)
+
 ##### Wikipedia
 
 * [List of Māori waka](https://en.wikipedia.org/wiki/List_of_M%C4%81ori_waka)
