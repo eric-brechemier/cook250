@@ -17,8 +17,9 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/inter
 
 ##### Te Ara, The Encyclopedia of New Zealand
 
-* [Story: Ngā waewae tapu – Māori exploration](https://teara.govt.nz/en/nga-waewae-tapu-maori-exploration/page-2)
-* [Story: Ngā waewae tapu – Coastal explorers](https://teara.govt.nz/en/nga-waewae-tapu-maori-exploration/page-2)
+* [Story: Ngā waewae tapu – Māori exploration](https://teara.govt.nz/en/nga-waewae-tapu-maori-exploration)
+* [Page 1. Exploration traditions](https://teara.govt.nz/en/nga-waewae-tapu-maori-exploration/page-1)
+* [Page 2. Coastal explorers](https://teara.govt.nz/en/nga-waewae-tapu-maori-exploration/page-2)
 
 ##### Wikipedia
 
