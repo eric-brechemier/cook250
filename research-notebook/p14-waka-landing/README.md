@@ -5,6 +5,7 @@
 #### Waka landing places
 
 ![Waka landing places](pictures/100x148-WxHmm-waka-landing.jpg)
+*Pāoa's waka, the Horouta, was one of the first to explore Aotearoa.*
 
 > This map shows the landing places of a number of waka (canoes)
 > important to different iwi (tribes) throughout New Zealand.
