@@ -1,6 +1,12 @@
-### First Encounters
+[Cook 250 Research Notebook](../) > First Encounters  
+*[Previous](../p14-waka-landing/)* | Page 15 | *[Next](../p16-pacific-migration/)*
+### First Encounters between Māori and Europeans, 18–19 December 1642
 
-![View of Murderers Bay, a multi-layered image of the events that unfolded in Golden Bay on 18/19 December 1642 (folio 65)](pictures/15x10cm-murderers-bay.jpg)
+![View of Murderers Bay, a multi-layered image of the events that unfolded in Golden Bay on 18/19 December 1642 (folio 65)](pictures/148x100-WxHmm-first-encounters.jpg)
+*Murderers Bay, folio 65 of Abel Tasman's journal*  
+*Drawing attributed to Isaack Gilsemans*
+
+Source: [Abel Tasman 1642](http://abeltasman.org.nz/images/) / Nationaal Archief, Netherlands
 
 > **Conflict at Murderers Bay**
 >
@@ -378,6 +384,11 @@ he nor any of his men had set foot.
 
 [TRAPPED]: https://tasman375.groningen.nl/en/reisverslagen/trapped
 
+##### Nationaal Archief, Netherlands
+
+* [Facsimile of Abel Tasman's journal, including drawings](https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/121/file/NL-HaNA_1.11.01.01_121_0001)
+* [Folio 65](https://www.nationaalarchief.nl/onderzoeken/archief/1.11.01.01/invnr/121/file/NL-HaNA_1.11.01.01_121_0065)
+
 ##### Six Boats
 
 * [Trapped](http://sixboats.co.nz/trapped/)
@@ -390,4 +401,7 @@ he nor any of his men had set foot.
 #### Wikipedia
 
 * [Golden Bay / Mohua](https://en.wikipedia.org/wiki/Golden_Bay)
+* [Isaack Gilsemans](https://en.wikipedia.org/wiki/Isaack_Gilsemans)
 
+[Cook 250 Research Notebook](../) > First Encounters  
+*[Previous](../p14-waka-landing/)* | Page 15 | *[Next](../p16-pacific-migration/)*
