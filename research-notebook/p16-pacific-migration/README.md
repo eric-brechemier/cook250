@@ -1,6 +1,9 @@
+[Cook 250 Research Notebook](../) > Pacific Migration  
+*[Previous](../p15-first-encounters/)* | Page 16 | *[Next](../p17-tasman-map/)*
 ### Pacific Migration
 
-![Pacific migration](pictures/15x10cm-pacific-migrations.jpg)
+![Pacific migration](pictures/148x100-WxHmm-pacific-migration.jpg)
+*Māori settlers arrived from East Polynesia from 1250 onward*
 
 > The vast expanse of the Pacific Ocean was explored and settled
 > by sailing large double-hulled canoes from island to island.
@@ -84,3 +87,6 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/map/5
 ##### YouTube
 
 * [Polynesian seafaring - history and Hawaiian re-creation](https://www.youtube.com/watch?v=ghojMWv5AZA)
+
+[Cook 250 Research Notebook](../) > Pacific Migration  
+*[Previous](../p15-first-encounters/)* | Page 16 | *[Next](../p17-tasman-map/)*
