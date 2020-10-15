@@ -3,7 +3,7 @@
 ### Pacific Migration
 
 ![Pacific migration](pictures/148x100-WxHmm-pacific-migration.jpg)
-*Māori settlers arrived from East Polynesia from 1250 onward*
+*Māori settlers left East Polynesia for Aotearoa from 1250 onward*
 
 > The vast expanse of the Pacific Ocean was explored and settled
 > by sailing large double-hulled canoes from island to island.
