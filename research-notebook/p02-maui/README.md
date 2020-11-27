@@ -22,6 +22,11 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 
 #### More Images
 
+##### Dr Bronwyn Holloway-Smith
+
+* [Te Ika-a-Akoranga (2014-2019)](https://hollowaysmith.nz/te-ika-a-akoranga/)
+* [B. Holloway-Smith on Twitter](https://twitter.com/hollowaysmith/status/1111449338100609025/photo/1)
+
 ##### Eric Bréchemier on Flickr
 
 * [Te Papa Treasures](https://www.flickr.com/photos/eric_brechemier/3319884409/in/album-72157611251752316/)
@@ -32,6 +37,10 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 
 * [Māui and the Fish - Te Ika-a-Māui](https://stamps.nzpost.co.nz/new-zealand/2018/maui-and-fish-te-ika-maui)
 * [The Discoverers - Millenium Part One](https://stamps.nzpost.co.nz/new-zealand/1997/discoverers-millenium-part-one)
+
+##### Public Art Heritage
+
+* [E. Mervyn Taylor: COMPAC terminal, Te Ika-a-Maui](https://publicart.nz/2016/04/10/emt-compac-building-te-ika-a-maui/)
 
 ##### Project Gutenberg
 
@@ -48,9 +57,21 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 
 #### References
 
+##### Dr Bronwyn Holloway-Smith
+
+* [Te Ika-a-Akoranga (2014-2019)](https://hollowaysmith.nz/te-ika-a-akoranga/)
+
 ##### Land of Voyagers
 
 * [MAUI'S MATAURANGA OF THE SUN](https://www.thevoyage.co.nz/en/video/72_MAUI-S-MATAURANGA-OF-THE-SUN)
+
+##### Letting Space
+
+* [Te Ika-a-Akoranga, Bronwyn Holloway Smith](http://www.lettingspace.org.nz/te-ika-a-akoranga/)
+
+##### Massey University Press
+
+* [Wanted, The search for the modernist murals of E. Mervyn Taylor](https://www.masseypress.ac.nz/books/wanted/)
 
 ##### New Zealand Tourism — 100% Pure New Zealand
 
@@ -73,6 +94,10 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 
 * [Māui](https://teara.govt.nz/en/first-peoples-in-maori-tradition/page-3)
 * [Story: First peoples in Māori tradition](https://teara.govt.nz/en/first-peoples-in-maori-tradition)
+
+##### YouTube
+
+* [Bronwyn Holloway-Smith - New cultural narratives - NDF 2014](https://www.youtube.com/watch?v=L1KET70IDAY)
 
 ##### Wikipedia
 
