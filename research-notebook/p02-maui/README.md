@@ -22,10 +22,15 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 
 #### More Images
 
-##### Dr Bronwyn Holloway-Smith
+##### Bronwyn Holloway-Smith
 
 * [Te Ika-a-Akoranga (2014-2019)](https://hollowaysmith.nz/te-ika-a-akoranga/)
 * [B. Holloway-Smith on Twitter](https://twitter.com/hollowaysmith/status/1111449338100609025/photo/1)
+
+##### City Gallery Wellington — Te Whare Toi
+
+* [This Is New Zealand, Exhibition, 3 March–15 July 2018](https://citygallery.org.nz/exhibitions/this-is-new-zealand/)
+* [E. Mervyn Taylor Te Ika-a-Maui 1961 from Bronwyn Holloway-Smith The Southern Cross Cable: A Tour 2018](https://citygallery.org.nz/wp-content/uploads/2018/04/TeIkaAMaui_forCGWPuzzle-1024x821.jpg)
 
 ##### Eric Bréchemier on Flickr
 
@@ -61,6 +66,15 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 
 * [Te Ika-a-Akoranga (2014-2019)](https://hollowaysmith.nz/te-ika-a-akoranga/)
 
+##### E. Mervyn Taylor
+
+* [E. Mervyn Taylor](https://emervyntaylor.co.nz/)
+* [Mervyn Taylor by Sarah Taylor](https://emervyntaylor.co.nz/wp-content/uploads/2015/09/bio.pdf)
+
+##### Heritage et AL
+
+* [ The many lives of E. Mervyn Taylor’s mural Te Ika-a-Maui](https://heritageetal.blogspot.com/2020/09/the-many-lives-of-e-mervyn-taylors.html)
+
 ##### Land of Voyagers
 
 * [MAUI'S MATAURANGA OF THE SUN](https://www.thevoyage.co.nz/en/video/72_MAUI-S-MATAURANGA-OF-THE-SUN)
@@ -94,6 +108,10 @@ Source: [Te Ara, The Encyclopedia of New Zealand](https://teara.govt.nz/en/artwo
 
 * [Māui](https://teara.govt.nz/en/first-peoples-in-maori-tradition/page-3)
 * [Story: First peoples in Māori tradition](https://teara.govt.nz/en/first-peoples-in-maori-tradition)
+
+##### The Spinoff
+
+* [The Single Object: The internet cable that connects us to the rest of the world](https://thespinoff.co.nz/partner/objectspace/01-04-2020/the-single-object-the-internet-cable-that-connects-us-to-the-rest-of-the-world/)
 
 ##### YouTube
 
