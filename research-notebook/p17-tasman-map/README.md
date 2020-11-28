@@ -1,6 +1,6 @@
 [Cook 250 Research Notebook](../) > Tasman Map  
 *[Previous](../p16-pacific-migration/)* | Page 17 | *[Next](../p18-tupaia/)*
-### Tasman Map, the first map to mention Zealandia Nova
+### Tasman Map, the first to mention Zealandia Nova
 
 ![Map reporting findings of Tasman's first voyage](pictures/148x100-WxHmm-tasman-map.jpg)
 *Printed in Paris in 1663, it shows the extent of Abel Tasman discoveries.*
