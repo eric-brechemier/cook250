@@ -1,8 +1,9 @@
-### Tasman Map
+[Cook 250 Research Notebook](../) > Tasman Map  
+*[Previous](../p16-pacific-migration/)* | Page 17 | *[Next](../p18-tupaia/)*
+### Tasman Map, the first map to mention Zealandia Nova
 
-#### Hollandia Nova Terre Australe (1663)
-
-![Map reporting findings of Tasman's first voyage](pictures/15x10cm-tasman-map.jpg)
+![Map reporting findings of Tasman's first voyage](pictures/148x100-WxHmm-tasman-map.jpg)
+*Printed in Paris in 1663, it shows the extent of Abel Tasman discoveries.*
 
 Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Thevenot_-_Hollandia_Nova_detecta_1644.png)
 
@@ -284,3 +285,5 @@ in 1644 along a different route, and never returned to New Zealand.
 [TASMAN_SEA]: https://en.wikipedia.org/wiki/Tasman_Sea
 [TASMAN_MAP]: https://en.wikipedia.org/wiki/Abel_Tasman#Tasman_Map
 
+[Cook 250 Research Notebook](../) > Tasman Map  
+*[Previous](../p16-pacific-migration/)* | Page 17 | *[Next](../p18-tupaia/)*
