@@ -281,6 +281,11 @@ in 1644 along a different route, and never returned to New Zealand.
 
 * [Floor of Library entrance](https://www.flickr.com/photos/37996577538@N01/6875070893)
 
+##### Internet Archive
+
+* [Relations de divers voyages curieux, Première partie (1663), page 409](https://archive.org/details/relationsdediver00thve/page/n408/mode/1up)
+* [Relations de divers voyages curieux, Première partie (1664), page 407](https://archive.org/details/relationsdediver00thve_0/page/n406/mode/1up)
+
 ##### State Library of New South Wales
 
 * [Bonaparte Tasman map (1644)](http://digital.sl.nsw.gov.au/delivery/DeliveryManagerServlet?embedded=true&toolbar=false&dps_pid=IE3535846)
