@@ -329,6 +329,10 @@ in 1644 along a different route, and never returned to New Zealand.
 * [Bonaparte Tasman map (1644)](http://digital.sl.nsw.gov.au/delivery/DeliveryManagerServlet?embedded=true&toolbar=false&dps_pid=IE3535846)
 * [Hollandia Nova Terre Australe \[New Holland South Land\], 1663](https://www2.sl.nsw.gov.au/archive/events/exhibitions/2006/firstsight/images/s11.html)
 
+##### Wikimedia
+
+* [Nova et Accuratissima Terrarum Orbis Tabula (Joan Blaeu, 1664)](https://en.wikipedia.org/wiki/File:Nova_et_Accuratissima_Terrarum_Orbis_Tabula_(J.Blaeu,_1664).jpg)
+
 #### References
 
 ##### Ian Burnet
