@@ -359,6 +359,8 @@ in 1644 along a different route, and never returned to New Zealand.
 * [Joan Blaeu](https://en.wikipedia.org/wiki/Joan_Blaeu)
 * [Atlas Maior](https://en.wikipedia.org/wiki/Atlas_Maior)
 * [Melchisédech Thévenot](https://en.wikipedia.org/wiki/Melchis%C3%A9dech_Th%C3%A9venot#Other_works)
+* [History of Cartography](https://en.wikipedia.org/wiki/History_of_cartography)
+* [Early modern Netherlandish cartography](https://en.wikipedia.org/wiki/Early_modern_Netherlandish_cartography)
 
 [TASMAN_SEA]: https://en.wikipedia.org/wiki/Tasman_Sea
 [TASMAN_MAP]: https://en.wikipedia.org/wiki/Abel_Tasman#Tasman_Map
