@@ -1,9 +1,14 @@
 [Cook 250 Research Notebook](../) > Tasman Map  
 *[Previous](../p16-pacific-migration/)* | Page 17 | *[Next](../p18-tupaia/)*
-### Tasman Map, the first to mention Zealandia Nova
+### First printed map to mention Zealandia Nova
 
 ![Map reporting findings of Tasman's first voyage](pictures/148x100-WxHmm-tasman-map.jpg)
-*Printed in Paris in 1663, it shows the extent of Abel Tasman discoveries.*
+*Relations de divers voyages curieux, Paris, 1663.*
+
+> Melchisedech Thevenot (1620?-1692): Hollandia Nova detecta 1644;
+> Terre Australe decouuerte l'an 1644, Paris:
+> De l'imprimerie de Iaqves Langlois, 1663
+> Based on a map by the dutch cartographer Joan Blaeu. Langlois, 1663.
 
 Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Thevenot_-_Hollandia_Nova_detecta_1644.png)
 
@@ -17,6 +22,19 @@ Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Thevenot_-_Hollandia
 > the fifth continent.
 >
 > — https://www2.sl.nsw.gov.au/archive/events/exhibitions/2006/firstsight/images/s11.html
+
+> The map by Thévenot, Hollandia Nova—Terre Australe
+> in Relation de divers voyages et curieux,
+> is a French version of the chart of Abel Tasman's discoveries
+> using information from Dutch sources,
+> notably Joan Blaeu's world map published in 1659.
+> Although Thévenot said that he had taken his chart from the one inlaid
+> into the floor of the Amsterdam Town Hall,
+> in fact it appears to be an almost exact copy of that of Joan Blaeu
+> in his Archipelagus Orientalis sive Asiaticus published in 1659
+> in the Kurfürsten Atlas (Atlas of the Great Elector).
+>
+> — https://en.wikipedia.org/wiki/Melchis%C3%A9dech_Th%C3%A9venot#Other_works
 
 #### End of Tasman First Voyage
 
@@ -299,6 +317,7 @@ in 1644 along a different route, and never returned to New Zealand.
 ##### State Library of New South Wales
 
 * [Bonaparte Tasman map (1644)](https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21113889380002626&context=L&vid=SLNSW&lang=en_US&search_scope=E&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,b2058092*)
+* [First Sight: the Dutch mapping of Australia 1606-1697](https://www2.sl.nsw.gov.au/archive/events/exhibitions/2006/firstsight/images/s11.html)
 
 ##### The Free Library
 
@@ -308,6 +327,9 @@ in 1644 along a different route, and never returned to New Zealand.
 
 * [Tasman Map][TASMAN_MAP]
 * [Tasman Sea][TASMAN_SEA]
+* [Joan Blaeu](https://en.wikipedia.org/wiki/Joan_Blaeu)
+* [Atlas Maior](https://en.wikipedia.org/wiki/Atlas_Maior)
+* [Melchisédech Thévenot](https://en.wikipedia.org/wiki/Melchis%C3%A9dech_Th%C3%A9venot#Other_works)
 
 [TASMAN_SEA]: https://en.wikipedia.org/wiki/Tasman_Sea
 [TASMAN_MAP]: https://en.wikipedia.org/wiki/Abel_Tasman#Tasman_Map
