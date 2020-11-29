@@ -275,7 +275,29 @@ Back to Indonesia, his expedition concluded on 15 June 1643. His exploration
 of the discovered lands was found lacking, and he was sent on a second voyage
 in 1644 along a different route, and never returned to New Zealand.
 
+#### More Pictures
+
+##### Gord Webster on Flickr
+
+* [Floor of Library entrance](https://www.flickr.com/photos/37996577538@N01/6875070893)
+
+##### State Library of New South Wales
+
+* [Bonaparte Tasman map (1644)](http://digital.sl.nsw.gov.au/delivery/DeliveryManagerServlet?embedded=true&toolbar=false&dps_pid=IE3535846)
+
 #### References
+
+##### Ian Burnet
+
+* [The Tasman Map, The Biography of a Map](http://www.ianburnetbooks.com/#yui_3_17_2_1_1606663085682_261)
+
+##### State Library of New South Wales
+
+* [Bonaparte Tasman map (1644)](https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21113889380002626&context=L&vid=SLNSW&lang=en_US&search_scope=E&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,b2058092*)
+
+##### The Free Library
+
+* [New light on the origin of the Tasman-Bonaparte map](https://www.thefreelibrary.com/New+light+on+the+origin+of+the+Tasman-Bonaparte+map.-a0434793371)
 
 ##### Wikipedia
 
