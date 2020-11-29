@@ -1,16 +1,18 @@
 [Cook 250 Research Notebook](../) > Tasman Map  
 *[Previous](../p16-pacific-migration/)* | Page 17 | *[Next](../p18-tupaia/)*
-### First printed map to mention Zealandia Nova
+### First printed map to mention Zealandia Nova (1663)
 
 ![Map reporting findings of Tasman's first voyage](pictures/148x100-WxHmm-tasman-map.jpg)
-*Relations de divers voyages curieux, Paris, 1663.*
+*Map drawn by Joan Blau, adapted in print by Melchisédech Thévenot*
 
 > Melchisedech Thevenot (1620?-1692): Hollandia Nova detecta 1644;
 > Terre Australe decouuerte l'an 1644, Paris:
 > De l'imprimerie de Iaqves Langlois, 1663
 > Based on a map by the dutch cartographer Joan Blaeu. Langlois, 1663.
+>
+> — https://commons.wikimedia.org/wiki/File:Thevenot_-_Hollandia_Nova_detecta_1644.png
 
-Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Thevenot_-_Hollandia_Nova_detecta_1644.png)
+Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Thevenot_-_Hollandia_Nova_detecta_1644.png) / [National Library of Australia](https://catalogue.nla.gov.au/Record/6264405)
 
 > This map was published in Melchisedech Thévenot's
 > Relations de divers voyages curieux...
@@ -35,6 +37,20 @@ Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Thevenot_-_Hollandia
 > in the Kurfürsten Atlas (Atlas of the Great Elector).
 >
 > — https://en.wikipedia.org/wiki/Melchis%C3%A9dech_Th%C3%A9venot#Other_works
+
+> Large scale wall-map of Tasman's voyages of 1642-43 and 1644,
+> on which subsequent mapping of Australia was based
+> until James Cook successfully mapped the eastern coast.
+> As well as the more established mapping of south east Asia.
+> The map includes the first sighting of Tasmania by Europeans,
+> specifically the crew of the Zeehaen, and first mapping of New Zealand.
+> The map itself is surrounded on three sides by panels of explanatory text
+> in French, Latin and Dutch, including detail of Dutch names for Australia
+> and New Zealand (Nieuw Hollant and Nieuw Zelandt). The Blaeu wall-map is
+> thought to have been the model for the popular map
+> 'Hollandia Nova detecta 1644', by travel writer Melchisedech Thevenot.
+>
+> — https://catalogue.nla.gov.au/Record/6264405
 
 #### End of Tasman First Voyage
 
@@ -304,15 +320,24 @@ in 1644 along a different route, and never returned to New Zealand.
 * [Relations de divers voyages curieux, Première partie (1663), page 409](https://archive.org/details/relationsdediver00thve/page/n408/mode/1up)
 * [Relations de divers voyages curieux, Première partie (1664), page 407](https://archive.org/details/relationsdediver00thve_0/page/n406/mode/1up)
 
+##### National Library of Australia
+
+* [Archipelagus Orientalis, sive Asiaticus / Apud Ioannem Blaeu](https://nla.gov.au/nla.obj-232510007/view)
+
 ##### State Library of New South Wales
 
 * [Bonaparte Tasman map (1644)](http://digital.sl.nsw.gov.au/delivery/DeliveryManagerServlet?embedded=true&toolbar=false&dps_pid=IE3535846)
+* [Hollandia Nova Terre Australe \[New Holland South Land\], 1663](https://www2.sl.nsw.gov.au/archive/events/exhibitions/2006/firstsight/images/s11.html)
 
 #### References
 
 ##### Ian Burnet
 
 * [The Tasman Map, The Biography of a Map](http://www.ianburnetbooks.com/#yui_3_17_2_1_1606663085682_261)
+
+##### National Library of Australia
+
+* [Archipelagus Orientalis, sive Asiaticus / Apud Ioannem Blaeu](https://catalogue.nla.gov.au/Record/6264405)
 
 ##### State Library of New South Wales
 
