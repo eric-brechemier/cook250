@@ -3,7 +3,7 @@
 ### First printed map to mention Zealandia Nova (1663)
 
 ![Map reporting findings of Tasman's first voyage](pictures/148x100-WxHmm-tasman-map.jpg)
-*Map drawn by Joan Blau, adapted in print by Melchisédech Thévenot*
+*Map drawn by Joan Blaeu, adapted in print by Melchisédech Thévenot*
 
 > Melchisedech Thevenot (1620?-1692): Hollandia Nova detecta 1644;
 > Terre Australe decouuerte l'an 1644, Paris:
