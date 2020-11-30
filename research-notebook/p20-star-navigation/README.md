@@ -36,6 +36,20 @@ Source: [Hawaiian Voyaging Traditions](http://archive.hokulea.com/ike/hookele/st
 
 * [Māori star compass](https://teara.govt.nz/en/diagram/2222/maori-star-compass)
 
+![Replica Navigation Chart](pictures/replica-navigation-chart.jpg)
+
+> Marshall Islands navigation charts were made of sticks tied together.
+> Cowrie shells represented the relative positions of islands,
+> while curved and diagonal sticks showed swell and wave patterns.
+> Today, they are mainly sold as tourist souvenirs,
+> but these ancient navigation aids were once vital for island hopping
+> between the 1,000 and more islands that make up the Marshalls group.
+> The charts were not carried on board, but were memorised.
+> They were also used to record collective knowledge
+> and to train young navigators.
+
+* [Replica navigation chart](https://teara.govt.nz/en/object/2231/replica-navigation-chart)
+
 #### References
 
 ##### Hawaiian Voyaging Traditions
@@ -53,6 +67,10 @@ Source: [Hawaiian Voyaging Traditions](http://archive.hokulea.com/ike/hookele/st
 * [MAUI'S MATAURANGA OF THE SUN](https://www.thevoyage.co.nz/en/video/72_MAUI-S-MATAURANGA-OF-THE-SUN)
 * [Nau mai ki te Land of Voyagers](https://www.thevoyage.co.nz/en/video/14_Nau-mai-ki-te-Land-of-Voyagers)
 
+##### Popular Mechanics
+
+* [How Ancient Micronesian Sailors Navigated the Ocean](https://www.popularmechanics.com/science/a22061/polynesian-stick-chart/)
+
 ##### Science Learning Hub
 
 * [Wayfinding revival](https://www.sciencelearn.org.nz/resources/631-wayfinding-revival)
@@ -61,7 +79,9 @@ Source: [Hawaiian Voyaging Traditions](http://archive.hokulea.com/ike/hookele/st
 ##### Te Ara, The Encyclopedia of New Zealand
 
 * [Navigating by the stars](https://teara.govt.nz/en/diagram/2220/navigating-by-the-stars)
+* [Story: Canoe navigation](https://teara.govt.nz/en/canoe-navigation)
 * [Ocean voyaging](https://teara.govt.nz/en/canoe-navigation/page-2)
+* [Locating land](https://teara.govt.nz/en/canoe-navigation/page-3)
 * [Mau Piailug, navigator](https:/jteara.govt.nz/en/video/5995/mau-piailug-navigator)
 
 ##### Wikipedia
