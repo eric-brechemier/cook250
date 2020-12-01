@@ -2,11 +2,10 @@
 *[Previous](../p17-tasman-map/)* | Page 18 | *[Next](../p19-james-cook/)*
 ### Tupaia
 
-#### Tupaia's chart
-
-Copy chart of the society islands by James Cook after Tupaia.
+#### Navigator Tupaia guided James Cook from Otaheite towards Aotearoa (1769)
 
 ![Copy Chart of the Society Islands (1769)](pictures/15x10cm-tupaia-chart.jpg)
+*Tupaia drew this chart to explain the relative position of islands to Joseph Banks and James Cook.*
 
 > Tupaia’s chart from 1769 is evidence of the intricacy and detail
 > of Polynesian knowledge of the South Pacific, and a striking contrast
@@ -46,6 +45,8 @@ Downloaded from: [British Library Media](https://www.bl.uk/britishlibrary/~/medi
 * [Tupaia the navigator, priest and artist](https://www.bl.uk/the-voyages-of-captain-james-cook/articles/tupaia-the-navigator-priest-and-artist)
 * [Tupaia](https://www.bl.uk/people/tupaia)
 * [The Society Islands](https://www.bl.uk/collection-items/the-society-islands)
+* [Add MS 21593 C : 1769](http://searcharchives.bl.uk/primo_library/libweb/action/dlDisplay.do?vid=IAMS_VU2&docId=IAMS040-002033977&fn=permalink)
+* [Add MS 15508, f 18 : Jul 1769-Aug 1769](http://searcharchives.bl.uk/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=IAMS040-003395036&indx=1&recIds=IAMS040-003395036&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&dscnt=0&frbg=&scp.scps=scope%3A%28BL%29&tab=local&dstmp=1606830933138&srt=rank&mode=Basic&&dum=true&vl(freeText0)=Tupaia%20chart&vid=IAMS_VU2)
 
 ##### Captain Cook Society
 
@@ -85,6 +86,7 @@ Downloaded from: [British Library Media](https://www.bl.uk/britishlibrary/~/medi
 
 * [Tupaia (navigator)](https://en.wikipedia.org/wiki/Tupaia_(navigator))
 * [Raiatea](https://en.wikipedia.org/wiki/Raiatea)
+* [Tahiti](https://en.wikipedia.org/wiki/Tahiti)
 
 [Cook 250 Research Notebook](../) > Tupaia  
 *[Previous](../p17-tasman-map/)* | Page 18 | *[Next](../p19-james-cook/)*
