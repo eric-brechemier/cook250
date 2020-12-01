@@ -1,3 +1,5 @@
+[Cook 250 Research Notebook](../) > Tupaia  
+*[Previous](../p17-tasman-map/)* | Page 18 | *[Next](../p19-james-cook/)*
 ### Tupaia
 
 #### Tupaia's chart
@@ -32,6 +34,10 @@ Downloaded from: [British Library Media](https://www.bl.uk/britishlibrary/~/medi
 ##### The Journal of the Polynesian Society
 
 * [A New Reading of Tupaia’u Chart](http://www.jps.auckland.ac.nz/docs/Volume116/jps_v116_no3_2007/3%20A%20new%20reading%20of%20Tupaias%20chart.pdf)
+
+##### Wikimedia
+
+* [File:Tupaia's map, c. 1769.jpg](https://commons.wikimedia.org/wiki/File:Tupaia%27s_map,_c._1769.jpg)
 
 #### References
 
@@ -74,3 +80,11 @@ Downloaded from: [British Library Media](https://www.bl.uk/britishlibrary/~/medi
 ##### University of Auckland
 
 * [A New Reading of Tupaia’s Chart](http://www.jps.auckland.ac.nz/docs/Volume116/jps_v116_no3_2007/3%20A%20new%20reading%20of%20Tupaias%20chart.pdf)
+
+##### Wikipedia
+
+* [Tupaia (navigator)](https://en.wikipedia.org/wiki/Tupaia_(navigator))
+* [Raiatea](https://en.wikipedia.org/wiki/Raiatea)
+
+[Cook 250 Research Notebook](../) > Tupaia  
+*[Previous](../p17-tasman-map/)* | Page 18 | *[Next](../p19-james-cook/)*
