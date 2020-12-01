@@ -33,7 +33,7 @@ Downloaded from: [British Library Media](https://www.bl.uk/britishlibrary/~/medi
 
 ##### The Journal of the Polynesian Society
 
-* [A New Reading of Tupaia’u Chart](http://www.jps.auckland.ac.nz/docs/Volume116/jps_v116_no3_2007/3%20A%20new%20reading%20of%20Tupaias%20chart.pdf)
+* [A New Reading of Tupaia's Chart](http://www.jps.auckland.ac.nz/docs/Volume116/jps_v116_no3_2007/3%20A%20new%20reading%20of%20Tupaias%20chart.pdf)
 
 ##### Wikimedia
 
