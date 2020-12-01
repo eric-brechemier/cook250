@@ -4,7 +4,7 @@
 
 Copy chart of the society islands by James Cook after Tupaia.
 
-![Copy Chart of the Society Islands](pictures/15x10cm-tupaia-chart.jpg)
+![Copy Chart of the Society Islands (1769)](pictures/15x10cm-tupaia-chart.jpg)
 
 > Tupaia’s chart from 1769 is evidence of the intricacy and detail
 > of Polynesian knowledge of the South Pacific, and a striking contrast
