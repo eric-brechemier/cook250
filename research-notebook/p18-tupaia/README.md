@@ -34,6 +34,10 @@ Downloaded from: [British Library Media](https://www.bl.uk/britishlibrary/~/medi
 
 * [A New Reading of Tupaia's Chart](http://www.jps.auckland.ac.nz/docs/Volume116/jps_v116_no3_2007/3%20A%20new%20reading%20of%20Tupaias%20chart.pdf)
 
+##### University of Auckland
+
+* [A New Reading of Tupaia’s Chart](http://www.jps.auckland.ac.nz/docs/Volume116/jps_v116_no3_2007/3%20A%20new%20reading%20of%20Tupaias%20chart.pdf)
+
 ##### Wikimedia
 
 * [File:Tupaia's map, c. 1769.jpg](https://commons.wikimedia.org/wiki/File:Tupaia%27s_map,_c._1769.jpg)
