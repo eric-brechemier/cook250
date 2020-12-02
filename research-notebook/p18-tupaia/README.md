@@ -5,7 +5,7 @@
 #### Tupaia guided James Cook from Otaheite towards Aotearoa (1769)
 
 ![Copy Chart of the Society Islands (1769)](pictures/148x100-WxHmm-tupaia-chart.jpg)
-*The navigator drew this chart to explain the relative position of islands to Joseph Banks and James Cook.*
+*The navigator drew this chart to explain the relative positions of islands to Joseph Banks and James Cook.*
 
 > Tupaia’s chart from 1769 is evidence of the intricacy and detail
 > of Polynesian knowledge of the South Pacific, and a striking contrast
