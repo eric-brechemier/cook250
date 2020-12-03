@@ -41,6 +41,7 @@ Source: [National Geographic/Getty Images via Daily Mail Online](https://www.dai
 ##### Wikimedia
 
 * [HM Bark Endeavour 1764 and Captain Cook setting out on his voyage Wellcome M0011198](https://commons.wikimedia.org/wiki/File:HM_Bark_Endeavour_1764_and_Captain_Cook_setting_out_on_his_voyage_Wellcome_M0011198.jpg)
+* [Endeavour replica in Cooktown harbour](https://commons.wikimedia.org/wiki/File:Endeavour_replica_in_Cooktown_harbour.jpg)
 
 #### References
 
