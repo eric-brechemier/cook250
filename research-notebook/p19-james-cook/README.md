@@ -1,8 +1,18 @@
-### James Cook
+[Cook 250 Research Notebook](../) > James Cook  
+*[Previous](../p18-tupaia/)* | Page 19 | *[Next](../p20-star-navigation/)*
+### James Cook rediscovered New Zealand in 1769
 
-![Cook's re-discovery of New Zealand 1769, Centennial of New Zealand Stamp, 1840](pictures/15x10cm-james-cook-stamp.jpg)
+[James Cook][COOK] was a British explorer and cartographer.
+In the first of three voyages in the Pacific, he rediscovered New Zealand
+in 1769 and completed an accurate map of its coast with a full circumnavigation
+of the two main islands.
+
+![Cook's re-discovery of New Zealand 1769, Centennial of New Zealand Stamp, 1840](pictures/148x100-WxHmm-james-cook.jpg)
 
 Source: [Te Ara — The Encyclopedia of New Zealand](https://teara.govt.nz/en/zoomify/43023/centennial-stamps)
+
+> part of a series of thirteen stamps issued by the New Zealand Post Office
+> for the centennial of New Zealand in 1940
 
 #### More Images
 
@@ -83,6 +93,10 @@ Source: [Te Ara — The Encyclopedia of New Zealand](https://teara.govt.nz/en/zo
 
 ##### Wikipedia
 
-* [James Cook](https://en.wikipedia.org/wiki/James_Cook)
+* [James Cook][COOK]
 * [First voyage of James Cook](https://en.wikipedia.org/wiki/First_voyage_of_James_Cook)
 
+[COOK]: https://en.wikipedia.org/wiki/James_Cook
+
+[Cook 250 Research Notebook](../) > James Cook  
+*[Previous](../p18-tupaia/)* | Page 19 | *[Next](../p20-star-navigation/)*
