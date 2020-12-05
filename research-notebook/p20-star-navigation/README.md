@@ -1,14 +1,20 @@
-### Star Navigation
+### Polynesian Navigation
 
-![Nainoa’s Hawaiian Star Compass with the Brightest Stars](pictures/15x10cm-star-compass-brightest-stars.jpg)
+![Early Star Compass, March 26th, from the Nainoa's Notebooks for the 1980 Voyage to Tahiti](pictures/1980_star_compass1.png)
+![Early Star Compass, April 1st, from the Nainoa's Notebooks for the 1980 Voyage to Tahiti](pictures/1980_star_compass2.png)  
 
-Source: [Hawaiian Voyaging Traditions](http://archive.hokulea.com/ike/hookele/star_compasses.html)
+*Early Star Compasses, from the Nainoa's Notebooks for the 1980 Voyage to Tahiti.*
+
+Source: [Hawaiian Voyaging Traditions](http://archive.hokulea.com/ike/hookele/star_compasses.html) / Kamehameha Schools Online Archives
 
 #### More Images
 
 ##### Hawaiian Voyaging Traditions
 
 * [Star Compasses](http://archive.hokulea.com/ike/hookele/star_compasses.html)
+
+![Nainoa’s Hawaiian Star Compass with the Brightest Stars](pictures/15x10cm-star-compass-brightest-stars.jpg)
+*Nainoa’s Hawaiian Star Compass with the Brightest Stars*
 
 ##### Te Ara, The Encyclopedia of New Zealand
 
