@@ -39,7 +39,7 @@ reimagined as a photo album.
 * [18: Tupaia](p18-tupaia/README.md)
 * [19: James Cook](p19-james-cook/README.md)
 
-* [20: Star Navigation](p20-star-navigation/README.md)
+* [20: Polynesian Navigation](p20-polynesian-navigation/README.md)
 * [21: Endeavour](p21-endeavour/README.md)
 
 * [22: Horouta](p22-horouta/README.md)

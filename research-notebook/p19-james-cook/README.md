@@ -1,5 +1,5 @@
 [Cook 250 Research Notebook](../) > James Cook  
-*[Previous](../p18-tupaia/)* | Page 19 | *[Next](../p20-star-navigation/)*
+*[Previous](../p18-tupaia/)* | Page 19 | *[Next](../p20-polynesian-navigation/)*
 ### James Cook rediscovered New Zealand in 1769
 
 [James Cook][COOK] was a British explorer and cartographer.
