@@ -63,6 +63,9 @@ Source: [Hawaiian Voyaging Traditions](http://archive.hokulea.com/ike/hookele/st
 * [Star Compasses](http://archive.hokulea.com/ike/hookele/star_compasses.html)
 * [Documentaries: Films and Videos about PVS Voyages](http://archive.hokulea.com/hoonaauao/resources_film_video.html)
 * [Key Elements of Education](http://archive.hokulea.com/hoonaauao/education_elements.html)
+* [Nainoa Thompson](http://archive.hokulea.com/index/founder_and_teachers/nainoa_thompson.html)
+* [Recollections of the 1980 Voyage to Tahiti](http://archive.hokulea.com/holokai/1980/nainoa_to_tahiti.html)
+* [Voyaging and the Revival of Culture and Heritage](http://archive.hokulea.com/ike/intro_ike.html)
 
 ##### Land of Voyagers
 
@@ -72,6 +75,10 @@ Source: [Hawaiian Voyaging Traditions](http://archive.hokulea.com/ike/hookele/st
 * [Brains vs Gizmos](https://www.thevoyage.co.nz/en/video/19_Brains-vs-Gizmos)
 * [MAUI'S MATAURANGA OF THE SUN](https://www.thevoyage.co.nz/en/video/72_MAUI-S-MATAURANGA-OF-THE-SUN)
 * [Nau mai ki te Land of Voyagers](https://www.thevoyage.co.nz/en/video/14_Nau-mai-ki-te-Land-of-Voyagers)
+
+##### Persée
+
+* [Les Polynésiens et la navigation astronomique](https://www.persee.fr/doc/jso_0300-953x_1972_num_28_36_2384)
 
 ##### Popular Mechanics
 
@@ -90,8 +97,17 @@ Source: [Hawaiian Voyaging Traditions](http://archive.hokulea.com/ike/hookele/st
 * [Locating land](https://teara.govt.nz/en/canoe-navigation/page-3)
 * [Mau Piailug, navigator](https:/jteara.govt.nz/en/video/5995/mau-piailug-navigator)
 
+##### Ulukau, the Hawaiian Electronic Library
+
+* [The Ocean Is My Classroom](https://ulukau.org/elib/collect/kamjoe/index/assoc/D0.dir/doc13.pdf)
+
 ##### Wikipedia
 
 * [Polynesian navigation](https://en.wikipedia.org/wiki/Polynesian_navigation)
 * [Marshall Islands stick chart](https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart)
+* [Nainoa Thompson](https://en.wikipedia.org/wiki/Nainoa_Thompson)
+* [Hōkūleʻa](https://en.wikipedia.org/wiki/H%C5%8Dk%C5%ABle%CA%BBa)
+* [Mau Piailug](https://en.wikipedia.org/wiki/Mau_Piailug)
+* [Polynesian Voyaging Society](https://en.wikipedia.org/wiki/Polynesian_Voyaging_Society)
+
 
