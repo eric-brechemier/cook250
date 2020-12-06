@@ -8,8 +8,8 @@ well as the movements of celestial bodies as seen from different locations.
 
 #### Star compasses used in Nainoa Thompson's voyage from Hawai‘i to Tahiti (1980)
 
-![Early Star Compasses from the Nainoa's Notebooks for the 1980 Voyage to Tahiti](pictures/148x100-WxHmm-polynesian-navigation.jpg)  
-*Early Star Compasses, from the Nainoa's Notebooks for the 1980 Voyage to Tahiti*
+![Early star compasses from the Nainoa's notebooks for the 1980 voyage to Tahiti](pictures/148x100-WxHmm-polynesian-navigation.jpg)  
+*Early star compasses from the Nainoa's notebooks for the 1980 voyage to Tahiti*
 
 Source: [Hawaiian Voyaging Traditions](http://archive.hokulea.com/ike/hookele/star_compasses.html) / Kamehameha Schools Online Archives
 
