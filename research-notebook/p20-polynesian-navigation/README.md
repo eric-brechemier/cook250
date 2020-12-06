@@ -1,13 +1,14 @@
+[Cook 250 Research Notebook](../) > Polynesian Navigation  
+*[Previous](../p19-james-cook/)* | Page 20 | *[Next](../p21-endeavour/)*
 ### Polynesian Navigation
 
 Traditional Polynesian navigation requires a deep knowledge of ocean currents,
 waves and swells, algae, winds, clouds, bird flights and fish migrations, as
 well as the movements of celestial bodies as seen from different locations.
 
-#### Star compasses used in Nainoa Thompson's Voyage from Hawai‘i to Tahiti (1980)
+#### Star compasses used in Nainoa Thompson's voyage from Hawai‘i to Tahiti (1980)
 
-![Early Star Compass, March 26th, from the Nainoa's Notebooks for the 1980 Voyage to Tahiti](pictures/1980_star_compass1.png)
-![Early Star Compass, April 1st, from the Nainoa's Notebooks for the 1980 Voyage to Tahiti](pictures/1980_star_compass2.png)  
+![Early Star Compasses from the Nainoa's Notebooks for the 1980 Voyage to Tahiti](pictures/148x100-WxHmm-polynesian-navigation.jpg)  
 *Early Star Compasses, from the Nainoa's Notebooks for the 1980 Voyage to Tahiti*
 
 Source: [Hawaiian Voyaging Traditions](http://archive.hokulea.com/ike/hookele/star_compasses.html) / Kamehameha Schools Online Archives
@@ -119,3 +120,5 @@ Source: [Hawaiian Voyaging Traditions](http://archive.hokulea.com/ike/hookele/st
 * [Hawaii](https://en.wikipedia.org/wiki/Hawaii)
 * [Tahiti](https://en.wikipedia.org/wiki/Tahiti)
 
+[Cook 250 Research Notebook](../) > Polynesian Navigation  
+*[Previous](../p19-james-cook/)* | Page 20 | *[Next](../p21-endeavour/)*
