@@ -17,6 +17,10 @@ Source: [National Geographic](https://www.natgeoimagecollection.com/archive/-2KW
 
 * [Captain Cook's Endeavour is finally found 230 years after it disappeared](https://www.dailymail.co.uk/news/article-3568740/Captain-Cook-s-HMS-Endeavour-United-States.html)
 
+##### Kogonusa
+
+* [Tairāwhiti Museum refuses to exhibit Endeavour model](https://www.kogonuso.com/tairawhiti-museum-refuses-to-exhibit-endeavour-model/)
+
 ##### Lego Ideas
 
 * [James Cook and the HMS Endeavour](https://ideas.lego.com/projects/73681484-d113-419a-9dfb-571bf49246a4)
