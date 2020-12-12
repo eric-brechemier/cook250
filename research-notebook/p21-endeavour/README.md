@@ -1,8 +1,11 @@
-### Endeavour
+[Cook 250 Research Notebook](../) > Endeavour  
+*[Previous](../p20-polynesian-navigation/)* | Page 21 | *[Next](../p22-horouta/)*
+### Endeavour, James Cook's ship
 
-![A cutaway painting of Captain Cook's Endeavour ship during its journey](pictures/15x10cm-endeavour-cutaway-painting.jpg)
+![A cutaway painting of Captain Cook's Endeavour ship](pictures/148x100-WxHmm-endeavour.jpg)
+*Cutaway painting by Robert W. Nicholson (1923–1973)*
 
-Source: [National Geographic/Getty Images via Daily Mail Online](https://www.dailymail.co.uk/news/article-3568740/Captain-Cook-s-HMS-Endeavour-United-States.html)
+Source: [National Geographic](https://www.natgeoimagecollection.com/archive/-2KWGDN1LZ24T.html)
 
 #### More Images
 
@@ -34,6 +37,10 @@ Source: [National Geographic/Getty Images via Daily Mail Online](https://www.dai
 
 * [Centennial stamps](https://teara.govt.nz/en/zoomify/43023/centennial-stamps)
 
+##### The Guardian
+
+* [Captain Cook's Endeavour: from the Great Barrier Reef to Rhode Island?](https://www.theguardian.com/us-news/2016/may/04/captain-cook-endeavour-ship-found-rhode-island-revolutionary-war?page=with:img-3#img-3)
+
 ##### Travel to Eat
 
 * [HM Bark Endeavour. Australian National Maritime Museum, Sydney](https://traveltoeat.com/hm-bark-endeavour-australian-national-maritime-museum-sydney)
@@ -52,6 +59,10 @@ Source: [National Geographic/Getty Images via Daily Mail Online](https://www.dai
 ##### Captain Cook Society
 
 * [Endeavour](https://www.captaincooksociety.com/home/detail/endeavour)
+
+##### Find a Grave
+
+* [Robert W Nicholson](https://www.findagrave.com/memorial/27281069/robert-w-nicholson)
 
 ##### Land of Voyages
 
@@ -72,3 +83,5 @@ Source: [National Geographic/Getty Images via Daily Mail Online](https://www.dai
 
 * [HMS Endeavour](https://en.wikipedia.org/wiki/HMS_Endeavour)
 
+[Cook 250 Research Notebook](../) > Endeavour  
+*[Previous](../p20-polynesian-navigation/)* | Page 21 | *[Next](../p22-horouta/)*
