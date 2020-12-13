@@ -20,6 +20,7 @@ Source: [National Geographic](https://www.natgeoimagecollection.com/archive/-2KW
 ##### Herb Kawainui Kāne: A Visual Collection of Hawaiian History
 
 * [Ships](https://www.herbkanehawaii.com/product-category/ships/)
+* [Endeavour](https://www.herbkanehawaii.com/product/endeavour-2/)
 
 ##### Kogonusa
 

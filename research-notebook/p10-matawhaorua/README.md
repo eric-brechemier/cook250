@@ -26,6 +26,7 @@ Source: [Tupapa](https://www.tupapa.nz/)
 ##### Herb Kawainui Kāne: A Visual Collection of Hawaiian History
 
 * [Canoes](https://www.herbkanehawaii.com/product-category/canoes/)
+* [Ancient Voyaging Canoe](https://www.herbkanehawaii.com/product/ancient-voyaging-canoe/)
 
 ##### New Zealand History
 
