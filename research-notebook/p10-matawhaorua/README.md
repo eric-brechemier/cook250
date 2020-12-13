@@ -23,6 +23,10 @@ Source: [Tupapa](https://www.tupapa.nz/)
 
 * [Online Visuals](http://archive.hokulea.com/hoonaauao/resources_visual.html)
 
+##### Herb Kawainui Kāne: A Visual Collection of Hawaiian History
+
+* [Canoes](https://www.herbkanehawaii.com/product-category/canoes/)
+
 ##### New Zealand History
 
 * [Pacific voyaging and discovery](https://nzhistory.govt.nz/culture/encounters/polynesian-voyaging)
