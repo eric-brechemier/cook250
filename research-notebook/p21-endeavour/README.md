@@ -17,6 +17,10 @@ Source: [National Geographic](https://www.natgeoimagecollection.com/archive/-2KW
 
 * [Captain Cook's Endeavour is finally found 230 years after it disappeared](https://www.dailymail.co.uk/news/article-3568740/Captain-Cook-s-HMS-Endeavour-United-States.html)
 
+##### Herb Kawainui Kāne: A Visual Collection of Hawaiian History
+
+* [Ships](https://www.herbkanehawaii.com/product-category/ships/)
+
 ##### Kogonusa
 
 * [Tairāwhiti Museum refuses to exhibit Endeavour model](https://www.kogonuso.com/tairawhiti-museum-refuses-to-exhibit-endeavour-model/)
