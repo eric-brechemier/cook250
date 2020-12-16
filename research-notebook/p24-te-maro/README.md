@@ -5,7 +5,7 @@
 ![Te Maro Memorial](pictures/15x10cm-te-maro-memorial.jpg)
 
 Sculpture by Nick Tupara, a descendant of Te Maro  
-Photograph by David Thomsen (detail)
+Detail of a photograph by David Thomsen (31 December 2019)
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Te_Maro_memorial.jpg)
 
