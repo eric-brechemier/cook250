@@ -259,6 +259,10 @@ The picture referred to by Joseph Banks is on the left page:
 
 * [Tuia 250: Michel Tuffery's Artistic Journey of Discovery](https://stamps.nzpost.co.nz/new-zealand/2019/tuia-250-michel-tufferys-artistic-journey-discovery)
 
+#####  Tairāwhiti Gisborne
+
+* [Te Maro Sculpture](https://tairawhitigisborne.co.nz/listings/operator/1305/te-maro-sculpture)
+
 ##### Te Ara — The Encyclopedia of New Zealand
 
 * [Māori settlement](https://teara.govt.nz/en/diagram/17355/maori-settlement)
