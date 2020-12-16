@@ -1,6 +1,9 @@
-### Cook's Arrival to New Zealand
+[Cook 250 Research Notebook](../) > Cook's Arrival  
+*[Previous](../p22-horouta/)* | Page 23 | *[Next](../p24-te-maro/)*
+### James Cook arrived to New Zealand in October 1769
 
-![View of Poverty Bay featuring Young Nick's Head](pictures/15x10cm-young-nick-head.jpg)
+![View of Poverty Bay featuring Young Nick's Head](pictures/148x100-WxHmm-cook-arrival.jpg)
+*View of Poverty Bay featuring Young Nick's Head*
 
 Source: [Journal of Sidney Parkinson, Plate XIV, SPL Hand Coloured Rare Book Collection](https://www.splrarebooks.com/collection/view/a-journal-of-a-voyage-to-the-south-seas-in-his-majestys-ship-the-endeavour-)
 
@@ -35,3 +38,5 @@ Source: [Journal of Sidney Parkinson, Plate XIV, SPL Hand Coloured Rare Book Col
 * [Poverty Bay](https://en.wikipedia.org/wiki/Poverty_Bay)
 * [Young Nick's Head](https://en.wikipedia.org/wiki/Young_Nick%27s_Head)
 
+[Cook 250 Research Notebook](../) > Cook's Arrival  
+*[Previous](../p22-horouta/)* | Page 23 | *[Next](../p24-te-maro/)*
