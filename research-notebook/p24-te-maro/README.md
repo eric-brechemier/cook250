@@ -1,13 +1,13 @@
+[Cook 250 Research Notebook](../) > Murder of Te Maro  
+*[Previous](../p21-endeavour/)* | Page 24 | *[Next](../p23-cook-arrival/)*
 ### Murder of Te Maro
 
-#### Te Maro Memorial
+#### Memorial for Te Maro, chief gardener, shot through the heart on 8 October 1769
 
 ![Te Maro Memorial](pictures/15x10cm-te-maro-memorial.jpg)
+*Sculpture by Nick Tupara, descendant of Te Maro, 2019*
 
-Sculpture by Nick Tupara, a descendant of Te Maro  
-Detail of a photograph by David Thomsen (31 December 2019)
-
-Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Te_Maro_memorial.jpg)
+Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Te_Maro_memorial.jpg), detail of a photograph by David Thomsen (31 December 2019)
 
 > Te Maro of Ngāti Rakai (later Ngāti Oneone) and Te Aitanga a Hauiti
 > was trained in the whare wānanga (house of learning) Puhi Kai Iti,
@@ -223,7 +223,7 @@ The picture referred to by Joseph Banks is on the left page:
 
 ##### Eugenie Sage MP on Facebook
 
-![Te Maro sculpture with artist Nick Tupara, descendant of Te Maro](te-maro-and-nick-tupara.jpg)
+![Te Maro sculpture with artist Nick Tupara, descendant of Te Maro](pictures/te-maro-and-nick-tupara.jpg)
 
 ![Te Maro sculpture](pictures/te-maro-sculpture.jpg)
 
@@ -385,3 +385,5 @@ The picture referred to by Joseph Banks is on the left page:
 * [History of the Gisborne Region](https://en.wikipedia.org/wiki/History_of_the_Gisborne_Region#cite_note-spedding-16)
 * [Poverty Bay](https://en.wikipedia.org/wiki/Poverty_Bay)
 
+[Cook 250 Research Notebook](../) > Murder of Te Maro  
+*[Previous](../p21-endeavour/)* | Page 24 | *[Next](../p23-cook-arrival/)*
