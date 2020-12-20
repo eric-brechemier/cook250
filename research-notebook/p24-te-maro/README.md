@@ -4,7 +4,7 @@
 
 #### Memorial for Te Maro, chief gardener, shot through the heart on 8 October 1769
 
-![Te Maro Memorial](pictures/15x10cm-te-maro-memorial.jpg)
+![Te Maro Memorial](pictures/148x100-WxHmm-te-maro-memorial.jpg)
 *Sculpture by Nick Tupara, descendant of Te Maro, 2019*
 
 Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Te_Maro_memorial.jpg), detail of a photograph by David Thomsen (31 December 2019)
