@@ -1,5 +1,5 @@
 [Cook 250 Research Notebook](../) > Murder of Te Maro  
-*[Previous](../p21-endeavour/)* | Page 24 | *[Next](../p23-cook-arrival/)*
+*[Previous](../p23-cook-arrival/)* | Page 24 | *[Next](../p25-botanists/)*
 ### Murder of Te Maro
 
 #### Memorial for Te Maro, chief gardener, shot through the heart on 8 October 1769
@@ -386,4 +386,4 @@ The picture referred to by Joseph Banks is on the left page:
 * [Poverty Bay](https://en.wikipedia.org/wiki/Poverty_Bay)
 
 [Cook 250 Research Notebook](../) > Murder of Te Maro  
-*[Previous](../p21-endeavour/)* | Page 24 | *[Next](../p23-cook-arrival/)*
+*[Previous](../p23-cook-arrival/)* | Page 24 | *[Next](../p25-botanists/)*
