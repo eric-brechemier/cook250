@@ -93,7 +93,7 @@ reimagined as a photo album.
 * [54: Crook Cook](p54-crook-cook/README.md)
 * [55: Captain Cook Legacy](p55-captain-cook-legacy/README.md)
 
-* 56: Cocacolonization
+* [56: Cocacolonization](p56-cocacolonization/README.md)
 * 57: Coca-Cola: Celebrate
 
 * [58: Ambigram](p58-ambigram/README.md)
