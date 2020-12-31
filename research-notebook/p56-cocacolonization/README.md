@@ -1,9 +1,9 @@
 ### Cocacolonization
 
 ![Have a “Coke” = Kia Ora](pictures/have-a-coke-equals-kia-ora.jpg)  
-*1944 magazine ad*
+*1944 magazine ad from The Coca-Cola Company, illustrated by Dean Cornwell*
 
-Source: [reddit](https://www.reddit.com/r/newzealand/comments/7rmyoq/ww2_era_coca_cola_kiaora_advertisement/)
+Source: [reddit](https://www.reddit.com/r/newzealand/comments/7rmyoq/ww2_era_coca_cola_kiaora_advertisement/) / [Archive New Zealand](http://localhost:6419/)
 
 > On 15 January 1889, the Coca-Cola Company
 > —then known as the Pemberton Medicine Company—
