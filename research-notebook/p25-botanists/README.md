@@ -113,6 +113,11 @@ Source: [Banks' Florilegium, Alecto Historical Editions](https://www.alecto-hist
 
 * [Journal of Sydney Parkinson](http://www.splrarebooks.com/collection/view/a-journal-of-a-voyage-to-the-south-seas-in-his-majestys-ship-the-endeavour-)
 
+##### Wikipedia
+
+![Sophora tetraptera flowers, foliage and seed pods](pictures/Plants_of_New_Zealand_(1906)_(14781835954).jpg)
+* [Sophora tetraptera flowers, foliage and seed pods](https://en.wikipedia.org/wiki/K%C5%8Dwhai#/media/File:Plants_of_New_Zealand_(1906)_(14781835954).jpg)
+
 #### References
 
 ##### Alecto Historical Editions
