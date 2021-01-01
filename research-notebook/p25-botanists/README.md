@@ -1,8 +1,10 @@
 ### Botanists: Joseph Banks, Daniel Solander and Sydney Parkinson
 
-#### Sophora microphylla (Leguminosae) - Plate 431
+#### Joseph Banks started collecting observations of New Zealand plants on 8 October 1769
 
 ![Sophora microphylla (Leguminosae), plate 431](pictures/10x15cm-banks-florigelium-plate431.jpg)
+*Sophora microphylla (Leguminosae), plate 431 in Banks' Florilegium*  
+*Drawing by Sydney Parkinson, engraved by Frederick Polydore Nodder.*
 
 Source: [Banks' Florilegium, Alecto Historical Editions](https://www.alecto-historical-editions.com/collections/new-zealand/products/ahe-banks-prints-431)
 
@@ -169,6 +171,7 @@ Source: [Banks' Florilegium, Alecto Historical Editions](https://www.alecto-hist
 * [Joseph Banks](https://en.wikipedia.org/wiki/Joseph_Banks)
 * [Daniel Solander](https://en.wikipedia.org/wiki/Daniel_Solander)
 * [Sydney Parkinson](https://en.wikipedia.org/wiki/Sydney_Parkinson)
+* [Frederick Polydore Nodder](https://en.wikipedia.org/wiki/Frederick_Polydore_Nodder)
 * [Banks' Florilegium](https://en.wikipedia.org/wiki/Banks%27_Florilegium)
 * [Sophora microphylla](https://en.wikipedia.org/wiki/Sophora_microphylla)
 * [Kōwhai](https://en.wikipedia.org/wiki/K%C5%8Dwhai)
