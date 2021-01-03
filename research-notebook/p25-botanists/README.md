@@ -4,7 +4,7 @@
 
 #### Joseph Banks started collecting observations of New Zealand plants on 8 October 1769
 
-![Sophora microphylla (Leguminosae), plate 431](pictures/10x15cm-banks-florigelium-plate431.jpg)
+![Sophora microphylla (Leguminosae), plate 431](pictures/100x148-WxHmm-banks-florigelium-plate431.jpg)
 *Sophora microphylla (Leguminosae), plate 431 in Banks' Florilegium*  
 *Drawing by Sydney Parkinson, engraved by Frederick Polydore Nodder.*
 
