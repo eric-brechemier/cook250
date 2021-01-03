@@ -2,7 +2,7 @@
 *[Previous](../p24-te-maro/)* | Page 25 | *[Next](../p26-te-rakau/)*
 ### Botanists: Joseph Banks, Daniel Solander and Sydney Parkinson
 
-#### Joseph Banks started collecting observations of New Zealand plants on 8 October 1769
+#### Joseph Banks started collecting New Zealand plants on 8 October 1769
 
 ![Sophora microphylla (Leguminosae), plate 431](pictures/100x148-WxHmm-banks-florigelium-plate431.jpg)
 *Sophora microphylla (Leguminosae), plate 431 in Banks' Florilegium*  
