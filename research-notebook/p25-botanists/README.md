@@ -1,3 +1,5 @@
+[Cook 250 Research Notebook](../) > Botanists  
+*[Previous](../p24-te-maro/)* | Page 25 | *[Next](../p26-te-rakau/)*
 ### Botanists: Joseph Banks, Daniel Solander and Sydney Parkinson
 
 #### Joseph Banks started collecting observations of New Zealand plants on 8 October 1769
@@ -176,3 +178,5 @@ Source: [Banks' Florilegium, Alecto Historical Editions](https://www.alecto-hist
 * [Sophora microphylla](https://en.wikipedia.org/wiki/Sophora_microphylla)
 * [Kōwhai](https://en.wikipedia.org/wiki/K%C5%8Dwhai)
 
+[Cook 250 Research Notebook](../) > Botanists  
+*[Previous](../p24-te-maro/)* | Page 25 | *[Next](../p26-te-rakau/)*
