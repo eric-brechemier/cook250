@@ -1,13 +1,12 @@
-### Te Rakau
-
-#### Plate XV. A New Zealand Warrior in his Proper Dress, & Compleatly Armed, According to their Manner
-
-##### SPL Hand Coloured Rare Book Collection
+[Cook 250 Research Notebook](../) > Murder of Te Rakau  
+*[Previous](../p25-botanists/)* | Page 26 | *[Next](../p27-claim-on-new-zealand/)*
+### Chief Te Rakau was shot dead during meeting with Cook on 9 October 1769
 
 ![A New Zealand Warrior..., Journal of Sydney Parkison](pictures/10x15cm-new-zealand-warrior.jpg)
 
-Source: [Journal of Sydney Parkinson](http://www.splrarebooks.com/collection/view/a-journal-of-a-voyage-to-the-south-seas-in-his-majestys-ship-the-endeavour-)
+*Drawing by Sydney Parkinson*  
 
+Source: [Plate XV, Journal of Sydney Parkinson, SPL Hand Coloured Rare Book Collection](http://www.splrarebooks.com/collection/view/a-journal-of-a-voyage-to-the-south-seas-in-his-majestys-ship-the-endeavour-)
 
 > **Early on the morning of the 10th,** the long-boat, pinnace, and yaul,
 > went on shore again; landed near the river where they had been the night
@@ -94,10 +93,10 @@ Source: [Journal of Sydney Parkinson](http://www.splrarebooks.com/collection/vie
 > quantity of pumice-stone lies all along upon the shore, within the bay,
 > which indicates that there is a volcano in this island.
 >
-> — Sydney Parkinson's Journal of a Voyage to the South Seas
-> http://southseas.nla.gov.au/journals/parkinson/122.html
-> http://southseas.nla.gov.au/journals/parkinson/123.html
-> http://southseas.nla.gov.au/journals/parkinson/124.html
+> — Sydney Parkinson's Journal of a Voyage to the South Seas  
+> http://southseas.nla.gov.au/journals/parkinson/122.html  
+> http://southseas.nla.gov.au/journals/parkinson/123.html  
+> http://southseas.nla.gov.au/journals/parkinson/124.html  
 > http://southseas.nla.gov.au/journals/parkinson/125.html
 
 
@@ -204,7 +203,7 @@ Source: [Journal of Sydney Parkinson](http://www.splrarebooks.com/collection/vie
 > a large pumice stone floating in the bay in returning to the ship today, a
 > sure sign that there either is or has been a Volcano in this neighbourhood.
 >
-> — The Endeavour Journal of Sir Joseph Banks
+> — The Endeavour Journal of Sir Joseph Banks  
 > http://gutenberg.net.au/ebooks05/0501141h.html#oct1769
 
 
@@ -295,8 +294,8 @@ Source: [Journal of Sydney Parkinson](http://www.splrarebooks.com/collection/vie
 > first evening we Landed remain'd in the very spot they had left him.
 >
 > — CAPTAIN COOK'S JOURNAL DURING HIS FIRST VOYAGE ROUND THE WORLD
->   MADE IN H.M. BARK "ENDEAVOUR" 1768-71
-> http://gutenberg.net.au/ebooks/e00043.html#ch5
+>   MADE IN H.M. BARK "ENDEAVOUR" 1768-71  
+>   http://gutenberg.net.au/ebooks/e00043.html#ch5
 
 
 #### More Images
@@ -321,6 +320,10 @@ Source: [Journal of Sydney Parkinson](http://www.splrarebooks.com/collection/vie
 
 * [Historical address of the arrival in 1769 of Captain Cook and the Endeavour(...)](https://www.gdc.govt.nz/assets/Consultation/Historical-Address-of-the-arrival-1769-of-Captain-Cook-and-the-Endeavour-to-Turanganui-A-Kiwa.pdf)
 
+##### National Library of Scotland
+
+* [Sydney Parkinson’s Journal and a Publishing Nightmare](https://blog.nls.uk/sydney-parkinsons-journal-and-a-publishing-nightmare/)
+
 ##### Project Gutenberg Australia
 
 * [Captain cook's Journal. First Voyage.](http://gutenberg.net.au/ebooks/e00043.html#ch)
@@ -342,3 +345,6 @@ Source: [Journal of Sydney Parkinson](http://www.splrarebooks.com/collection/vie
 ##### Victoria University of Wellington
 
 * [Life in Early Poverty Bay: Te Rakau Slain](http://nzetc.victoria.ac.nz/tm/scholarly/tei-MacLife-t1-body-d1-d4.html)
+
+[Cook 250 Research Notebook](../) > Murder of Te Rakau  
+*[Previous](../p25-botanists/)* | Page 26 | *[Next](../p27-claim-on-new-zealand/)*
