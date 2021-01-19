@@ -8,6 +8,10 @@ Source: [CNN/USGS](https://edition.cnn.com/2017/09/08/world/ring-of-fire-explain
 
 #### More Images
 
+##### The Guardian
+
+* [Java's ring of fire rumbles on: Indonesian volcanoes erupt – in pictures](https://www.theguardian.com/world/gallery/2021/jan/19/javas-ring-of-fire-rumbles-on-indonesian-volcanoes-erupt-in-pictures)
+
 ##### USGS
 
 * [Pacific Plate boundaries and relative motion](https://www.usgs.gov/media/images/pacific-plate-boundaries-and-relative-motion)
