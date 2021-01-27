@@ -2,7 +2,7 @@
 *[Previous](../p25-botanists/)* | Page 26 | *[Next](../p27-claim-on-new-zealand/)*
 ### Chief Te Rakau was shot dead during meeting with Cook on 9 October 1769
 
-![A New Zealand Warrior..., Journal of Sydney Parkison](pictures/10x15cm-new-zealand-warrior.jpg)
+![A New Zealand Warrior..., Journal of Sydney Parkison](pictures/100x148-WxHmm-te-rakau.jpg)
 
 *Drawing by Sydney Parkinson*  
 
