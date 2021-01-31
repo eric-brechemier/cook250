@@ -8,7 +8,7 @@ up the post we took it up to the highest
 part of the Island, and after fixing it fast
 in the ground hoisted thereon the Union flag
 and I dignified this Inlet with the name of
-Queen Charlotte's_Sound and took formal possession
+Queen _Charlotte's_Sound_ and took formal possession
 of it and the Adjacent lands in the Name and
 for the use of his Majesty. We then drank Her
 Majesty's health in a Bottle of wine and gave
