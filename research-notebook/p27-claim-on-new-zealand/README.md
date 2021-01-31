@@ -20,7 +20,9 @@ highly pleased. Whilst the post was setting up
 (...)
 ```
 
-Source: [Journal of H.M.S. Endeavour, 1768-1771 [manuscript].](https://nla.gov.au/nla.obj-229024441/view)
+*Journal of H.M.S. Endeavour by James Cook, manuscript, 1768-1771.*
+
+Source: [National Library of Australia](https://nla.gov.au/nla.obj-229024441/view)
 
 
 > **Wednesday, 31st. Little wind and Variable.**
