@@ -1,3 +1,5 @@
+[Cook 250 Research Notebook](../) > Claim on New Zealand  
+*[Previous](../p26-te-rakau/)* | Page 27 | *[Next](../p28-maori-place-names/)*
 ### Claim on New Zealand
 
 ![Claim on New Zealand, James Cook Journal, 31 January 1770](pictures/15x10cm-james-cook-claim-on-new-zealand.jpg)
@@ -102,3 +104,6 @@ on 10 October 1769, soon after their arrival, in different circumstances:
 
 * [After two earlier attempts to plant the British flag, with permission of one rangatira Cook hoisted the flag in the name of Crown and Country (...)](https://en.wikipedia.org/wiki/First_voyage_of_James_Cook#Aotearoa_New_Zealand)
 * [Queen Charlotte Sound (New Zealand)](https://en.wikipedia.org/wiki/Queen_Charlotte_Sound_(New_Zealand))
+
+[Cook 250 Research Notebook](../) > Claim on New Zealand  
+*[Previous](../p26-te-rakau/)* | Page 27 | *[Next](../p28-maori-place-names/)*
