@@ -88,6 +88,10 @@ on 10 October 1769, soon after their arrival, in different circumstances:
 
 #### References
 
+##### National Library of Australia
+
+* [Journal of H.M.S. Endeavour, 1768-1771 [manuscript]](https://catalogue.nla.gov.au/Record/3525402)
+
 ##### South Seas
 
 * [Cook's Journal: 31 January 1770](http://southseas.nla.gov.au/journals/cook/17700131.html)
