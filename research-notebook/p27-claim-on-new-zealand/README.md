@@ -94,6 +94,12 @@ on 10 October 1769, soon after their arrival, in different circumstances:
 
 * [New Zealand list](https://www.captaincooksociety.com/home/detail/new-zealand-list)
 
+##### Inside Story
+
+###### August 4th, 2020
+
+* [On Possession Island](https://insidestory.org.au/on-possession-island/)
+
 ##### National Library of Australia
 
 * [Journal of H.M.S. Endeavour, 1768-1771 [manuscript]](https://catalogue.nla.gov.au/Record/3525402)
