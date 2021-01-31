@@ -93,7 +93,6 @@ on 10 October 1769, soon after their arrival, in different circumstances:
 * [Cook's Journal: 31 January 1770](http://southseas.nla.gov.au/journals/cook/17700131.html)
 * [Sydney Parkinson's Journal of a Voyage to the South Seas](http://southseas.nla.gov.au/journals/parkinson/122.html)
 
-
 ##### The Spinoff
 
 ##### October 3rd, 2019
