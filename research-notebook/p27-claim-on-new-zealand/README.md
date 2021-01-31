@@ -90,6 +90,10 @@ on 10 October 1769, soon after their arrival, in different circumstances:
 
 #### References
 
+##### Captain Cook Society
+
+* [New Zealand list](https://www.captaincooksociety.com/home/detail/new-zealand-list)
+
 ##### National Library of Australia
 
 * [Journal of H.M.S. Endeavour, 1768-1771 [manuscript]](https://catalogue.nla.gov.au/Record/3525402)
