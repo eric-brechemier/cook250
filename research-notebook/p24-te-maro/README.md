@@ -214,6 +214,68 @@ The picture referred to by Joseph Banks is on the left page:
 > — Sydney Parkinson's Journal of a Voyage to the South Seas
 > http://nla.gov.au/nla.cs-ss-jrnl-parkinson-120
 
+#### Notes About Date Discrepancies Between the Journals
+
+> *Civil Time, Ship’s Time and the Date Line*
+>
+> When Joseph Banks recorded events in his journal, he used civil time,
+> meaning that each day begins at midnight. So 10 am comes before 2 pm
+> on the same day.  However, in the eighteenth century, naval officers used
+> nautical or ship’s time rather than civil time. Ship’s time means that each
+> day begins at noon [on the previous day]. So 2 pm comes before 10 am. Hence,
+> Cook’s journal entries begin with the events of the afternoon, followed by
+> midnight, followed by those of the morning, and end with noon.
+>
+> As Endeavour was sailing westwards, as she crossed 180° longitude on
+> 7 October, the journal writers should have adjusted their dates for the
+> lost day.  However, they did not do so until they reached Batavia, and were
+> told that what they thought was 10 October, 1770, was really 11 October.
+> The International Date Line was not established until 1854. (...)
+>
+> — https://www.captaincooksociety.com/home/detail/october-december-1769
+
+> (...) Till 1805 logs were kept in nautical time; that is to say when they
+> were written up at mid-day, that day's entry consisted of the proceedings
+> for P.M. of the day before and A.M. of that day. (...) the Nautical day
+> commenced at noon, twelve hours earlier than the civil day. The proceedings
+> given in the Logs as for 20th October are really the proceedings for the
+> afternoon of the 19th, followed by those for the morning of the 20th civil
+> time. (...)
+>
+> We find Cook's journals kept the same way, and in editing the journal for
+> the first voyage Admiral Wharton reproduced Cook's own "Explanation" (from
+> Journal) which begins "It is necessary to premise by way of explanation,
+> that in this journal (except while we lay at St. George's Island) the day
+> is supposed to begin and end at noon, as for instance, Friday the 27th May,
+> began at noon on Thursday 26th and ended the following noon according to the
+> natural day..."
+>
+> (...)
+>
+> The log was kept in ship's time, that is, the local apparent time, adjusted
+> at intervals to the change of longitude: and by old practice an adjustment
+> was made at noon, when the officer taking the latitude sight called
+> "Twelve o'clock, Sir," and the Captain said "Make it so," (though the
+> actual observations for local time were necessarily made morning and
+> afternoon). If it were necessary to establish the accurate time of an
+> event we should have to enquire more particularly whether the time of
+> the nautical day was on that ship carried on from the noon on which it
+> began, or adjusted to the noon on which it ended, or perhaps altered during
+> the night from one to the other, as is more or less the present practice in
+> merchant ships, though H.M. Navy keeps Standard Time. In default of better
+> information we may without serious error (in days of sail) take the recorded
+> hour as in the apparent time of the meridian of longitude mentioned in the
+> account, and for form's sake apply the equation of time to reduce to civil
+> time of the meridian.
+>
+> If any one should require to go beyond the day and hour of the log, the only
+> safe procedure is to reduce to Greenwich Civil Time: after which we can if
+> we like argue securely about what would have been the date if the voyage had
+> been made the other way round, or if the present rules for change of date had
+> been followed then. (...)
+>
+> — http://www.navalmarinearchive.com/research/nautical_time_and_date.html
+
 #### More Images
 
 ##### Boffa Miskell
@@ -273,11 +335,19 @@ The picture referred to by Joseph Banks is on the left page:
 
 #### References
 
+##### Archives & Collections Society
+
+* [Nautical time and civil date](http://www.navalmarinearchive.com/research/nautical_time_and_date.html)
+
 ##### BBC
 
 * [Maori shootings: Britain regrets killings by Endeavour crew](https://www.bbc.com/news/world-asia-49903759)
 * [Who really discovered New Zealand?](https://www.bbcearth.com/blog/?article=who-really-discovered-new-zealand)
 * [The countries grappling with their European heritage](https://www.bbc.com/news/world-asia-49728901)
+
+##### Captain Cook Society
+
+* [October - December 1769](https://www.captaincooksociety.com/home/detail/october-december-1769)
 
 ##### Facebook
 
@@ -384,6 +454,7 @@ The picture referred to by Joseph Banks is on the left page:
 
 * [History of the Gisborne Region](https://en.wikipedia.org/wiki/History_of_the_Gisborne_Region#cite_note-spedding-16)
 * [Poverty Bay](https://en.wikipedia.org/wiki/Poverty_Bay)
+* [Equation of time](https://en.wikipedia.org/wiki/Equation_of_time)
 
 [Cook 250 Research Notebook](../) > Murder of Te Maro  
 *[Previous](../p23-cook-arrival/)* | Page 24 | *[Next](../p25-botanists/)*
