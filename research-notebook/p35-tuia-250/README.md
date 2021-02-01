@@ -8,6 +8,10 @@
 
 #### References
 
+##### Captain Cook Society
+
+* [250th anniversary](https://www.captaincooksociety.com/home/250th-anniversary)
+
 ##### RNZ Radio New Zealand
 
 ###### May 13th, 2019
