@@ -133,7 +133,8 @@ Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Te_Maro_memorial.jpg
 >
 > — https://www.teaomaori.news/we-cant-sit-back-and-let-be-shallow-statement
 
-> **MONDAY, 9th October.**
+> **MONDAY, 9th October. Gentle breezes and Clear Weather. P.M.**  
+> [Civil Date: Sunday, 8th October PM]
 >
 > (...) After this I went ashore with a Party of men in the Pinnace and yawl
 > accompanied by Mr. Banks and Dr. Solander. We landed abreast of the Ship and
@@ -251,6 +252,17 @@ The picture referred to by Joseph Banks is on the left page:
 > natural day..."
 >
 > (...)
+> There were thus in use in the Navy until 1805 three days:
+> the nautical, the civil or natural, and the astronomical.
+> The nautical day entered in the log as May 10 began at noon of May 9
+> of the civil reckoning, and P.M. thus came before A.M.
+> On the other hand, the astronomical day of May 10 began at noon of May 10
+> by civil reckoning, and ran from 0h to 24h ending at noon on May 11.
+> This was the time used in the Nautical Almanac, first published in 1767,
+> and this was the time kept by Mr. Charles Green, the astronomer on Cook's
+> first voyage. Though it must have been in continual use in the navigation of
+> the ship, it does not appear in the logs. But it must be borne in mind as a
+> possible source of confusion.
 >
 > The log was kept in ship's time, that is, the local apparent time, adjusted
 > at intervals to the change of longitude: and by old practice an adjustment
