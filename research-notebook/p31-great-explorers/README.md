@@ -79,6 +79,10 @@ Source: [David Rumsey Map Collection](https://www.davidrumsey.com/luna/servlet/d
 * [Les grands navigateurs du XVIIIe siècle, by Jules Verne](https://www.gutenberg.org/files/55869/55869-h/55869-h.htm)
 * [Les voyageurs du XIXe siècle](https://www.gutenberg.org/files/53439/53439-h/53439-h.htm)
 
+##### Princeton University Library
+
+* [Strait Through: Magellan to Cook & the Pacific](https://lib-dbserver.princeton.edu/visual_materials/maps/websites/pacific/contents.html)
+
 ##### Project Gutenberg Australia
 
 * [Journals of Australian Land and Sea Explorers and Discoverers](http://gutenberg.net.au/explorers-journals.html)
