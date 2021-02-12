@@ -32,6 +32,10 @@ Source: [Journal of Sydney Parkinson, SPL Hand Coloured Rare Book Collection](ht
 * [Nuove scoperte fatte nel 1765, 67, e 69 nel Mare del Sud](http://digital.sl.nsw.gov.au/delivery/DeliveryManagerServlet?embedded=true&toolbar=false&dps_pid=IE6156067&_ga=2.81057879.1916713702.1612997698-974014674.1612997698)
 [[Catalog Record]](https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA21101424660002626&vid=SLNSW&search_scope=E&tab=default_tab&lang=en_US&context=L)
 
+##### Princeton University Library
+
+* [James Cook, Act I: The First Voyage](https://lib-dbserver.princeton.edu/visual_materials/maps/websites/pacific/cook1/cook1.html)
+
 ##### Wikimedia
 
 * [Cook new zealand](https://commons.wikimedia.org/wiki/File:Cook_new_zealand.jpg)
@@ -45,6 +49,11 @@ Source: [Journal of Sydney Parkinson, SPL Hand Coloured Rare Book Collection](ht
 ##### New South Wales State Library
 
 * [Captain Cook’s voyages of discovery > Cook's maps](https://www.sl.nsw.gov.au/stories/captain-cooks-voyages-discovery/cooks-maps)
+
+##### Princeton University Library
+
+* [Strait Through: Magellan to Cook & the Pacific](https://lib-dbserver.princeton.edu/visual_materials/maps/websites/pacific/contents.html)
+* [James Cook, Act I: The First Voyage](https://lib-dbserver.princeton.edu/visual_materials/maps/websites/pacific/cook1/cook1.html)
 
 ##### SPL Hand Coloured Rare Book Collection
 
