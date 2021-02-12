@@ -197,20 +197,46 @@ The picture referred to by Joseph Banks is on the left page:
 * [View of MURDERERS BAY on NEW ZEALAND in 15 fathom Water](https://nla.gov.au/nla.obj-18696055/view?partId=nla.obj-18718192#page/n110/mode/1up)
 
 
-> *On the 9th, early in the morning,* (...)
-> We also discovered many of the natives (who seemed to be of a very dark hue)
-> and several of their canoes hauled upon the beach. The natives, on
-> approaching nearer to them, took but little notice of us. Having cast
-> anchor, the pinnace, long-boat, and yaul, were sent on shore with the
-> marines. As soon as the people who were in the pinnace had passed a little
-> way up into the country, while the long-boat went up the river to see for
-> water, some of the natives, who had hid them-selves amongst the bushes,
-> made their appearance, having long wooden lances in their hands, which
-> they held up in a threatening posture, as if they intended to throw them
-> at the boys in the yaul. The cockswain, who stayed in the pinnace,
-> perceiving, them, fired a musquetoon over their heads, but that did not seem
-> to intimidate them: he therefore fired a musket, and shot one of them through
-> the heart; upon which they were much alarmed, and retreated precipitately.
+> *On the 9th, early in the morning,* the wind being favourable, we stood
+> in nearer land, where it seemed to open and form a deep bay; [see pl. XIV.]
+> but, on approach-ing it, we discovered low land, and it was much shallower
+> than we expected. Upon entering we had regular soundings all the way,
+> from twenty-six to six fathoms, and cast anchor on the east side in ten
+> fathoms water, about two or three miles from the shore, over-against the
+> land on the right, where there was the appearance of a river.
+> At the entrance of the bay, which is a very large one, being about three
+> leagues in breadth, and two in depth, are several chalky cliffs, from which
+> runs a low ridge of land that ends in a hillock: at a little distance from
+> the hillock, there is a small high island, and, on the top of it, an
+> inclosure of pales. Abundance of white cliffs are seen all along the coast;
+> and the hills appear to be covered with small wood and bushes, affording but
+> an indifferent landscape.
+> We discovered several houses by our glasses. They seemed to be thatched,
+> and the eaves of them reached to the ground. Within the bay there are many
+> hills one behind another; though most part of the bay is surrounded by a
+> valley in which is a number of trees; from whence, as well as other parts of
+> the country, we saw some smoke arise. We also discovered many of the natives
+> (who seemed to be of a very dark hue) and several of their canoes hauled
+> upon the beach. The natives, on approaching nearer to them, took but little
+> notice of us. Having cast anchor, the pinnace, long-boat, and yaul, were
+> sent on shore with the marines. As soon as the people who were in the
+> pinnace had passed a little way up into the country, while the long-boat
+> went up the river to see for water, some of the natives, who had hid
+> them-selves amongst the bushes, made their appearance, having long wooden
+> lances in their hands, which they held up in a threatening posture, as if
+> they intended to throw them at the boys in the yaul. The cockswain, who
+> stayed in the pinnace, perceiving, them, fired a musquetoon over their heads,
+> but that did not seem to intimidate them: he therefore fired a musket, and
+> shot one of them through the heart; upon which they were much alarmed, and
+> retreated precipitately.
+> The water in the river was found to be brackish, in which we were
+> disappointed; but they shot some wild ducks of a very large size, and
+> our botanical gentlemen gathered a variety of curious plants in flower.
+>
+> In the ensuing night, while we were all on board, the natives assembled
+> on the shore, which was about three miles distance, talked loud, and were
+> very clamorous. We ordered a strict watch to be kept all the night, lest
+> they should come off in their canoes and surprise us.
 >
 > — Sydney Parkinson's Journal of a Voyage to the South Seas
 > http://nla.gov.au/nla.cs-ss-jrnl-parkinson-120
