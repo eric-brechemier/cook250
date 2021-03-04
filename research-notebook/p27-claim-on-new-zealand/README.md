@@ -1,6 +1,6 @@
 [Cook 250 Research Notebook](../) > Claim on New Zealand  
 *[Previous](../p26-te-rakau/)* | Page 27 | *[Next](../p28-maori-place-names/)*
-### James Cook made a claim on New Zealand on 31 January 1770
+### James Cook made three formal claims on New Zealand territory
 
 ![Claim on New Zealand, James Cook Journal, 31 January 1770](pictures/15x10cm-james-cook-claim-on-new-zealand.jpg)
 
