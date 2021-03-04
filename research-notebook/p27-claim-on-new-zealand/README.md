@@ -117,7 +117,13 @@ on 10 October 1769, soon after their arrival, in different circumstances:
 
 ##### Wikipedia
 
-* [After two earlier attempts to plant the British flag, with permission of one rangatira Cook hoisted the flag in the name of Crown and Country (...)](https://en.wikipedia.org/wiki/First_voyage_of_James_Cook#Aotearoa_New_Zealand)
+> (...) On 31 January, Cook claimed possession of Queen Charlotte Sound
+> “and the adjacent lands” in the name of King George III. This was the
+> last time Cook would claim possession of any part of New Zealand [on]
+> behalf of Great Britain. (...)
+>
+> — https://en.wikipedia.org/wiki/First_voyage_of_James_Cook#Circumnavigation_of_North_Island
+
 * [Queen Charlotte Sound (New Zealand)](https://en.wikipedia.org/wiki/Queen_Charlotte_Sound_(New_Zealand))
 
 [Cook 250 Research Notebook](../) > Claim on New Zealand  
