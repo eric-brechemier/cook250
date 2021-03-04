@@ -1,4 +1,4 @@
-[Cook 250 Research Notebook](../) > Claim on New Zealand  
+[Cook 250 Research Notebook](../) > Claims on New Zealand  
 *[Previous](../p26-te-rakau/)* | Page 27 | *[Next](../p28-maori-place-names/)*
 ### James Cook made three formal claims on New Zealand territory
 
@@ -153,5 +153,5 @@ of New Zealand:
 
 * [Queen Charlotte Sound (New Zealand)](https://en.wikipedia.org/wiki/Queen_Charlotte_Sound_(New_Zealand))
 
-[Cook 250 Research Notebook](../) > Claim on New Zealand  
+[Cook 250 Research Notebook](../) > Claims on New Zealand  
 *[Previous](../p26-te-rakau/)* | Page 27 | *[Next](../p28-maori-place-names/)*
