@@ -7,6 +7,35 @@
 
 Source: [Journal of Sidney Parkinson, Plate XIV, SPL Hand Coloured Rare Book Collection](https://www.splrarebooks.com/collection/view/a-journal-of-a-voyage-to-the-south-seas-in-his-majestys-ship-the-endeavour-)
 
+> **[September 1769]**
+> **On the 29th,** we had a smart breeze from the south, with clear,
+> though sharp weather; thermometer 54; — saw several parcels of sea-weed,
+> and a land-bird that flew like a plover; with a great number of Pintados,
+> Shear-waters, and large white Albatrosses, with the tips of their wings
+> black. We sounded, but found no bottom, with 120 fathoms of line. The
+> captain apprehended that we were near land, and promised one gallon of
+> rum to the man who should first discover it by day, and two if he
+> discovered it by night; also, that part of the coast of the said land
+> should be named after him.
+>
+> (...)
+>
+> **[October 1769]**
+> **On the 5th,** we had light breezes from the N. E. and pleasant weather:
+> about two o’clock in the afternoon one of our people, Nicholas Young, the
+> surgeon’s boy, descried a point of land, of New Zealand, from the starboard
+> bow, at about nine leagues distance, bearing W. and by N. we bore up to it,
+> and, at sun-set, we had a good view of it. The land was high, and it appeared
+> like an island. We regaled ourselves in the evening upon the occasion; the
+> land was called Young Nick’s Head, and the boy received his reward. (...)
+>
+> — Sydney Parkinson's Journal of a Voyage to the South Seas,
+> in His Majesty's Ship, The Endeavour  
+> Derived from the London 1773 edition
+> printed for Stanfield Parkinson, pages 85 - 86, 2004  
+> Published by South Seas, using the Web Academic Resource Publisher  
+> http://nla.gov.au/nla.cs-ss-jrnl-parkinson-119
+
 #### More Images
 
 ##### Michel Tuffery
