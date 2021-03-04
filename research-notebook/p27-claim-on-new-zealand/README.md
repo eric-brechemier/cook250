@@ -53,7 +53,7 @@ Source: [National Library of Australia](https://nla.gov.au/nla.obj-229024441/vie
 > Bottle of wine, and gave the Empty bottle to the old man (who had attended
 > us up the hill), with which he was highly pleased. (...)
 >
-> — Cook's Journal: 31 January 1770
+> — Cook's Journal: 31 January 1770  
 > http://gutenberg.net.au/ebooks/e00043.html
 
 According to the Journal of Sydney Parkinson, a first claim had been made
@@ -84,7 +84,7 @@ on 10 October 1769, soon after their arrival, in different circumstances:
 > in search of water again, and to apprehend, if possible, some of the natives,
 > to gain farther information of them respecting the island. (...)
 >
-> — Sydney Parkinson's Journal: 10 October 1769
+> — Sydney Parkinson's Journal: 10 October 1769  
 > http://southseas.nla.gov.au/journals/parkinson/122.html
 
 
