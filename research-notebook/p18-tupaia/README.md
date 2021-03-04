@@ -16,6 +16,42 @@
 Source: [British Library](https://www.bl.uk/collection-items/the-society-islands)  
 Downloaded from: [British Library Media](https://www.bl.uk/britishlibrary/~/media/bl/global/picturing%20places/add%20ms%2021593%20c%20copy%20chart%20of%20the%20society%20islands%20by%20cook%20after%20tupaia.jpg)
 
+> **15 August 1769** (...)
+>
+> Tupia says that their are several Islands laying at different directions
+> from this, that is from the south to the west and N.W and that 3 days sail
+> to the NE is an Island called Mannua that is Bird Island and that it lies
+> four days sail from Ulietea which is one day less then from Ulietea to
+> Ohetiroa from this account I shall be able to find the situation of Mannua
+> pretty well. Sence we have left Ulietea Tobia Tupia hath been very disireous
+> for us to steer to the westward and tells us if we will but go that way we
+> shall meet with plenty of Islands the most of them he himself hath been at
+> and from the description he gives of two of them they must be those
+> discover'd by Captain Wallice and by him call'd Boscawen and Kepple Islands,
+> and these do not lay less than 400 Leagues to the westward of Ulietea;
+> he says that they are 10 or 12 days in going thither and 30 or more in
+> coming back and that their Paheas, that is their large Proes sails much
+> faster than this Ship; All this I beleive to be true and therefore they may
+> with ease sail 40 Leagues a day or more —
+>
+> The farthest Island to the southward that Tupia hath been at or knows
+> anything of lies but two days sail from Ohetiroa and is called Moutou but
+> he says that his Father once told him that their were Islands to the
+> southward of it, but we can not find that he either knows or ever heard of
+> a Continent or large track of land. I have no reason to doubt Tupia['s]
+> information of these Islands, for when we left Ulietea and steer'd to the
+> southward, he told us that if we would keep a little more to the East
+> / which the wind would not permit us to do / we should see Mannua, but as
+> we then steer'd we should see Ohetiroa which happend accordingly. If we
+> meet with the Islands to the southward he speaks off it well if not I shall
+> spend no more time searching for them. being now fully resolved to Stand
+> directly to the Southward in search of the Continent.
+>
+> — James Cook's Journal of Remarkable Occurrences aboard His Majesty's Bark Endeavour, 1768-1771  
+> Transcription of National Library of Australia, Manuscript 1 page 106, 2004  
+> Published by South Seas, using the Web Academic Resource Publisher  
+> http://nla.gov.au/nla.cs-ss-jrnl-cook-17690815
+
 #### More Images
 
 ##### Stuff
