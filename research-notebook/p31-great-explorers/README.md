@@ -33,6 +33,10 @@ Source: [David Rumsey Map Collection](https://www.davidrumsey.com/luna/servlet/d
 
 * [Chart of the world on Mercators projection : exhibiting all the new discoveries to the present time, with the tracks of the most distinguished navigators since the year 1700 carefully collected from the best charts, maps, voyages, &c. extant and regulated from the accurate astronomical observations made in three voyages performed under the command of Captn. James Cook in the years 1768, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79 & 80](https://iiif.lib.harvard.edu/manifests/view/ids:10977369)
 
+##### Le Cherche Midi on Lisez.com
+
+* ["Les Défricheurs du monde" : voyage aux confins des cartes](https://www.lisez.com/actualites/les-defricheurs-du-monde-voyage-aux-confins-des-cartes/1938)
+
 ##### SPL Hand Coloured Rare Book Collection
 
 |||
@@ -60,6 +64,10 @@ Source: [David Rumsey Map Collection](https://www.davidrumsey.com/luna/servlet/d
 * [The Great Explorers: And Their Journeys of Discovery, by Beau Riffenburgh](https://geographical.co.uk/reviews/books/item/2691-the-great-explorers-and-their-journeys-of-discovery)
 * [The Exploration Treasury, by Beau Riffenburgh](https://geographical.co.uk/reviews/books/item/2226-the-exploration-treasury-by-beau-riffenburgh)
 * [James Cook: The Voyages](https://geographical.co.uk/reviews/exhibitions/item/2726-james-cook-the-voyages)
+
+##### Le Cherche Midi on Lisez.com
+
+* [Les défricheurs du monde, ces géographes qui ont dessiné la Terre, de Laurent Maréchaux](https://www.lisez.com/livre-grand-format/les-defricheurs-du-monde/9782749163956)
 
 ##### New Word City
 
