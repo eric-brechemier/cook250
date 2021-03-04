@@ -92,6 +92,10 @@ on 10 October 1769, soon after their arrival, in different circumstances:
 
 ##### Captain Cook Society
 
+> **15/Nov/1769**
+> The British flag was flown at Mercury Bay
+> as First Lieutenant James Cook took formal possession of New Zealand
+
 * [New Zealand list](https://www.captaincooksociety.com/home/detail/new-zealand-list)
 
 ##### Inside Story
