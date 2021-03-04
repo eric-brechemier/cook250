@@ -36,6 +36,23 @@ Source: [Journal of Sidney Parkinson, Plate XIV, SPL Hand Coloured Rare Book Col
 > Published by South Seas, using the Web Academic Resource Publisher  
 > http://nla.gov.au/nla.cs-ss-jrnl-parkinson-119
 
+
+> **3 October 1769** (...)
+> Now do I wish that our freinds in England could by the assistance of some
+> magical spying glass take a peep at our situation: Dr Solander setts at the
+> Cabbin table describing, myself at my Bureau Journalizing, between us hangs
+> a large bunch of sea weed, upon the table lays the wood and barnacles; they
+> would see that notwisthstanding our different occupations our lips move very
+> often, and without being conjurors might guess that we were talking about
+> what we should see upon the land which there is now no doubt we shall see
+> very soon.
+>
+> — The Endeavour Journal of Joseph Banks, 1768-1771  
+> Derived from State Library of NSW 1998 Transcription of
+> Banks's Endeavour Journal page (vol.2) 15, 2004  
+> Published by South Seas, using the Web Academic Resource Publisher  
+> http://nla.gov.au/nla.cs-ss-jrnl-banks-17691003
+
 #### More Images
 
 ##### Michel Tuffery
