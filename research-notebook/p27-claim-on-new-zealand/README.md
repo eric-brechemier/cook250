@@ -56,8 +56,31 @@ Source: [National Library of Australia](https://nla.gov.au/nla.obj-229024441/vie
 > — Cook's Journal: 31 January 1770  
 > http://gutenberg.net.au/ebooks/e00043.html
 
-According to the Journal of Sydney Parkinson, a first claim had been made
-on 10 October 1769, soon after their arrival, in different circumstances:
+This was the third formal claim of James Cook on New Zealand territory.
+
+A second claim had been made on 15 November 1769:
+
+> **Wednesday, 15th In the evening** (...) **At 7 AM** (...)
+> 
+> Mercury Bay lies in the Latitude of 36°..47' So and in the Longitude of
+> 184°.. 4' Wt from the Meridion of Greenwich. (...)
+>
+> We found thrown upon the Shore in several places in this Bay quantities of
+> Iron Sand which is brought down out of the Country by almost every little
+> frish water brook. this proves that there must be of that ore not far inland
+> — Neither the Inhabitants of this place or any other where we have been know
+> the use of Iron, or set the least Value upon it, prefering the most trifleing
+> thing we could give them to a nail or any sort of Iron tools. Before we left
+> this Bay we cut out upon one of the trees near the watering place, the Ships
+> Name, date &Ca and after displaying the English Colours I took formal
+> posession of the place in the name of His Majesty — 
+>
+> — Cook's Journal: 15 November 1769  
+> http://nla.gov.au/nla.cs-ss-jrnl-cook-17691115
+
+And according to the Journal of Sydney Parkinson, the first claim had been made
+in different circumstanceson, on the second day after setting foot on the coast
+of New Zealand:
 
 > **Early on the morning of the 10th,** the long-boat, pinnace, and yaul,
 > went on shore again; landed near the river where they had been the night
