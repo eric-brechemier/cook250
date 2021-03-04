@@ -26,6 +26,8 @@ Source: [Journal of Sydney Parkinson, SPL Hand Coloured Rare Book Collection](ht
 
 ##### New South Wales State Library
 
+* [Chart of New Zealand](http://digital.sl.nsw.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL1162916&embedded=true&toolbar=false)
+
 * [The great Pacific Ocean](http://digital.sl.nsw.gov.au/delivery/DeliveryManagerServlet?embedded=true&toolbar=false&dps_pid=IE3726033)
 [[Catalog Record]](https://search.sl.nsw.gov.au/primo-explore/fulldisplay?docid=SLNSW_ALMA2192401380002626&vid=SLNSW&tab=default_tab&lang=en_US&context=L)
 
@@ -49,6 +51,7 @@ Source: [Journal of Sydney Parkinson, SPL Hand Coloured Rare Book Collection](ht
 ##### New South Wales State Library
 
 * [Captain Cook’s voyages of discovery > Cook's maps](https://www.sl.nsw.gov.au/stories/captain-cooks-voyages-discovery/cooks-maps)
+* [James Cook - A Journal of the proceedings of His Majesty's Bark Endeavour on a voyage round the world, by Lieutenant James Cook, Commander, commencing the 25th of May 1768 - 23 Oct. 1770](http://archival.sl.nsw.gov.au/Details/archive/110330179)
 
 ##### Princeton University Library
 
