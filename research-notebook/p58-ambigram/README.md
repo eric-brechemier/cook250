@@ -16,8 +16,10 @@ Source: [Amazon](https://www.amazon.com/Princess-Bride-20th-Anniversary/dp/B0142
 
 #### More Images
 
-* [Doormat](https://www.suck.uk.com/products/doormat/)
+* [Doormat Come In / Go Away](https://www.suck.uk.com/products/doormat/)
 * [Ambigram Logos](https://www.logodesignlove.com/ambigram-logos)
+
+![EB Elaine Bass logo created by Saul Bass](pictures/elaine-bass-logo-by-saul-bass.jpg)
 
 #### References
 
