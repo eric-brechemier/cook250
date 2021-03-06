@@ -24,6 +24,34 @@ highly pleased. Whilst the post was setting up
 
 Source: [National Library of Australia](https://nla.gov.au/nla.obj-229024441/view)
 
+> **Monday 29th** (...)
+> This morning I went out to the mouth of the Inlet and landed upon the West
+> point and from the top of a pretty high hill which is there I had a view of
+> the Coast to the NW, the farthest land I could see in that quarter was an
+> Island about 10 Leagues off and lying pretty near the main and is the same
+> as hath been before mentiond between this Island and the place where I was
+> lay some other Islands close under the Shore which forms several Bays,
+> wherein there appears to be safe anchorage for Shipping —
+>
+> After I had set the different points &Ca we errected upon the Top of the
+> Hill a tower or pile of stones in which we left a peice of Silver Coin,
+> some Musquet Balls, Beeds &Ca and left flying upon it a peice of an old
+> pendant: after this we return'd to the boat and in our way to the Ship
+> visited some of the natives we had met with a long shore and purchas'd
+> of them a small quantity of fish —
+>
+> — James Cook's Journal: 29 January 1770  
+> http://southseas.nla.gov.au/journals/cook/17700129.html
+
+> **Tuesday 30th** Winds at N.W. gentle breezes and fair weather.
+> **Early in the AM** [Civil Date: 29 January 1770] a boat was sent
+> to one of the Islands (...)
+> The Carpenter went into the woods with part of his crew to cut and square
+> some timber to saw into boards for the use of the Ship and to prepare two
+> posts to be set up as marks — with Inscriptions upon them —
+>
+> — James Cook's Journal: 30 January 1770  
+> http://southseas.nla.gov.au/journals/cook/17700130.html
 
 > **Wednesday, 31st. Little wind and Variable.**
 >
@@ -53,7 +81,7 @@ Source: [National Library of Australia](https://nla.gov.au/nla.obj-229024441/vie
 > Bottle of wine, and gave the Empty bottle to the old man (who had attended
 > us up the hill), with which he was highly pleased. (...)
 >
-> — Cook's Journal: 31 January 1770  
+> — James Cook's Journal: 31 January 1770  
 > http://gutenberg.net.au/ebooks/e00043.html
 
 This was the third formal claim of James Cook on New Zealand territory.
@@ -139,6 +167,7 @@ of New Zealand:
 
 * [Sydney Parkinson's Journal: 10 October 1769](http://southseas.nla.gov.au/journals/parkinson/122.html)
 * [Cook's Journal: 15 November 1769](https://webarchive.nla.gov.au/awa/20120322134632/http://southseas.nla.gov.au/journals/cook/17691115.html)
+* [Cook's Journal: 29 January 1770](http://nla.gov.au/nla.cs-ss-jrnl-cook-17700129)
 * [Cook's Journal: 31 January 1770](http://southseas.nla.gov.au/journals/cook/17700131.html)
 
 ##### The Spinoff
