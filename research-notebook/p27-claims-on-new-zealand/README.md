@@ -133,8 +133,9 @@ of New Zealand:
 
 ##### South Seas
 
+* [Sydney Parkinson's Journal: 10 October 1769](http://southseas.nla.gov.au/journals/parkinson/122.html)
+* [Cook's Journal: 15 November 1769](https://webarchive.nla.gov.au/awa/20120322134632/http://southseas.nla.gov.au/journals/cook/17691115.html)
 * [Cook's Journal: 31 January 1770](http://southseas.nla.gov.au/journals/cook/17700131.html)
-* [Sydney Parkinson's Journal of a Voyage to the South Seas](http://southseas.nla.gov.au/journals/parkinson/122.html)
 
 ##### The Spinoff
 
