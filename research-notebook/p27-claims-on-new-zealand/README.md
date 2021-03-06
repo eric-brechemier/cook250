@@ -131,6 +131,10 @@ of New Zealand:
 
 * [Journal of H.M.S. Endeavour, 1768-1771 [manuscript]](https://catalogue.nla.gov.au/Record/3525402)
 
+##### Project Gutenberg
+
+* [Captain Cook's Journal During His First Voyage Round the World](http://www.gutenberg.org/ebooks/8106)
+
 ##### South Seas
 
 * [Sydney Parkinson's Journal: 10 October 1769](http://southseas.nla.gov.au/journals/parkinson/122.html)
