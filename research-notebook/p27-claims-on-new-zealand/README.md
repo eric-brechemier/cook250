@@ -142,6 +142,10 @@ of New Zealand:
 
 * [The right to conquer and claim: Captain Cook and the Doctrine Of Discovery](https://thespinoff.co.nz/atea/03-10-2019/the-right-to-conquer-and-claim-captain-cook-and-the-doctrine-of-discovery/)
 
+##### Tina Ngata
+
+* [James Cook and the Doctrine of Discovery – 5 Things to Know](https://tinangata.com/2019/06/01/james-cook-and-the-doctrine-of-discovery-5-things-to-know/)
+
 ##### Wikipedia
 
 > (...) On 31 January, Cook claimed possession of Queen Charlotte Sound
