@@ -156,6 +156,8 @@ of New Zealand:
 > — https://en.wikipedia.org/wiki/First_voyage_of_James_Cook#Circumnavigation_of_North_Island
 
 * [Queen Charlotte Sound (New Zealand)](https://en.wikipedia.org/wiki/Queen_Charlotte_Sound_(New_Zealand))
+* [Discovery doctrine](https://en.wikipedia.org/wiki/Discovery_doctrine)
+* [Terra nullius](https://en.wikipedia.org/wiki/Terra_nullius)
 
 [Cook 250 Research Notebook](../) > Claims on New Zealand  
 *[Previous](../p26-te-rakau/)* | Page 27 | *[Next](../p28-maori-place-names/)*
