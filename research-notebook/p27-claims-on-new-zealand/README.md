@@ -24,6 +24,20 @@ highly pleased. Whilst the post was setting up
 
 Source: [National Library of Australia](https://nla.gov.au/nla.obj-229024441/view)
 
+> **Friday 26th** (...)
+> **In the AM** I made an excursion into one of the Bays which lie on the East
+> side of the Inlet accompanied by Mr Banks and Dr Solander upon our landing
+> we ascended a very high hill from which we had a full View of the passage
+> I had before descover'd and the land on the opposite shore which appear'd
+> to be about 4 Leagues from us, but as it was hazey near the horizon we could
+> not see far to the SE. (...)
+> We found on the top of the hill a parcel of loose Stones of which
+> we built a Pyrmid and left in it some Musquet balls, small Shott Beeds
+> and what ever we had about us that was likely to stand the test of time (...)
+>
+> — James Cook's Journal: 26 January 1770  
+> http://southseas.nla.gov.au/journals/cook/17700126.html
+
 > **Monday 29th** (...)
 > This morning I went out to the mouth of the Inlet and landed upon the West
 > point and from the top of a pretty high hill which is there I had a view of
@@ -166,7 +180,8 @@ of New Zealand:
 ##### South Seas
 
 * [Sydney Parkinson's Journal: 10 October 1769](http://southseas.nla.gov.au/journals/parkinson/122.html)
-* [Cook's Journal: 15 November 1769](https://webarchive.nla.gov.au/awa/20120322134632/http://southseas.nla.gov.au/journals/cook/17691115.html)
+* [Cook's Journal: 15 November 1769](http://southseas.nla.gov.au/journals/cook/17691115.html)
+* [Cook's Journal: 26 January 1770](http://southseas.nla.gov.au/journals/cook/17700126.html)
 * [Cook's Journal: 29 January 1770](http://nla.gov.au/nla.cs-ss-jrnl-cook-17700129)
 * [Cook's Journal: 31 January 1770](http://southseas.nla.gov.au/journals/cook/17700131.html)
 
