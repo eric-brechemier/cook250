@@ -24,6 +24,17 @@ highly pleased. Whilst the post was setting up
 
 Source: [National Library of Australia](https://nla.gov.au/nla.obj-229024441/view)
 
+> **26.** Went today to take an other view of our new streights the Westermost
+> end of which the Captn was not quite sure of; we found however a hill in a
+> tolerably convenient situation upon which we got and saw the Streight quite
+> open and 4 or 5 leagues wide. We then erected a small monument of stone such
+> a[s] 5 stout men could do in half an hour and laid in it musquet balls beads
+> shot &c. that if perchance any Europeans should find and pull it down they
+> will be sure it is not Indian workmanship.
+>
+> — Joseph Banks's Journal: 26 January 1770
+> http://southseas.nla.gov.au/journals/banks/17700126.html
+
 > **Friday 26th** (...)
 > **In the AM** I made an excursion into one of the Bays which lie on the East
 > side of the Inlet accompanied by Mr Banks and Dr Solander upon our landing
@@ -181,6 +192,7 @@ of New Zealand:
 
 * [Sydney Parkinson's Journal: 10 October 1769](http://southseas.nla.gov.au/journals/parkinson/122.html)
 * [Cook's Journal: 15 November 1769](http://southseas.nla.gov.au/journals/cook/17691115.html)
+* [Banks's Journal: 26 January 1770](http://southseas.nla.gov.au/journals/banks/17700126.html)
 * [Cook's Journal: 26 January 1770](http://southseas.nla.gov.au/journals/cook/17700126.html)
 * [Cook's Journal: 29 January 1770](http://nla.gov.au/nla.cs-ss-jrnl-cook-17700129)
 * [Cook's Journal: 31 January 1770](http://southseas.nla.gov.au/journals/cook/17700131.html)
