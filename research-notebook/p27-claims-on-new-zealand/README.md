@@ -1,28 +1,13 @@
 [Cook 250 Research Notebook](../) > Claims on New Zealand  
 *[Previous](../p26-te-rakau/)* | Page 27 | *[Next](../p28-maori-place-names/)*
-### James Cook made three formal claims on New Zealand territory
+### James Cook took formal possession of Queen Charlotte Sound on 31 January 1770
 
-![Claim on New Zealand, James Cook Journal, 31 January 1770](pictures/15x10cm-james-cook-claim-on-new-zealand.jpg)
+![View of an Arched Rock, on the Coast of New Zealand, with an Hippa, or Place of Retreat, on the Top of it](pictures/148x100-WxHmm-claims-on-new-zealand.jpg)
 
-```
-After I had thus prepared the way for setting
-up the post we took it up to the highest
-part of the Island, and after fixing it fast
-in the ground hoisted thereon the Union flag
-and I dignified this Inlet with the name of
-Queen _Charlotte's_Sound_ and took formal possession
-of it and the Adjacent lands in the Name and
-for the use of his Majesty. We then drank Her
-Majesty's health in a Bottle of wine and gave
-the empty bottle to the old man who had
-attended us up the hill whichto he was
-highly pleased. Whilst the post was setting up
-(...)
-```
-
-*Journal of H.M.S. Endeavour by James Cook, manuscript, 1768-1771.*
-
-Source: [National Library of Australia](https://nla.gov.au/nla.obj-229024441/view)
+This was the third formal claim of James Cook on New Zealand territory.
+It was accompanied by the erection of small stone monuments concealing
+durable tokens to prove the anteriority of the British presence to
+any other Europeans coming in the future.
 
 > **26.** Went today to take an other view of our new streights the Westermost
 > end of which the Captn was not quite sure of; we found however a hill in a
@@ -109,7 +94,6 @@ Source: [National Library of Australia](https://nla.gov.au/nla.obj-229024441/vie
 > — James Cook's Journal: 31 January 1770  
 > http://gutenberg.net.au/ebooks/e00043.html
 
-This was the third formal claim of James Cook on New Zealand territory.
 
 A second claim had been made on 15 November 1769:
 
@@ -163,6 +147,33 @@ of New Zealand:
 > — Sydney Parkinson's Journal: 10 October 1769  
 > http://southseas.nla.gov.au/journals/parkinson/122.html
 
+#### More Pictures
+
+##### National Library of Australia
+
+![Claim on New Zealand, James Cook Journal, 31 January 1770](pictures/15x10cm-james-cook-claim-on-new-zealand.jpg)
+*Formal claim on New Zealand made by James Cook on 31 January 1770 in Queen Charlotte Sound*
+
+```
+After I had thus prepared the way for setting
+up the post we took it up to the highest
+part of the Island, and after fixing it fast
+in the ground hoisted thereon the Union flag
+and I dignified this Inlet with the name of
+Queen _Charlotte's_Sound_ and took formal possession
+of it and the Adjacent lands in the Name and
+for the use of his Majesty. We then drank Her
+Majesty's health in a Bottle of wine and gave
+the empty bottle to the old man who had
+attended us up the hill whichto he was
+highly pleased. Whilst the post was setting up
+(...)
+```
+
+Source: [Journal of H.M.S. Endeavour by James Cook, manuscript, 1768-1771, 31 January 1770](https://nla.gov.au/nla.obj-229024441/view)
+
+> Holograph journal, written entirely in James Cook's hand,
+> of the voyage of H.M.S. Endeavour (...)
 
 #### References
 
