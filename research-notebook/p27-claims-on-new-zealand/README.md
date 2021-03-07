@@ -58,7 +58,7 @@ any other Europeans coming in the future.
 > to one of the Islands (...)
 > The Carpenter went into the woods with part of his crew to cut and square
 > some timber to saw into boards for the use of the Ship and to prepare two
-> posts to be set up as marks — with Inscriptions upon them —
+> posts to be set up — with Inscriptions upon them —
 >
 > — James Cook's Journal: 30 January 1770  
 > http://southseas.nla.gov.au/journals/cook/17700130.html
