@@ -41,7 +41,39 @@ Source: [reddit](https://www.reddit.com/r/newzealand/comments/7rmyoq/ww2_era_coc
 
 ##### Archives New Zealand
 
+![Two soldiers and Maori with coke drinks](pictures/FL12040413.jpg)
+
 * [Two soldiers and Maori with coke drinks ['Have a coke - Kia Ora']](https://archives.govt.nz/images/two-soldiers-and-maori-with-coke-drinks-have-a-coke-kia-ora)
+by Dean Cornwell, c.1943 - 1945
+
+###### Archives New Zealand on Flickr
+
+![New Zealand's first McDonald's restaurant, Porirua, 1976](pictures/new-zealand-firt-mcdonalds.jpg)
+
+> On 15 May 1940 the world’s first McDonald’s restaurant was opened
+> in San Bernadino, California, by brothers Richard and Maurice McDonald.
+> The restaurant originally had 25 menu items and used ‘carhops’ to serve
+> customers in their vehicles. Later in the decade the brothers reorganised
+> their business as a hamburger stand using production line principles. The
+> company was franchised in the 1950s, and went on to quickly spread throughout
+> the United States and the rest of the world. Today the restaurant chain has
+> more than 36,000 outlets in 119 countries and is one of the most recognisable
+> brands on the planet.
+>
+> In June 1976 the first McDonald’s restaurant opened in New Zealand, in
+> Porirua near Wellington. However, there had been some hesitancy when the
+> idea was proposed by two New Zealand businessmen about expanding the
+> franchise to New Zealand, owing to the small local population. The brothers
+> then negotiated a deal with the corporation by selling New Zealand cheese to
+> the US to offset the high costs of importing plant equipment. The Porirua
+> franchise was much more successful than the corporation predicted, and today
+> there are approximately 167 outlets in New Zealand.
+>
+> This photograph of the first Porirua McDonald’s Restaurant was taken by
+> P. Martin in September 1976, and comes from the collection of National
+> Publicity studios.
+
+* [New Zealand's first McDonald's restaurant, Porirua, 1976](https://www.flickr.com/photos/archivesnz/26357140254/)
 
 ##### ebay
 
