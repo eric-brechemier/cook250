@@ -101,6 +101,10 @@ Downloaded from: [British Library Media](https://www.bl.uk/britishlibrary/~/medi
 
 * [Tupaia](https://www.nzgeo.com/stories/tupaia/)
 
+##### Royal Geographical Society, UK
+
+* [The Indigenous map, by Joy Slappnig](https://www.rgs.org/about/our-collections/collaborative-research-on-the-collections/%E2%80%8Bthe-indigenous-map-native-information,-ethnograp/)
+
 ##### Stuff New Zealand
 
 * ['Legendary' map of Pacific by James Cook's Tahitian navigator Tupaia finally unlocked](https://www.stuff.co.nz/national/101871481/legendary-map-of-pacific-by-james-cooks-tahitian-navigator-tupaia-finally-unlocked)
