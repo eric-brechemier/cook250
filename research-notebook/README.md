@@ -54,7 +54,7 @@ reimagined as a photo album.
 * [28: Māori Place Names](p28-maori-place-names/README.md)
 * [29: Cook's Chart of New Zealand](p29-cook-chart/README.md)
 
-* [30: Another History of Great Explorers](p30-another-history-of-great-explorers/README.md)
+* [30: Moehanga](p30-moehanga/README.md)
 * [31: Great Explorers](p31-great-explorers/README.md)
 
 * [32: Parihaka](p32-parihaka/README.md)
