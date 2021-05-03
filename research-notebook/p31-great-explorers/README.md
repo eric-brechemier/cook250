@@ -53,11 +53,30 @@ Source: [David Rumsey Map Collection](https://www.davidrumsey.com/luna/servlet/d
 
 * [Old Maps Online](https://www.oldmapsonline.org/)
 
+##### Wikimedia
+
+![List of countries that have gained independance from the UK](pictures/List_of_countries_gained_independance_from_the_UK_2.svg)
+
+* [List of countries that have gained independance from the UK](https://commons.wikimedia.org/wiki/File:List_of_countries_gained_independance_from_the_UK_2.svg)
+
 ##### Wikipedia
 
 * [Age of Discovery](https://en.wikipedia.org/wiki/Age_of_Discovery)
 
 #### References
+
+##### ABC News
+
+###### April 30th, 2021
+
+* [Researchers demystify the secrets of ancient Aboriginal migration across Australia](https://www.abc.net.au/news/2021-04-30/research-into-ancient-aboriginal-migration-across-australia/100105902)
+
+##### France Culture
+
+* [Le Cours de l'histoire par Xavier Mauduit: Quand explorer rime avec s'approprier](https://www.franceculture.fr/emissions/series/quand-explorer-rime-avec-sapproprier)
+* [Épisode 1 : Pour une autre histoire de l'exploration du monde](https://www.franceculture.fr/emissions/le-cours-de-lhistoire/quand-explorer-rime-avec-sapproprier-14-pour-une-autre-histoire-de-lexploration-du-monde)
+* [Épisode 2 : Histoire d’une rencontre : le miroir des Grandes Découvertes](https://www.franceculture.fr/emissions/le-cours-de-lhistoire/quand-explorer-rime-avec-sapproprier-24-histoire-dune-rencontre-le-miroir-des-grandes-decouvertes)
+* [Épisode 3 : Diabolique Amérique : de Christophe Colomb à Vladimir Maïakovski](https://www.franceculture.fr/emissions/le-cours-de-lhistoire/quand-explorer-rime-avec-sapproprier-34-diabolique-amerique-de-christophe-colomb-a-vladimir)
 
 ##### Geographical Magazine, UK
 
@@ -73,6 +92,10 @@ Source: [David Rumsey Map Collection](https://www.davidrumsey.com/luna/servlet/d
 
 * [The Great Explorers](http://www.newwordcity.com/books/biographies/the-great-explorers/)
 
+##### Princeton University Library
+
+* [Strait Through: Magellan to Cook & the Pacific](https://lib-dbserver.princeton.edu/visual_materials/maps/websites/pacific/contents.html)
+
 ##### Project Gutenberg
 
 ###### Celebrated Travels and Travellers, by Jules Verne
@@ -87,20 +110,13 @@ Source: [David Rumsey Map Collection](https://www.davidrumsey.com/luna/servlet/d
 * [Les grands navigateurs du XVIIIe siècle, by Jules Verne](https://www.gutenberg.org/files/55869/55869-h/55869-h.htm)
 * [Les voyageurs du XIXe siècle](https://www.gutenberg.org/files/53439/53439-h/53439-h.htm)
 
-##### Princeton University Library
-
-* [Strait Through: Magellan to Cook & the Pacific](https://lib-dbserver.princeton.edu/visual_materials/maps/websites/pacific/contents.html)
-
 ##### Project Gutenberg Australia
 
 * [Journals of Australian Land and Sea Explorers and Discoverers](http://gutenberg.net.au/explorers-journals.html)
 
-##### France Culture
+##### RealLifeLore on YouTube
 
-* [Le Cours de l'histoire par Xavier Mauduit: Quand explorer rime avec s'approprier](https://www.franceculture.fr/emissions/series/quand-explorer-rime-avec-sapproprier)
-* [Épisode 1 : Pour une autre histoire de l'exploration du monde](https://www.franceculture.fr/emissions/le-cours-de-lhistoire/quand-explorer-rime-avec-sapproprier-14-pour-une-autre-histoire-de-lexploration-du-monde)
-* [Épisode 2 : Histoire d’une rencontre : le miroir des Grandes Découvertes](https://www.franceculture.fr/emissions/le-cours-de-lhistoire/quand-explorer-rime-avec-sapproprier-24-histoire-dune-rencontre-le-miroir-des-grandes-decouvertes)
-* [Épisode 3 : Diabolique Amérique : de Christophe Colomb à Vladimir Maïakovski](https://www.franceculture.fr/emissions/le-cours-de-lhistoire/quand-explorer-rime-avec-sapproprier-34-diabolique-amerique-de-christophe-colomb-a-vladimir)
+* [Where Was the Last Place Discovered on Earth?](https://www.youtube.com/watch?v=HfLVYr38D0Q)
 
 ##### Seuil
 
@@ -137,6 +153,7 @@ the Great Explorers and contributed to their discoveries.
 * [Age of Discovery](https://en.wikipedia.org/wiki/Age_of_Discovery)
 * [List of explorers](https://en.wikipedia.org/wiki/List_of_explorers)
 * [Exploration](https://en.wikipedia.org/wiki/Exploration)
+* [List of countries that have gained independence from the United Kingdom](https://en.wikipedia.org/wiki/List_of_countries_that_have_gained_independence_from_the_United_Kingdom)
 
 ##### WorldCat
 
