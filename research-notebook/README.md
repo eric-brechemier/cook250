@@ -76,7 +76,7 @@ reimagined as a photo album.
 * [43: Haka](p43-haka/README.md)
 
 * [44: Hue](p44-hue/README.md)
-* [45: Kiwi Fruit](p43-kiwi-fruit/README.md)
+* [45: Kiwi Fruit](p45-kiwi-fruit/README.md)
 
 * [46: Kiwi Bird](p46-kiwi-bird/README.md)
 * [47: Silver Fern](p47-silver-fern/README.md)
