@@ -1,2 +1,5 @@
 # ignore macos metadata and thumbnails
 .DS_Store
+
+# ignore temporary LibreOffice/OpenOffice files
+.~lock.*
