@@ -1,4 +1,4 @@
-[Cook 250 Research Notebook](../) > Claims on New Zealand  
+[Cook 250 Research Notebook](../) > Formal claims on New Zealand  
 *[Previous](../p26-te-rakau/)* | Page 27 | *[Next](../p28-maori-place-names/)*
 ### James Cook took formal possession of Queen Charlotte Sound on 31 January 1770
 

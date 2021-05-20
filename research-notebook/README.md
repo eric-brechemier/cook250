@@ -49,7 +49,7 @@ reimagined as a photo album.
 * [25: Botanists: Joseph Banks, Daniel Solander and Sydney Parkinson](p25-botanists/README.md)
 
 * [26: Te Rakau](p26-te-rakau/README.md)
-* [27: Claims on New Zealand](p27-claims-on-new-zealand/README.md)
+* [27: Formal Claims](p27-formal-claims/README.md)
 
 * [28: Māori Place Names](p28-maori-place-names/README.md)
 * [29: Cook's Chart of New Zealand](p29-cook-chart/README.md)
