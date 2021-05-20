@@ -4,6 +4,11 @@
 
 ![View of an Arched Rock, on the Coast of New Zealand, with an Hippa, or Place of Retreat, on the Top of it](pictures/148x100-WxHmm-claims-on-new-zealand.jpg)
 
+*Drawing by Sydney Parkinson  
+View of an Arched Rock, on the Coast of New Zealand, with an Hippa, or Place of Retreat, on the Top of it*
+
+Source: [Plate XXIV, Journal of Sydney Parkinson, SPL Hand Coloured Rare Book Collection](http://www.splrarebooks.com/collection/view/a-journal-of-a-voyage-to-the-south-seas-in-his-majestys-ship-the-endeavour-)
+
 This was the third formal claim of James Cook on New Zealand territory.
 It was accompanied by the erection of small stone monuments concealing
 durable tokens to prove the anteriority of the British presence to
@@ -227,6 +232,7 @@ Source: [Journal of H.M.S. Endeavour by James Cook, manuscript, 1768-1771, 31 Ja
 >
 > — https://en.wikipedia.org/wiki/First_voyage_of_James_Cook#Circumnavigation_of_North_Island
 
+* [Pā](https://en.wikipedia.org/wiki/P%C4%81)
 * [Queen Charlotte Sound (New Zealand)](https://en.wikipedia.org/wiki/Queen_Charlotte_Sound_(New_Zealand))
 * [Discovery doctrine](https://en.wikipedia.org/wiki/Discovery_doctrine)
 * [Terra nullius](https://en.wikipedia.org/wiki/Terra_nullius)
