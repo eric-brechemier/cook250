@@ -1,5 +1,5 @@
 [Cook 250 Research Notebook](../) > Murder of Te Rakau  
-*[Previous](../p25-botanists/)* | Page 26 | *[Next](../p27-claims-on-new-zealand/)*
+*[Previous](../p25-botanists/)* | Page 26 | *[Next](../p27-formal-claims/)*
 ### Chief Te Rakau was shot dead during meeting with Cook on 9 October 1769
 
 ![A New Zealand Warrior..., Journal of Sydney Parkison](pictures/100x148-WxHmm-te-rakau.jpg)
@@ -347,4 +347,4 @@ Source: [Plate XV, Journal of Sydney Parkinson, SPL Hand Coloured Rare Book Coll
 * [Life in Early Poverty Bay: Te Rakau Slain](http://nzetc.victoria.ac.nz/tm/scholarly/tei-MacLife-t1-body-d1-d4.html)
 
 [Cook 250 Research Notebook](../) > Murder of Te Rakau  
-*[Previous](../p25-botanists/)* | Page 26 | *[Next](../p27-claims-on-new-zealand/)*
+*[Previous](../p25-botanists/)* | Page 26 | *[Next](../p27-formal-claims/)*
