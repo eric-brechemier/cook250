@@ -2,7 +2,7 @@
 *[Previous](../p27-formal-claims/)* | Page 28 | *[Next](../p29-cook-chart/)*
 ### Māori Place Names
 
-![Māori and non-Māori landmarks in New Zealand](pictures/10x15cm-maori-place-names.jpg)
+![Māori and non-Māori landmarks in New Zealand](pictures/100x148-WxHmm-our-place-names.jpg)
 *Māori place names (in red) cover most of the North Island  
 Non-Māori place names (in blue) occupy urban areas and most of South Island*
 
