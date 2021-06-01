@@ -1,4 +1,4 @@
-[Cook 250 Research Notebook](../) > Māori Place Names
+[Cook 250 Research Notebook](../) > Māori Place Names  
 *[Previous](../p27-formal-claims/)* | Page 28 | *[Next](../p29-cook-chart/)*
 ### Māori Place Names
 
@@ -47,3 +47,6 @@ Source: [Te Hiku Media on GitHub](https://github.com/TeHikuMedia/nga-kupu) / [Ou
 
 * [Te Hiku Media (Organization)](https://github.com/TeHikuMedia)
 * [Identify Māori words in text (Project)](https://github.com/TeHikuMedia/nga-kupu)
+
+[Cook 250 Research Notebook](../) > Māori Place Names  
+*[Previous](../p27-formal-claims/)* | Page 28 | *[Next](../p29-cook-chart/)*
