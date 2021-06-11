@@ -405,6 +405,10 @@ The picture referred to by Joseph Banks is on the left page:
 
 * [Puhi Kai Iti Cook Landing Site transforming with tukutuku](https://gdc.govt.nz/puhi-kai-iti-cook-landing-site-transforming-with-tukutuku/)
 
+##### Māori Dictionary
+
+* [whare wānanga](https://maoridictionary.co.nz/word/10170)
+
 ##### Project Gutenberg Australia
 
 * [Captain cook's Journal. First Voyage.](http://gutenberg.net.au/ebooks/e00043.html#ch)
@@ -465,6 +469,8 @@ The picture referred to by Joseph Banks is on the left page:
 * [Story: Tūranganui-a-Kiwa tribes: Lands and ancestors](https://teara.govt.nz/en/turanganui-a-kiwa-tribes/page-1)
 * [Story: Canoe traditions: Canoes of the East Coast](https://teara.govt.nz/en/canoe-traditions/page-6)
 * [Story: Māori foods – kai Māori](https://teara.govt.nz/en/maori-foods-kai-maori)
+* [Story: Te mahi kai – food production economics](https://teara.govt.nz/en/te-mahi-kai-food-production-economics)
+* [Types of food production](https://teara.govt.nz/en/te-mahi-kai-food-production-economics/page-3)
 * [Story: Ngā tupu mai i Hawaiki – plants from Polynesia](https://teara.govt.nz/en/nga-tupu-mai-i-hawaiki-plants-from-polynesia)
 * [Hue – gourd](https://teara.govt.nz/en/photograph/17491/hue-gourd)
 * [Page 5. Roles and mana](https://teara.govt.nz/en/te-mahi-kai-food-production-economics/page-5)
