@@ -33,7 +33,13 @@ Source: [Te Hiku Media on GitHub](https://github.com/TeHikuMedia/nga-kupu) / [Ou
 
 ##### New Zealand Herald
 
+###### March 6th, 2018
+
 * [Our Place Names](https://insights.nzherald.co.nz/article/our-place-names/)
+
+###### May 9th, 2018
+
+* [Battle of the macrons for Wikipedia spelling of Paekākāriki](https://www.nzherald.co.nz/nz/battle-of-the-macrons-for-wikipedia-spelling-of-paekakariki/GEI2NPE47RYW3QFWEJ4POWWFXQ/)
 
 ##### Te Hiku Media
 
@@ -47,6 +53,16 @@ Source: [Te Hiku Media on GitHub](https://github.com/TeHikuMedia/nga-kupu) / [Ou
 
 * [Te Hiku Media (Organization)](https://github.com/TeHikuMedia)
 * [Identify Māori words in text (Project)](https://github.com/TeHikuMedia/nga-kupu)
+
+##### The Guardian
+
+###### January 27th, 2020
+
+* [Wikipedia urged to add accents to Māori placenames amid resurgence in te reo](https://www.theguardian.com/world/2020/jan/27/wikipedia-maori-placenames-accents-macrons-te-reo-new-zealand)
+
+###### September 21st, 2021
+
+* [New Zealand Māori party launches petition to change country’s name to Aotearoa](https://www.theguardian.com/world/2021/sep/14/new-zealand-maori-party-launches-petition-to-change-countrys-name-to-aotearoa)
 
 [Cook 250 Research Notebook](../) > Māori Place Names  
 *[Previous](../p27-formal-claims/)* | Page 28 | *[Next](../p29-cook-chart/)*
