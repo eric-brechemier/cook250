@@ -64,5 +64,9 @@ Source: [Te Hiku Media on GitHub](https://github.com/TeHikuMedia/nga-kupu) / [Ou
 
 * [New Zealand Māori party launches petition to change country’s name to Aotearoa](https://www.theguardian.com/world/2021/sep/14/new-zealand-maori-party-launches-petition-to-change-countrys-name-to-aotearoa)
 
+###### October 6th, 2021
+
+* [Pygmy pipehorse discovered in New Zealand given Māori name in ‘world first’](https://www.theguardian.com/world/2021/oct/06/pygmy-pipehorse-discovered-in-new-zealand-given-maori-name-in-world-first)
+
 [Cook 250 Research Notebook](../) > Māori Place Names  
 *[Previous](../p27-formal-claims/)* | Page 28 | *[Next](../p29-cook-chart/)*
