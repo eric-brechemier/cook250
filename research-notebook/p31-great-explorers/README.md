@@ -138,6 +138,12 @@ the Great Explorers and contributed to their discoveries.
 
 * [The Great Explorers](https://thamesandhudson.com/the-great-explorers-forty-of-the-greatest-men-and-women-who-changed-our-perception-of-the-world-9780500293836)
 
+##### The Guardian
+
+###### October 12th, 2021
+
+* [Built on the bodies of slaves: how Africa was erased from the history of the modern world](https://www.theguardian.com/news/2021/oct/12/africa-slaves-erased-from-history-modern-world)
+
 ##### The Mariners’ Museum and Park (Newport News, VA, USA)
 
 * [The Ages of Exploration](https://exploration.marinersmuseum.org/)
