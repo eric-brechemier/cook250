@@ -29,6 +29,12 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Treatyofwaitangi.jpg)
 * [Story: Treaty of Waitangi](https://teara.govt.nz/en/treaty-of-waitangi)
 * [Story: Te Rōpū Whakamana i te Tiriti o Waitangi](https://teara.govt.nz/en/waitangi-tribunal-te-ropu-whakamana)
 
+##### The Guardian
+
+###### October 16th, 2021
+
+* [‘Explosion of ideas’: how Māori concepts are being incorporated into New Zealand law](https://www.theguardian.com/world/2021/oct/17/explosion-of-ideas-how-maori-concepts-are-being-incorporated-into-new-zealand-law)
+
 ##### Wikipedia
 
 * [Treaty of Waitangi](https://en.wikipedia.org/wiki/Treaty_of_Waitangi)
