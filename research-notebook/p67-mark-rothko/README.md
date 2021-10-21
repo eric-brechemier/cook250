@@ -2,7 +2,7 @@
 
 ### Mark Rothko, Untitled (1952)
 
-
+![Mark Rothko, Untitled (1952)](pictures/100x148-WxHmm-mark-rothko-untitled-1952.jpg)  
 
 *Sold $66,245,000 by Christie's on May 13th, 2014*
 
