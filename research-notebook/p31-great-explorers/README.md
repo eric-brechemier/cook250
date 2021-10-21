@@ -144,6 +144,10 @@ the Great Explorers and contributed to their discoveries.
 
 * [Built on the bodies of slaves: how Africa was erased from the history of the modern world](https://www.theguardian.com/news/2021/oct/12/africa-slaves-erased-from-history-modern-world)
 
+###### October 20th, 2021
+
+* [Solar storm confirms Vikings settled in North America exactly 1,000 years ago](https://www.theguardian.com/science/2021/oct/20/vikings-settled-north-america-1000-years-ago-solar-storm)
+
 ##### The Mariners’ Museum and Park (Newport News, VA, USA)
 
 * [The Ages of Exploration](https://exploration.marinersmuseum.org/)
