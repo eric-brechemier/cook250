@@ -94,7 +94,7 @@ reimagined as a photo album.
 * [55: Captain Cook Legacy](p55-captain-cook-legacy/README.md)
 
 * [56: Cocacolonization](p56-cocacolonization/README.md)
-* 57: Coca-Cola: Celebrate
+* [57: Coca-Cola: Celebrate](p57-coca-cola-celebrate/README.md)
 
 * [58: Ambigram](p58-ambigram/README.md)
 * [59: James Cook Signature](p59-james-cook-signature/README.md)
@@ -109,7 +109,7 @@ reimagined as a photo album.
 * 65: La couleur, c'est la misère de la peinture
 
 * 66: New Zealand and Māori Colors
-* [67: Coca-Cola Logo Colors](p67-coca-cola-colors/README.md)s
+* [67: Mark Rothko](p67-mark-rothko/README.md)
 
 * 68: Paper Formats
 * 69: Grid
