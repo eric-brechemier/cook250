@@ -60,6 +60,10 @@ Source: [Te Hiku Media on GitHub](https://github.com/TeHikuMedia/nga-kupu) / [Ou
 
 * [Wikipedia urged to add accents to Māori placenames amid resurgence in te reo](https://www.theguardian.com/world/2020/jan/27/wikipedia-maori-placenames-accents-macrons-te-reo-new-zealand)
 
+###### September 17th, 2021
+
+* [How Māori women have reshaped New Zealand’s media through their native language](https://www.theguardian.com/world/2021/sep/18/how-maori-women-have-reshaped-new-zealands-media-through-their-native-language)
+
 ###### September 21st, 2021
 
 * [New Zealand Māori party launches petition to change country’s name to Aotearoa](https://www.theguardian.com/world/2021/sep/14/new-zealand-maori-party-launches-petition-to-change-countrys-name-to-aotearoa)
