@@ -109,3 +109,9 @@ Source: [Stuff](https://www.stuff.co.nz/opinion/107003588/time-to-tell-our-stori
 
 * [Te Ara – a history: Māori content, biculturalism and translation](https://teara.govt.nz/en/te-ara-a-history/page-5)
 * [Map of New Zealand with iwi](https://teara.govt.nz/en/map/45555/map-of-new-zealand-with-iwi)
+
+##### The Guardian
+
+###### November 26th, 2021
+
+* [Long fight for justice ends as New Zealand treaty recognises Moriori people](https://www.theguardian.com/world/2021/nov/26/long-fight-for-justice-ends-as-new-zealand-treaty-recognises-moriori-people)
