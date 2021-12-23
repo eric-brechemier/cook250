@@ -36,6 +36,10 @@ Source: [Museum of Contemporary Art, Australia](https://www.mca.com.au/artists-w
 
 * [Cooking the books](https://insidestory.org.au/cooking-the-books/)
 
+##### National Maritime Museum on FutureLearn
+
+* [Confronting Captain Cook: Memorialisation in museums and public spaces](https://www.futurelearn.com/courses/captain-cook)
+
 ##### RNZ Radio New Zealand
 
 ###### November 29th, 2018
