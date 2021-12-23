@@ -29,6 +29,10 @@ Source: [National Gallery of Victoria](https://www.ngv.vic.gov.au/explore/collec
 
 * [Welcome to the Captain Cook Society](https://www.captaincooksociety.com/)
 
+##### National Maritime Museum, UK on Future Learn
+
+* [Confronting Captain Cook: Memorialisation in museums and public spaces](https://www.futurelearn.com/courses/captain-cook)
+
 ##### RNZ Radio New Zealand
 
 ###### May 20th, 2019
