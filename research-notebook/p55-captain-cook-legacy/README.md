@@ -43,6 +43,10 @@ Source: [National Gallery of Victoria](https://www.ngv.vic.gov.au/explore/collec
 
 * [Iwi to receive message expressing regret for Māori killed in James Cook meeting](https://www.rnz.co.nz/news/te-manu-korihi/400095/iwi-to-receive-message-expressing-regret-for-maori-killed-in-james-cook-meeting)
 
+##### Royal Museums Greenwich
+
+* [Research guide N2: Captain James Cook](https://www.rmg.co.uk/collections/research-guides/research-guide-n2-captain-james-cook)
+
 ##### Smithsonian
 
 * [British Government ‘Expresses Regret’ for Māori Killed After James Cook’s Arrival in New Zealand](https://www.smithsonianmag.com/smart-news/british-government-expresses-regret-maori-killed-after-james-cooks-arrival-new-zealand-180973270/)
