@@ -38,6 +38,11 @@ Source: [Journal of Sydney Parkinson, SPL Hand Coloured Rare Book Collection](ht
 
 * [James Cook, Act I: The First Voyage](https://lib-dbserver.princeton.edu/visual_materials/maps/websites/pacific/cook1/cook1.html)
 
+##### Royal Museums Greenwich
+
+* [Chart of New Zealand explored in 1767 and 1770 by Liuet J Cook, Commander of His Majesty's Bark Endeavour](https://www.rmg.co.uk/collections/objects/rmgc-object-153953)
+* [Chart of New Zealand, explored in 1769 and 1770 by Lieut. I: Cook,Commander of His Majesty's Bark Endeavour](https://www.rmg.co.uk/collections/objects/rmgc-object-540782)
+
 ##### Wikimedia
 
 * [Cook new zealand](https://commons.wikimedia.org/wiki/File:Cook_new_zealand.jpg)
