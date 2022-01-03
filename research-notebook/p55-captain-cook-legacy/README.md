@@ -70,6 +70,7 @@ Source: [National Gallery of Victoria](https://www.ngv.vic.gov.au/explore/collec
 ##### Royal Museums Greenwich
 
 * [Research guide N2: Captain James Cook](https://www.rmg.co.uk/collections/research-guides/research-guide-n2-captain-james-cook)
+* [Pacific Encounters](https://www.rmg.co.uk/national-maritime-museum/attractions/sackler-gallery-pacific-encounters)
 
 ##### Smithsonian
 
