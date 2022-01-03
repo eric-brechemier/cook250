@@ -37,6 +37,14 @@ Source: [National Gallery of Victoria](https://www.ngv.vic.gov.au/explore/collec
 
 * [The Lighthouse by Michael Parekowhai](https://www.afar.com/places/the-lighthouse-by-michael-parekowhai-auckland)
 
+##### Captain Cook Birthplace Museum
+
+* [ It is housed in a purpose-built building close to the granite urn marking the site of Cook’s birthplace cottage in Stewart Park, Marton, Middlesbrough](https://www.captcook-ne.co.uk/ccbm/)
+
+##### Captain Cook Memorial Museum Whitby
+
+* [The Museum is in the 17th century house where he lodged as an apprentice when not at sea](https://www.cookmuseumwhitby.co.uk/)
+
 ##### Captain Cook Society
 
 * [Welcome to the Captain Cook Society](https://www.captaincooksociety.com/)
