@@ -2,6 +2,12 @@
 
 #### References
 
+##### Atlas Obscura
+
+* [Captain Cook Monument, Kealakekua, Hawaii](https://www.atlasobscura.com/places/captain-cook-monument)
+
+> A controversial memorial at the place where Captain Cook met his violent end.
+
 ##### Captain Cook Birthplace Museum
 
 * [ It is housed in a purpose-built building close to the granite urn marking the site of Cook’s birthplace cottage in Stewart Park, Marton, Middlesbrough](https://www.captcook-ne.co.uk/ccbm/)
