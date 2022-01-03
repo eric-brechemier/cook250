@@ -40,6 +40,10 @@ Source: [New Zealand Tourism](https://visuals.newzealand.com/asset/2558)
 
 * [Ta moko - significance of Māori tattoos](https://media.newzealand.com/en/story-ideas/ta-moko-significance-of-maori-tattoos/)
 
+##### Royal Museums Greenwich
+
+* [Captain Cook, Sir Joseph Banks and tattoos in Tahiti](https://www.rmg.co.uk/stories/topics/captain-cook-sir-joseph-banks-tattoos-tahiti)
+
 ##### Stuff
 
 ###### November 28th, 2019
