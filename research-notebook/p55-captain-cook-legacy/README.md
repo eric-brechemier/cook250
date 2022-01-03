@@ -14,9 +14,17 @@ Source: [National Gallery of Victoria](https://www.ngv.vic.gov.au/explore/collec
 
 #### More Images
 
+##### AFAR
+
+* [The Lighthouse by Michael Parekowhai](https://www.afar.com/places/the-lighthouse-by-michael-parekowhai-auckland)
+
 ##### Department of Conservation, New Zealand
 
 * [The Turanganui River, A Brief History, October 2006](https://www.doc.govt.nz/Documents/conservation/historic/by-region/echb/turanganui-river-history.pdf)
+
+##### our Auckland
+
+* [The Lighthouse lights up](https://ourauckland.aucklandcouncil.govt.nz/news/2017/02/the-lighthouse-michael-parekowhai/)
 
 ##### RNZ Radio New Zealand
 
@@ -25,6 +33,10 @@ Source: [National Gallery of Victoria](https://www.ngv.vic.gov.au/explore/collec
 
 #### References
 
+##### AFAR
+
+* [The Lighthouse by Michael Parekowhai](https://www.afar.com/places/the-lighthouse-by-michael-parekowhai-auckland)
+
 ##### Captain Cook Society
 
 * [Welcome to the Captain Cook Society](https://www.captaincooksociety.com/)
@@ -32,6 +44,10 @@ Source: [National Gallery of Victoria](https://www.ngv.vic.gov.au/explore/collec
 ##### National Maritime Museum, UK on Future Learn
 
 * [Confronting Captain Cook: Memorialisation in museums and public spaces](https://www.futurelearn.com/courses/captain-cook)
+
+##### our Auckland
+
+* [The Lighthouse lights up](https://ourauckland.aucklandcouncil.govt.nz/news/2017/02/the-lighthouse-michael-parekowhai/)
 
 ##### RNZ Radio New Zealand
 
