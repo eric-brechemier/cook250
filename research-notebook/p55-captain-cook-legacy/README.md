@@ -1,8 +1,35 @@
 ### Captain Cook Legacy
 
-![Landing of Captain Cook at Botany Bay, 1770]()
+![The apotheosis of Captain Cook](pictures/nla.obj-135692347-1.jpg)
 
-Source: [National Gallery of Victoria](https://www.ngv.vic.gov.au/explore/collection/work/5576/)
+Source: [National Library of Australia](https://catalogue.nla.gov.au/Record/2065859)
+
+> The Apotheosis of Captain Cook, 20 January 1794
+> Engraving published by John Thane on 20 January 1794 in London
+> after a design by Philippe Jacques de Loutherbourg
+> after a drawing of Karakakooa Bay by John Webber
+>
+> 31 x 21.9 cm
+
+#### More Images
+
+##### AFAR
+
+* [The Lighthouse by Michael Parekowhai](https://www.afar.com/places/the-lighthouse-by-michael-parekowhai-auckland)
+
+##### Art Gallery NSW, Australia
+
+* [The apotheosis of Captain Cook (1794)](https://www.artgallery.nsw.gov.au/collection/works/15.1992/)
+
+##### Department of Conservation, New Zealand
+
+* [The Turanganui River, A Brief History, October 2006](https://www.doc.govt.nz/Documents/conservation/historic/by-region/echb/turanganui-river-history.pdf)
+
+##### National Gallery of Victoria, Melbourne
+
+![Landing of Captain Cook at Botany Bay, 1770](pictures/EPhillipsFOX-LandingofC-Dd102353.jpg)
+
+* [Landing of Captain Cook at Botany Bay, 1770](https://www.ngv.vic.gov.au/explore/collection/work/5576/)
 
 > E. Phillips Fox
 > Landing of Captain Cook at Botany Bay, 1770 1902
@@ -12,16 +39,6 @@ Source: [National Gallery of Victoria](https://www.ngv.vic.gov.au/explore/collec
 > Gilbee Bequest, 1902
 > Photo: National Gallery of Victoria, Melbourne
 
-#### More Images
-
-##### AFAR
-
-* [The Lighthouse by Michael Parekowhai](https://www.afar.com/places/the-lighthouse-by-michael-parekowhai-auckland)
-
-##### Department of Conservation, New Zealand
-
-* [The Turanganui River, A Brief History, October 2006](https://www.doc.govt.nz/Documents/conservation/historic/by-region/echb/turanganui-river-history.pdf)
-
 ##### our Auckland
 
 * [The Lighthouse lights up](https://ourauckland.aucklandcouncil.govt.nz/news/2017/02/the-lighthouse-michael-parekowhai/)
@@ -30,6 +47,10 @@ Source: [National Gallery of Victoria](https://www.ngv.vic.gov.au/explore/collec
 
 * [Te Papa acquires painting from Cook voyage with 'portrayal of our tīpuna'](https://www.rnz.co.nz/news/national/389655/te-papa-acquires-painting-from-cook-voyage-with-portrayal-of-our-tipuna)
 * [Peter Ireland and the weight of Captain Cook](https://www.rnz.co.nz/national/programmes/standing-room-only/audio/2018689935/peter-ireland-and-the-weight-of-captain-cook)
+
+##### Royal Academy of Arts, UK
+
+* [The Apotheosis of Captain Cook (20 January 1794)](https://www.royalacademy.org.uk/art-artists/work-of-art/the-apotheosis-of-captain-cook)
 
 #### References
 
@@ -81,4 +102,10 @@ Source: [National Gallery of Victoria](https://www.ngv.vic.gov.au/explore/collec
 ##### Smithsonian
 
 * [British Government ‘Expresses Regret’ for Māori Killed After James Cook’s Arrival in New Zealand](https://www.smithsonianmag.com/smart-news/british-government-expresses-regret-maori-killed-after-james-cooks-arrival-new-zealand-180973270/)
+
+##### The Guardian
+
+###### January 18th, 2022
+
+* [How to kill a god: the myth of Captain Cook shows how the heroes of empire will fall](https://www.theguardian.com/news/2022/jan/18/how-to-kill-a-god-captain-cook-myth-shows-how-heroes-of-empire-will-fall)
 
