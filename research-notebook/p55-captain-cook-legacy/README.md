@@ -4,12 +4,11 @@
 
 Source: [National Library of Australia](https://catalogue.nla.gov.au/Record/2065859)
 
-> The Apotheosis of Captain Cook, 20 January 1794
-> Engraving published by John Thane on 20 January 1794 in London
-> after a design by Philippe Jacques de Loutherbourg
-> after a drawing of Karakakooa Bay by John Webber
->
-> 31 x 21.9 cm
+> The Apotheosis of Captain Cook, 20 January 1794  
+> 31 x 21.9 cm  
+> Engraving published by John Thane on 20 January 1794 in London  
+> after a design by Philippe Jacques de Loutherbourg  
+> after a drawing of Karakakooa Bay by John Webber  
 
 #### More Images
 
@@ -31,13 +30,13 @@ Source: [National Library of Australia](https://catalogue.nla.gov.au/Record/2065
 
 * [Landing of Captain Cook at Botany Bay, 1770](https://www.ngv.vic.gov.au/explore/collection/work/5576/)
 
-> E. Phillips Fox
-> Landing of Captain Cook at Botany Bay, 1770 1902
-> oil on canvas
-> 192.2 × 265.4 cm
-> National Gallery of Victoria, Melbourne
-> Gilbee Bequest, 1902
-> Photo: National Gallery of Victoria, Melbourne
+> E. Phillips Fox  
+> Landing of Captain Cook at Botany Bay, 1770 1902  
+> oil on canvas  
+> 192.2 × 265.4 cm  
+> National Gallery of Victoria, Melbourne  
+> Gilbee Bequest, 1902  
+> Photo: National Gallery of Victoria, Melbourne  
 
 ##### our Auckland
 
