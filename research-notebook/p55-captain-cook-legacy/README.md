@@ -93,10 +93,11 @@ Source: [National Library of Australia](https://catalogue.nla.gov.au/Record/2065
 
 * [Iwi to receive message expressing regret for Māori killed in James Cook meeting](https://www.rnz.co.nz/news/te-manu-korihi/400095/iwi-to-receive-message-expressing-regret-for-maori-killed-in-james-cook-meeting)
 
-##### Royal Museums Greenwich
+##### Royal Museums Greenwich, UK
 
 * [Research guide N2: Captain James Cook](https://www.rmg.co.uk/collections/research-guides/research-guide-n2-captain-james-cook)
 * [Pacific Encounters](https://www.rmg.co.uk/national-maritime-museum/attractions/sackler-gallery-pacific-encounters)
+* [The Apotheosis of Captain Cook](https://www.rmg.co.uk/collections/objects/rmgc-object-107046)
 
 ##### Smithsonian
 
