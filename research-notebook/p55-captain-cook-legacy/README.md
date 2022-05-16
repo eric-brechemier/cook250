@@ -51,6 +51,10 @@ Source: [National Library of Australia](https://catalogue.nla.gov.au/Record/2065
 
 * [The Apotheosis of Captain Cook (20 January 1794)](https://www.royalacademy.org.uk/art-artists/work-of-art/the-apotheosis-of-captain-cook)
 
+##### Royal Museums Greenwich, UK
+
+* [The Apotheosis of Captain Cook](https://www.rmg.co.uk/collections/objects/rmgc-object-107046)
+
 #### References
 
 ##### AFAR
@@ -97,7 +101,6 @@ Source: [National Library of Australia](https://catalogue.nla.gov.au/Record/2065
 
 * [Research guide N2: Captain James Cook](https://www.rmg.co.uk/collections/research-guides/research-guide-n2-captain-james-cook)
 * [Pacific Encounters](https://www.rmg.co.uk/national-maritime-museum/attractions/sackler-gallery-pacific-encounters)
-* [The Apotheosis of Captain Cook](https://www.rmg.co.uk/collections/objects/rmgc-object-107046)
 
 ##### Smithsonian
 
