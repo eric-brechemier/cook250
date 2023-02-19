@@ -115,3 +115,7 @@ Source: [Stuff](https://www.stuff.co.nz/opinion/107003588/time-to-tell-our-stori
 ###### November 26th, 2021
 
 * [Long fight for justice ends as New Zealand treaty recognises Moriori people](https://www.theguardian.com/world/2021/nov/26/long-fight-for-justice-ends-as-new-zealand-treaty-recognises-moriori-people)
+
+###### November 2nd, 2021
+
+* [New Zealand’s children will all soon study the country’s brutal history – it’s not before time](https://www.theguardian.com/world/commentisfree/2021/nov/02/new-zealands-children-will-all-soon-study-the-countrys-brutal-history-its-not-before-time)
