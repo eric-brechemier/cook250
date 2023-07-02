@@ -72,5 +72,9 @@ Source: [Te Hiku Media on GitHub](https://github.com/TeHikuMedia/nga-kupu) / [Ou
 
 * [Pygmy pipehorse discovered in New Zealand given Māori name in ‘world first’](https://www.theguardian.com/world/2021/oct/06/pygmy-pipehorse-discovered-in-new-zealand-given-maori-name-in-world-first)
 
+###### June 7th, 2023
+
+* [New Zealand political battle erupts over bilingual road signs](https://www.theguardian.com/world/2023/jun/07/insults-new-zealanders-iq-political-battle-erupts-over-bilingual-road-signs)
+
 [Cook 250 Research Notebook](../) > Māori Place Names  
 *[Previous](../p27-formal-claims/)* | Page 28 | *[Next](../p29-cook-chart/)*
