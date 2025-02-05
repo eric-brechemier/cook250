@@ -31,6 +31,14 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/File:Treatyofwaitangi.jpg)
 
 ##### The Guardian
 
+###### February 5th, 2025
+
+* [Māori protesters turn their backs on government ministers at Waitangi Day event](https://www.theguardian.com/world/2025/feb/05/maori-protesters-turn-backs-waitangi-day-event-act-party-david-seymour-ntwnfb)
+
+###### February 5th, 2025
+
+* [Tens of thousands march on NZ parliament in protest against Māori treaty bill](https://www.theguardian.com/world/2024/nov/19/tens-of-thousands-to-converge-on-nz-parliament-as-march-to-protest-controversial-maori-rights-bill-reaches-capital)
+
 ###### October 16th, 2021
 
 * [‘Explosion of ideas’: how Māori concepts are being incorporated into New Zealand law](https://www.theguardian.com/world/2021/oct/17/explosion-of-ideas-how-maori-concepts-are-being-incorporated-into-new-zealand-law)
