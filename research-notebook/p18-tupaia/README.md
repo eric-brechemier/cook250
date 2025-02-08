@@ -101,6 +101,12 @@ Downloaded from: [British Library Media](https://www.bl.uk/britishlibrary/~/medi
 
 * [Tupaia](https://www.nzgeo.com/stories/tupaia/)
 
+#### The Observer
+
+##### February 8th, 2025
+
+* [Groundbreaking botanical discoveries on Captain Cook voyage were thanks to Indigenous people](https://www.theguardian.com/world/2025/feb/08/groundbreaking-botanical-discoveries-on-captain-cook-voyage-were-thanks-to-indigenous-people)
+
 ##### Royal Geographical Society, UK
 
 * [The Indigenous map, by Joy Slappnig](https://www.rgs.org/about/our-collections/collaborative-research-on-the-collections/%E2%80%8Bthe-indigenous-map-native-information,-ethnograp/)
